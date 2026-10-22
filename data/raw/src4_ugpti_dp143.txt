@@ -1,0 +1,2266 @@
+        REGIONAL ELEVATOR SURVEY:
+GRAIN TRANSPORTATION AND INDUSTRY TRENDS
+        FOR GREAT PLAINS ELEVATORS
+
+
+
+
+                   Kimberly Vachal
+                   Denver Tolliver
+
+       Upper Great Plains Transportation Institute
+            North Dakota State University
+
+
+
+
+                      August 2001
+                                               TABLE OF CONTENTS
+
+
+INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+     Objective . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+     Survey Development and Application . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+ELEVATOR INDUSTRY CHARACTERISTICS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+     Grain Storage and Handle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+     Rail Access and Truck Ownership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+     Non-Grain Sales and Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+     Business Structure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+GRAIN MOVEMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+     Grain Procurement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+     Grain Distribution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+     Factors Influencing Modal Selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+     Direct Sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+     Local Truck Market . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+     Rail Freight . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+            Rail Freight Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+            Rail Service . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+
+ELEVATOR INDUSTRY EXPECTATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+
+SUMMARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+
+APPENDIX A. COMPOSITION OF GRAIN SHIPMENTS FOR EACH STATE,
+     BASED ON SURVEY RESPONSES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+
+APPENDIX B. ELEVATOR DRAW AREA, BY COMMODITY AND STATE . . . . . . . 48
+     Distribution of Origins for Corn Bushels Handled by Elevators, by State . . . . . . . . 48
+     Distribution of Origins for Soybean Bushels Handled by Elevators, by State . . . . . . 48
+     Distribution of Origins for Wheat Bushels Handled by Elevators, by State . . . . . . . 49
+     Distribution of Origins for Other Commodity Bushels Handled by Elevators,
+            by State . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+
+APPENDIX C. TRUCK TYPES USED IN GRAIN DELIVERIES TO ELEVATOR,
+     BY STATE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+     Equipment Employed in Inbound Corn Deliveries, by State . . . . . . . . . . . . . . . . . . . 50
+     Equipment Employed in Inbound Soybean Deliveries, by State . . . . . . . . . . . . . . . . 50
+     Equipment Employed in Inbound Wheat Deliveries, by State . . . . . . . . . . . . . . . . . . 51
+     Equipment Employed in Inbound Other Commodities Deliveries, by State . . . . . . . 51
+
+
+                                                                  i
+APPENDIX D. MODAL DISTRIBUTION OF GRAIN SHIPMENTS, BY
+     COMMODITY AND STATE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+     Modal Distribution of Outbound Corn Shipments, by State . . . . . . . . . . . . . . . . . . . 52
+     Modal Distribution of Outbound Soybeans Shipments, by State . . . . . . . . . . . . . . . 52
+     Modal Distribution of Outbound Wheat Shipments, by State . . . . . . . . . . . . . . . . . . 53
+     Modal Distribution of Outbound Other Commodity Shipments, by State . . . . . . . . 53
+
+APPENDIX E. DIRECT SALES OF GRAIN SHIPMENTS FOR EACH STATE,
+     BASED ON SURVEY RESPONSES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+
+APPENDIX F. LOCAL TRUCK RATES, BY STATE . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+
+APPENDIX G. FACTORS INFLUENCING MODAL SELECTION FOR GRAIN
+     SHIPMENTS, BY STATE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+
+REFERENCES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+
+
+
+
+                                                                ii
+                                          LIST OF FIGURES
+
+
+Figure 1.    States Participating in the Regional Elevator Transportation Survey . . . . . . . 2
+Figure 2.    Elevator Handle and Capacity, Average by State                         ...................5
+Figure 3.    Elevator Business Structure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Figure 4.    Distribution of Elevator Handle, by Delivery Distance . . . . . . . . . . . . . . . . . 17
+Figure 5.    Composition of Equipment Employed for Grain Deliveries Made to
+             Great Plains Elevators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Figure 6.    Mode for Grain Shipments, by Commodity . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Figure 7.    Modal Distribution of Grain Shipments, by State . . . . . . . . . . . . . . . . . . . . . 28
+Figure 8.    Direct Sales as Share of All Sales, by Commodity . . . . . . . . . . . . . . . . . . . . 31
+Figure 9     Direct Sales in Marketing, Among States . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Figure 10.   Share of Shippers Using Alterative Rail Programs, for Shippers
+             In-House Purchase and Management of Rail Freight . . . . . . . . . . . . . . . . . . 36
+Figure 11.   Distribution of Bushels Among Alternative Rail Programs, for
+             Shippers with In-House Management and Purchase of Rail Freight . . . . . . 38
+Figure 12.   Distribution of Elevator Rating of Industry Issues . . . . . . . . . . . . . . . . . . . . . 42
+
+
+
+
+                                                       iii
+                                                  LIST OF TABLES
+
+1.    Distribution of Survey Responses, by State . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.    Turnover Ratio, for State and Individual Elevators . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+3.    Distribution of Elevator Shipper Size, by State . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+4.    Elevator Operations that Include Product and Service Sales, Each State . . . . . . . . . 11
+5.    Business Structure of Elevators, by State . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+6.    Inbound Grain - FOB Purchases as a Percent of Grain Handled, by State . . . . . . . . 18
+7.    Share of Elevators Drawing Majority of Grain Handled from Local Market
+      (within a 14-Mile Radius of Elevator), by State . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+8.    Share of Bushels Drawn from within a 14-Mile Radius of Elevator, by
+      Shipper Size . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+9.    Equipment Employed in Inbound Grain Deliveries, Distribution of Bushels
+      by State . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+10.   Inbound Grain Delivery made via Semi-Truck and Trailer, by State . . . . . . . . . . . . 23
+11.   Inbound Grain Delivery made via Semi-Truck and Trailer, by Capacity . . . . . . . . . 24
+12.   Inbound Grain Delivery made via Semi-Truck and Trailer, by Shipper Size . . . . . . 25
+13.   Mode for Grain Distribution, by Capacity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+14.   Mode for Grain Distribution, by Shipper Size . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+15.   Factors Influencing Modal Selection for Grain Shipments . . . . . . . . . . . . . . . . . . . . 30
+16.   Local Truck Rates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+17.   In-house Management and Purchase of Rail Freight, by State . . . . . . . . . . . . . . . . . 35
+18.   Ranking and Rating of Rail Service Factors by Rail Shippers . . . . . . . . . . . . . . . . . 39
+19.   Factors Influencing Modal Selection for Grain Shipments . . . . . . . . . . . . . . . . . . . . 40
+
+
+
+
+                                                                iv
+                                       INTRODUCTION
+
+
+       Local grain elevators are a critical juncture in the grain marketing system. These
+
+facilities, estimated to be more than 8,000, accumulate grain in quantities that make longer-
+
+distance markets economically feasible.1 In this role, they provide various marketing,
+
+production, and crop conditioning services. The prices offered and investment decisions
+
+made by elevator operators signal trends or changes in the producer-to-consumer marketing
+
+patterns. Identifying and understanding these signals is important to rural infrastructure
+
+planning and agricultural sector development.
+
+
+
+                                            Objective
+
+       One potential means for gaining insight into the current state of the elevator industry,
+
+and into expectations for future trends, is through a survey. The objective of this study is to
+
+profile the transportation and industry characteristics of the elevators located in the Great
+
+Plains region of the United States. Transportation characteristics consider farm-to-elevator
+
+procurement and outbound elevator-to-market movements. In addition, elevator managers
+
+were asked to describe their operations and offer opinions regarding importance of issues
+
+pertinent to the future of the elevator industry.
+
+
+
+       1
+        The population of “licensed grain storage facilities” includes local grain elevators,
+terminal grain facilities, export facilities, and processing plants with adjacent storage.
+Therefore, a more applicable definition of the “local grain elevator” population may be the
+USDA Uniform Grain & Rice Storage Agreement participants (UGRSA). The UGRSA
+allows elevators to handle Commodity Credit Corporation (CCC) grain. Under the UGRSA
+elevators submit agreements to license individual facilities. Approximately 8,000 to 9,000
+UGRSA agreements are completed each year (USDA).
+
+                                                    1
+                           Survey Development and Application
+
+        The Upper Great Plains Transportation Institute extended an invitation to nine state
+
+elevator organizations in developing and distributing the survey. The purpose was two-fold.
+
+First, survey costs would be lowered as state organizations incurred survey mailing costs,
+
+allowing the inclusion of a larger region in the project. Second, the state organizations
+
+suggested that response from a mailing done by their organizations may elicit a higher
+
+response rate than a mailing done by a third party.
+
+
+
+
+                     Figure 1.      States Participating in the Regional
+                                    Elevator Transportation Survey
+
+       A survey was drafted by the Upper Great Plains Transportation Institute, with the
+
+assistance of nine state elevator organizations. A group letter from organizations
+
+participating in the survey also was composed as a supplement to the survey mailing. To
+
+encourage participation, respondents were offered the opportunity to receive a copy of the
+
+survey results. Nine state elevator organizations, including Colorado, Kansas, Minnesota,
+
+Montana, Nebraska, North Dakota, Oklahoma, South Dakota, and Texas, cooperated in a test
+
+
+                                               2
+mailing of the survey in December 2000. To test the survey, each state organization was
+
+asked to distribute surveys to two members of their board. Based on these responses, the
+
+Upper Great Plains Transportation Institute made minor revisions to survey content and
+
+format. The final mailing of the revised survey, along with the group letter and results
+
+request card, was completed by state organizations in February 2001.2 The state
+
+organizations mailed a total of 2,604 surveys to their members. A total of 518 usable survey
+
+responses were returned by elevators from the nine participating states.3 This level of
+
+response is satisfactory considering the length and scope of the survey.
+
+       Table 1.         Distribution of Survey Responses, by State
+                                                            Responses      Response
+       State                     Surveys Mailed             Received         Rate
+       Colorado                        119                     30             25%
+       Kansas                          428                     89             21%
+       Minnesota                       190                     57             30%
+       Montana                         119                     27             23%
+       Nebraska                        380                     68             18%
+       North Dakota                    428                     103            24%
+       Oklahoma                        285                     50             18%
+       South Dakota                    180                     34             19%
+       Texas                           475                     60             13%
+
+                        Total         2,604                    518            20%
+
+
+
+
+       2
+           South Dakota distributed surveys in June 2001.
+       3
+        Two respondents indicated they were flour mills. These responses were eliminated
+from the analysis.
+
+                                                3
+Response rates from individual states range from a high of 30 percent from Minnesota
+
+elevators, to a low of 13 percent from Texas elevators. Responses were received from 25, 24,
+
+and 23 percent of the elevators in Colorado, North Dakota, and Montana, respectively.
+
+Response rates were slightly lower, between 21 and 18 percent, for Kansas, South Dakota,
+
+Nebraska, and Oklahoma.
+
+
+
+                    ELEVATOR INDUSTRY CHARACTERISTICS
+
+       Understanding and predicting grain marketing patterns begins with a basic knowledge
+
+of industry characteristics. Some key characteristics considered in defining the elevator
+
+industry in the Great Plains were activity, size, and business structure. This information
+
+provides some background for understanding variations in elevator marketing and investment
+
+decisions.
+
+                                 Grain Storage and Handle
+
+       Other factors such as size, non-grain merchandising activities, truck ownership, and
+
+rail access also may provide insights into potential impacts of local and national agricultural
+
+policy changes. Elevator size may be indicated by storage capacity and average annual grain
+
+handle. Average capacity for survey respondents is 2,217 thousand bushels and average
+
+handle is 4,577 thousand bushels. As expected, a greater deviation from the mean is
+
+indicated for handle than for capacity, as the standard deviation for handle is 12,114 thousand
+
+bushels and for storage is 3,902 thousand bushels. Elevators in South Dakota report the
+
+highest annual grain handle, with an average 8,520 thousand bushels. Among states
+
+considered in the study, the lowest per facility is in Montana at 2,573 thousand bushels per
+
+
+                                               4
+year. Texas facilities report the highest average storage capacity, with 3,264 thousand
+
+bushels per facility. The lowest storage capacity, as with handle, is in Montana. Elevators in
+
+Montana report just more than one-half a million bushels of storage capacity – 503,815
+
+bushels, on average.
+
+
+
+
+        Figure 2.      Elevator Handle and Capacity, Average by State
+
+
+
+       Storage capacity is considered a basic elevator characteristic. Thus, differences and
+
+similarities in elevator transportation and marketing characteristics, based on storage
+
+capacity, may provide insight into the industry. Elevators are grouped among four ranges of
+
+storage capacity so elevator transportation and marketing patterns can be assessed, based on
+
+storage capacity. The four ranges for capacity are:
+
+
+
+
+                                               5
+                                                                      Distribution of
+                                                                       Respondents
+          Capacity A     = 0 to 489,999 Bushels                             125
+          Capacity B     = 490,000 to 999,999 Bushels                       122
+          Capacity C     = 1,000,000 to 2,199,999 Bushels                   129
+          Capacity D     = 2,200,000 Bushels and Greater                    126
+
+
+       Intensity of use and overall activities of facilities may be indicated not only by
+
+volume, but also by the number of times a facility turns its storage capacity in handling grain
+
+volumes during the year. Based on statewide summaries of handle and storage capacity,
+
+elevators turn over their storage capacity 2.7 times per year. Elevators in Montana are the
+
+most intense users of capacity, turning volume 5.1 times per year. Montana turns its storage
+
+capacity 2.2 times more than the average for all states considered in the survey. South
+
+Dakota is second highest among states, considering turnover ratio, as the elevators in the state
+
+turn their 2,081 thousand bushels of storage more than 4.1 times per year. North Dakota has
+
+a similar rate of turnover as their average annual handle of 4,043 thousand bushels generates
+
+average turnover of storage capacity equal to 4.0.
+
+       Minnesota is at the average for all states with its 2.7 turnover ratio, as its facilities
+
+handle an average 6,754 thousand bushels each year. Turnover ratios for Kansas, Oklahoma,
+
+and Nebraska are similar at 1.8, 1.7, and 1.6, respectively. On average, each facility in
+
+Kansas handles 4,868 thousand bushels per year. Oklahoma elevators each handle an average
+
+3,512 thousand bushels. Average handle in Nebraska is higher at 5,713 thousand bushels per
+
+
+
+
+                                                 6
+year. As illustrated, elevator size can vary depending on characteristics used to describe the
+
+elevator industry.
+
+          The efficiency of individual facilities in states and the concentration of volume in
+
+these facilities varies. A measure of average turnover ratios (weighted by handle) among
+
+elevators in each state is provided to account for these variations. Elevators in Montana have
+
+the highest turnover, with an average of 7.8. Turnovers range from this high to a low of 2.2
+
+for Nebraska elevators. Elevators in Oklahoma and Texas are second and third, turning
+
+volumes over six times each year. The rather large difference between the state and weighted
+
+    Table 2.            Turnover Ratio, for State and Individual Elevators
+                                                          State                   Weighted Average for
+    State                         Responses             Turnover1                  Elevators in State2
+    Colorado                          28                   2.3                            4.8
+    Kansas                            87                   1.8                            2.9
+    Minnesota                         57                   2.7                            3.5
+    Montana                           25                   5.1                            7.8
+    Nebraska                          65                   1.6                            2.2
+    North Dakota                      95                   4.0                            5.6
+    Oklahoma                          48                   1.7                            6.5
+    South Dakota                      30                   4.1                            4.1
+    Texas                             55                   1.0                            6.2
+
+                    Average                                      2.7                      4.1
+    1
+        Total Sta te Handle /Total State Storage C apacity
+    2
+        Average of Individua l Elevator T urnover R atios, We ighted by H andle
+
+
+
+
+average turnovers for these states suggest that volume tends to be concentrated in fewer,
+
+more active facilities, with a large population of relatively less active low volume facilities
+
+maintaining a substantial segment of the storage capacity. These characteristics are important
+
+
+                                                             7
+to consider in discussing impacts of policies and market phenomenon that promote elevator
+
+rationalization and on-farm storage investments.
+
+
+
+                              Rail Access and Truck Ownership
+
+       In addition to the influence of product sales and application services on the elevator
+
+industry, rail access, and truck ownership are important factors in understanding grain
+
+merchandising decisions of managers. Given its qualities of relatively high homogeneity and
+
+low product value, grain typically is most efficiently handled in bulk quantities. It is assumed
+
+that most elevators in the survey region had rail access when they were established, as
+
+railroads used these facilities to gather grain delivered from the local area by horse and
+
+wagon. Advancements in technology and marketing, as well as business decisions of
+
+railroads and producers, have contributed to a rationalization of rail and elevator networks.
+
+One-quarter of elevators responding to the survey reported having no direct access to rail.
+
+For those facilities with access to rail, a key factor in understanding economics in marketing
+
+decisions is the level of access.
+
+       The level of access is termed “shipper size” for purposes of this report. The definition
+
+of shipper size is based on the track space an elevator has for spotting a delivery of rail cars.
+
+Five levels of shipper size are defined, based on the rate differentials railroads offer in public
+
+rate tariffs. The shipper size definitions are:
+
+
+
+
+                                                  8
+                               No Rail       =    No Rail Access
+                               Single Car    =    1 to 24 Cars
+                               Multicar      =    25 to 49 Cars
+                               Unit Train    =    50 to 99 Cars
+                               Shuttle       =    100 Cars or More
+
+        Single car shippers form the largest component of the elevator industry, based on
+
+number of facilities, with 35 percent of elevators reporting ability to spot 1 to 24 rail cars.
+
+No rail facilities were second, in number, among levels of shippers size, as noted previously,
+
+with 25 percent. The prevalence of multicar and unit train facilities were similar, as 14 and
+
+
+
+Table 3.        Distribution of Elevator Shipper Size, by State
+State              Responses   No Rail      Single Car     Multicar     Unit Train       Shuttle
+Colorado              30        17%            50%          10%           17%              7%
+Kansas                88        32%            52%           9%            1%              6%
+Minnesota             57        26%            32%          14%           15%             12%
+Montana               25         7%            40%           0%           48%              4%
+Nebraska              65        29%            26%          10%           19%             14%
+North Dakota          97        19%            28%          22%           25%              6%
+Oklahoma              49        36%            36%          16%            4%              8%
+South Dakota          32        53%             6%           9%           18%             15%
+Texas                 57        30%            40%          23%            5%              1%
+             All     516         28%             35%          14%           15%            8%
+
+
+
+15 percent of the facilities could spot the larger trains, respectively. Shuttle train, a relatively
+
+new level of shipper size, is available at 8 percent of the elevator locations, based on survey
+
+responses.
+
+
+
+                                                  9
+        Single car facilities are the most prominent shipper size for seven of the nine states.
+
+In the two remaining states, Nebraska and South Dakota, no-rail elevators are most common
+
+among elevators, considering shipper size. These states also have the largest percentage of
+
+facilities attributed to the shuttle type shipper. Fourteen percent of Nebraska respondents and
+
+15 percent of South Dakota respondents have track space to spot delivery of 100 rail cars or
+
+more. Montana and North Dakota elevator industries have the largest investment in unit train
+
+facilities, considering numbers among the alternative shipper sizes. Factors such as distance
+
+to market, rail competition, and truck capacity influence the elevator decisions to invest in
+
+rail capacity. Structure of the elevator industry, considering rail access, varies among states
+
+queried in the survey (Table 3). Level of rail access and its relationship to elevator marketing
+
+patterns is considered in detail later in the report.
+
+        Truck ownership also may be influential in elevator marketing patterns. Based on
+
+survey responses, 44 percent of elevators in the nine-state region own at least one semi-truck
+
+and trailer. For facilities with at least one truck, truck ownership peaks at 87 trucks. The
+
+average number of trucks among these facilities is four. Truck ownership is a consideration
+
+in discussing local grain marketing patterns.
+
+
+
+                                 Non-Grain Sales and Services
+
+        Grain merchandising is not the only activity of elevators, as providing other products
+
+and services may allow an elevator to spread risk by diversifying business interests, attracting
+
+and retaining customers, and better managing its human resources. Involvement in other
+
+activities may influence the marketing decisions of elevators. For instance, if an elevator is a
+
+
+                                                 10
+supplier of bulk fertilizer, the fertilizer may offer a back haul opportunity for truck deliveries
+
+of grain to other markets. The three agricultural products/services considered in this survey
+
+are chemical product sales, fertilizer product sales, and product application services.
+
+
+
+
+       Table 4.        Elevator Operations that Include Product and Service
+                       Sales, Each State
+                                              Chemical       Fertilizer     Application
+       State                    Responses       Sales          Sales         Services
+       Colorado                     27          43%            47%             40%
+       Kansas                       88          75%            79%             66%
+       Minnesota                    57          75%            72%             67%
+       Montana                      25          52%            48%             41%
+       Nebraska                     65          56%            60%             49%
+       North Dakota                 97          63%            67%             45%
+       Oklahoma                     49          86%            88%             74%
+       South Dakota                 32          82%            79%             76%
+       Texas                        57          50%            52%             32%
+                   Average         518           66%            68%             54%
+
+
+
+       Approximately two-thirds of the respondents sold chemical and fertilizer products.
+
+Slightly more than half, 54 percent, offered application services for the products. Based on
+
+the products and services considered in the survey, Oklahoma elevators indicated the most
+
+diversity. Approximately 86 and 88 percent of respondents sell chemicals and fertilizer,
+
+respectively, and 74 percent provide application services. Colorado elevators indicated less
+
+diversification than other states with approximately 45 percent of elevators selling chemical
+
+and fertilizer products, and 40 percent providing application services.
+
+
+
+
+                                                11
+                                     Business Structure
+
+       Six main forms of business organization were identified as potential for elevator
+
+business structure: closed corporation, line-house of major grain company, line-house of
+
+regional grain company, locally owned and controlled corporation, partnership, and sole
+
+proprietor. A majority of the respondents, 52 percent, reported to be operating as locally
+
+owned and controlled cooperatives. The next most common business structure is closed
+
+corporation at 146, or 28 percent of the elevators operate under this business structure (Figure
+
+3). Approximately 6 percent of the respondents were sole proprietorships. Eight percent of
+
+the elevators reported to be line-houses of major grain companies (4 percent) or regional
+
+
+
+
+    Figure 3.       Elevator Business Structure
+
+
+                                              12
+cooperatives (4 percent). Partnership structure is least common among the six business
+
+structures with 16 respondents, or 3 percent, functioning under this arrangement. In addition,
+
+a few elevators did indicate they were organized as limited liability corporation structures by
+
+listing L.L.C. as “Other” business structure in Question 8.
+
+       Ownership structures for elevators in each state vary. In Colorado, two-thirds of the
+
+elevators are divided evenly between the locally owned cooperative and closed corporation
+
+alternatives. Among elevator facilities in Kansas, 59 percent are locally owned and
+
+controlled cooperatives. Thirty percent of the elevators in Kansas are closed corporations.
+
+Elevator operators in Minnesota reported to operate under three business structures: local
+
+cooperative, sole proprietorship, and closed corporation. Three-fourths of the elevators are
+
+local cooperatives, with the balance split 21 and 4 percent between the closed corporation and
+
+sole proprietor structures, respectively. Montana deviates from other elevators when business
+
+structure is characterized, with line-houses of major grain companies the most common
+
+response. Closed corporation and line-house of major grain companies are next in frequency,
+
+with 44 percent of the elevators divided equally between these structures. Locally owned
+
+cooperatives, the most common overall survey response, is fourth among prevalence of
+
+business structures in Montana elevators.
+
+       North Dakota elevators report a strong presence of locally owned and controlled
+
+cooperatives, 48 percent. Closed corporation is second in frequency among business
+
+operating structures at 22 percent. Line-house of major grain companies and sole
+
+proprietorship each account for 10 percent, respectively. Similar business structures are
+
+found in Nebraska with 47 percent of the respondents reporting to be local cooperatives and
+
+
+                                              13
+32 percent closed corporations. The next most common structure in Nebraska is line-house
+
+of major grain companies at 7 percent A majority of elevators in Oklahoma reported to be
+
+locally owned and controlled cooperatives, 67 percent. Closed corporation is the next most
+
+common form of ownership. None of the elevators in Oklahoma are line-houses for regional
+
+or major grain companies.
+
+         South Dakota elevators operate primarily as locally owned and controlled
+
+cooperatives, based on survey responses with 79 percent reporting this structure. Elevators in
+
+Texas, as with Colorado, report closed corporation as the most prevalent form of business
+
+structure (48 percent). Locally owned cooperatives are next among the business structures of
+
+Texas elevators at 32 percent. The similarities and distinctions among elevator business
+
+structures in each state provide a piece of information that is useful in understanding how
+
+policy might affect elevator networks among states in the region west of the Mississippi
+
+River.
+
+
+
+
+                                              14
+Table 5.        Business Structure of Elevators, by State
+                                                        Locally
+                                     Line-      Line Owned &
+                            Closed House of House of Operated              Sole
+                 Responses Corpora- Mj. Grain Regional Cooper-  Partner- Propriet-
+State            Received    tion     Co.     Grain Co. ative    ship     orship      Other
+
+Colorado            30      33%        17%             3%   33%     3%       6%        3%
+Kansas              89       29%        1%             0%   59%     3%       3%        3%
+Minnesota           57       21%        0%             0%   75%     0%       4%        0%
+Montana             27       22%       29%         22%      19%     4%       4%        0%
+Nebraska            68       32%        7%             4%   47%     1%       6%        1%
+North Dakota       103       23%        3%         10%      48%     6%      10%        1%
+Oklahoma            49       27%        0%             0%   67%     2%       4%        0%
+South Dakota        34       14%        3%             0%   80%     0%       3%        0%
+Texas               60      48%         0%             3%   32%     3%       8%        5%
+
+
+                                    GRAIN MOVEMENT
+
+         Three major grains considered in this project are corn, soybeans, and wheat. These
+
+grains accounted for more than 90 percent of U.S. grain and oilseed production in recent
+
+years (NASS). Therefore, understanding the marketing characteristics and shipment patterns
+
+associated with these commodities provides an excellent base for discussing policy and
+
+infrastructure needs of the rural grain sector.
+
+         Survey respondents from the Great Plains region reported an aggregate annual grain
+
+handle of 2.5 billion bushels. This volume is equal to approximately 16 percent of the total
+
+U.S. grain production. Among the survey responses, corn accounts for the largest volume
+
+among the commodities, followed by wheat and then soybeans. The average handle per
+
+
+
+                                                  15
+elevator is 4,979 thousand bushels. The bushel total is comprised of 36 percent corn, 35
+
+percent wheat, 14 percent soybean, and 15 percent other commodities. Composition of
+
+bushels for individual states, based on survey responses, is summarized in Appendix A
+
+       As these bushels move from field to consumer, the elevator plays a key role in
+
+linking supply and demand. The shipment characteristics of the elevator industry are
+
+considered in two segments. The first segment is the farm-to-elevator or procurement move.
+
+The second segment is the elevator-to-user distribution. The user may be associated with
+
+processing, feeding, or exporting the raw grain product. These two segments are distinct,
+
+surrounded by unique equipment and infrastructure demands and market phenomena, yet are
+
+interrelated in their goal to move product to market in an efficient and economical manner.
+
+
+
+                                    Grain Procurement
+
+       With regard to the farm-to-elevator movement, elevators were asked to define the
+
+distribution of origins for the grain they accumulate. They also were asked to describe the
+
+truck equipment farmers used for deliveries from the farm origin to the elevator. In addition,
+
+they were asked if they purchased grain FOB (free on board) the farm. The elevator is
+
+responsible for the delivery from farm-to-elevator for FOB farm grain purchases.
+
+
+
+
+                                              16
+       Elevators reported that they gathered more than one-half the bushels handled from
+
+within 15 miles of their elevator. On average, elevators purchase 33 percent of the grain they
+
+handle from a draw area defined by an eight-mile radius around the elevator. Twenty-three
+
+percent is delivered from an area between eight and 14 miles from the elevator.
+
+Approximately 16 and 12 percent are drawn from radii of 15 to 29 miles and 30 to 44 miles,
+
+respectively. Elevators drew 16 percent of the bushels they handle from a region beyond 45
+
+miles of their facility. A distribution of bushels, by commodity, for elevators in each state’s
+
+draw area is included in Appendix B.
+
+
+
+
+Figure 4.      Distribution of Elevator Handle, by Delivery Distance
+
+                                               17
+       Regarding FOB farm purchases, elevators reported 11 percent of the grain they buy is
+
+handled via this type of purchase. The prevalence of this form of grain procurement varies
+
+among states, accounting for 6 to 24 percent of the grain handle reported by respondents.
+
+Colorado elevators report the greatest prevalence of FOB grain procurement, as 24 percent of
+
+the total bushels handled by elevators are secured through FOB purchases. Texas and Kansas
+
+elevators report the least disposition to use FOB farm grain procurement, as only 6 percent of
+
+bushels are purchased through this type of agreement. FOB purchases may allow local
+
+planners to work with the industry in planning and traffic management.
+
+
+
+
+                       Table 6.        Inbound Grain - FOB
+                                       Purchases as a Percent of
+                                       Grain Handled, by State
+                                                             FOB
+                                           Respon dents    Purchases
+                       Colorado                 27           24%
+                       Kansas                   88            6%
+                       Minnesota                57           13%
+                       Montana                  25           13%
+                       Nebraska                 65            10%
+                       North Dakota             97            14%
+                       Oklahoma                 49            19%
+                       South Dakota             32             9%
+                       Texas                    58             6%
+
+                                     All       498            11%
+
+
+
+       Proximity to grain handled is an important component in determining infrastructure
+
+needs. To further assess this factor, grain drawn from within a 14-mile radius of the elevator
+
+
+
+                                              18
+is considered a local market draw and compared to grain draw from beyond the 14-mile
+
+radius as a peripheral market. Considering the differences in proximity to draw area across
+
+elevators, based on state, storage capacity, and shipper size, draw areas are found to be
+
+significantly different among elevator groups based on state (Chi=35.4, % =.00) and shipper
+
+size (Chi=15.6, % =.00). A significant relationship is not found between proximity to grain
+
+handled and storage capacity (Chi=.29, % =.96).
+
+       Eighty percent of the elevators responding to the survey gathered a majority of the
+
+grain they handled from an area within 14 miles of their facility. More elevators in Kansas
+
+draw a majority of their bushels from the local market (within 14 miles) than elevators of
+
+other states in the survey, based on responses. For Kansas responses, 93 percent of the
+
+elevators report that they draw a majority of the grain handled from a 14-mile radius.
+
+Minnesota elevators also reported relatively close proximity to bushels handled, with 91
+
+percent of the respondents drawing a majority of bushels from their local market area.
+
+       Deliveries to Montana elevators are least likely to be of distances under 15 miles, as
+
+less than half (43 percent) of these elevators reported that they accumulated a majority of the
+
+grain handled from origins within 14 miles. Elevators in South Dakota, North Dakota,
+
+Colorado, and Texas are more dependent on peripheral market, compared to the average of
+
+all respondents, drawing 68 to76 percent of the grain they handle from an area within 14-
+
+miles of their facility. Elevators in Oklahoma and Nebraska are more dependent than the
+
+average, on the local draw area, as 81 and 83 percent, respectively, of elevators draw a
+
+majority of the grain handled from origins within 14-miles of the elevator.
+
+
+
+
+                                              19
+                Table 7.        Share of Elevators Drawing Majority of
+                                Grain Handled from Local Market (within
+                                a 14-Mile Radius of Elevator), by State
+                                                    0 to 49% of     50 to 100%
+                                                        Grain        of Grain
+                                    Respondents       Handled        Handled
+                Colorado                 21             24%             76%
+                Kansas                   80              8%             92%
+                Minnesota                55              9%             91%
+                Montana                  21             57%             43%
+                Nebraska                 64             17%             83%
+                North Dakota             84             25%             75%
+                Oklahoma                 43             19%             81%
+                South Dakota             34             32%             68%
+                Texas                    51             24%             76%
+
+                              All       453             20%             80%
+
+
+       Survey results suggest that shipper size, based on rail capability, also is related to the
+
+spans of an elevator draw area. More than 80 percent of no-rail, single car, and multicar
+
+elevators report that they draw a majority of the grain handled from the local market, within
+
+14 miles of the facility. Approximately one in four unit train facilities depend on the
+
+peripheral market for a majority of the grain handled. Shuttle facilities are the elevator group
+
+least likely to be dependent on a local draw area, as 40 percent of these respondents drew a
+
+majority of the grain handled from origins beyond 14 miles of their elevator.
+
+
+
+
+                                               20
+                Table 8.          Share of Bushels Drawn from within a 14-
+                                  Mile Radius of Elevator, by Shipper Size
+                State                  Respondents   0 to 49%     50 to 100%
+                No Rail                   120          16%           84%
+                Single Car                155          16%           84%
+                Multicar                   67          19%           81%
+                Unit Train                 69          28%           72%
+                Shuttle                    40          40%            60%
+                                 All      451          20%            80%
+
+       The equipment employed in inbound grain deliveries also has important implications
+
+for infrastructure needs and local market patterns. A majority (54 percent) of the grain
+
+delivered to elevators responding to this survey arrived via semi-truck and trailer. Tandem
+
+axle equipment accounted for the next largest share, 25 percent, of inbound grain deliveries,
+
+considering equipment.
+
+Single axle trucks are
+
+attributed 12 percent of the
+
+inbound bushels. Tri-axle
+
+and other equipment, such as
+
+grain carts, are used in 6 and
+
+
+
+
+                                  Figure 5.     Composition of Equipment Employed for Grain
+                                                Deliveries Made to Great Plains Elevators
+
+
+
+                                                21
+2 percent of inbound grain delivery, respectively. A summary of procurement equipment
+
+statistics is provided in Appendix C.
+
+
+
+Table 9.        Equipment Employed in Inbound Grain Deliveries, Distribution of
+                Bushels by State
+                                                                         Semi-
+                                        Single    Tandem               Tractor &
+                     Respondents         Axle      Axle       Tri-Axle  Trailer          Other
+Colorado                  27             6%           16%         7%         70%          0%
+Kansas                    87            16%           29%         2%         52%          0%
+Minnesota                 57            12%           27%         7%         51%          4%
+Montana                   25            12%           15%         3%         70%          0%
+Nebraska                  65            18%           30%         1%         46%          4%
+North Dakota              97            11%           27%        19%         41%          2%
+Oklahoma                  48            11%           24%        12%         52%          0%
+South Dakota              32            10%           26%        4%          59%          2%
+Texas                     58            5%            12%        1%          76%          6%
+
+              All         496           12%           25%        6%          54%          2%
+
+
+
+
+       Because the inbound component is important for local planning, it is important to
+
+recognize differences within the rather large Great Plains region. For additional assessment
+
+of inbound grain deliveries, those respondents reporting that they receive a majority of
+
+deliveries via semi-truck and trailer were compared to responses reporting that less than 50
+
+percent of their inbound grain deliveries are made via semi-truck and trailer. Variance in
+
+inbound semi-truck trailers among deliveries is statistically significantly at the 99th percentile,
+
+considering state (Chi=65.56, % =.00), storage capacity (Chi=14.7, % =.00), and shipper size
+
+(Chi=17.1, % =.00) of recipient elevator.
+
+
+                                                 22
+       More than 80 percent of the respondents in Colorado, Montana, and Texas reported
+
+that a majority of the grain handled was delivered via semi-truck and trailer. In contrast, only
+
+32, 36, and 41 percent of the elevators in Minnesota, North Dakota, and South Dakota,
+
+respectively, report a majority of the grain handled is delivered with semi-truck and trailer.
+
+The use of semi-trucks and trailer for inbound grain deliveries has important implications for
+
+the elevator industry and local infrastructure planners. These higher capacity trucks allow
+
+producers to increase the spans of the market they consider in grain delivery due to
+
+economies associated with hauling more bushels over longer distances.
+
+
+
+               Table 10.       Inbound Grain Delivery made via Semi-
+                               Truck and Trailer, by State
+                                                     0 to 49%       50 to 100%
+                                                    Inbound via     of Inbound
+                                    Respondents        Semi          via Semi
+               Colorado                  28             18%            82%
+               Kansas                    86             59%            41%
+               Minnesota                 56             68%            32%
+               Montana                   27             19%            81%
+               Nebraska                  68             50%            50%
+               North Dakota              101            64%            36%
+               Oklahoma                  48             42%            58%
+               South Dakota              34             41%            59%
+               Texas                     59             19%            81%
+                              All        507            48%            52%
+
+
+
+       Considering a relationship between elevator storage and equipment used for inbound
+
+deliveries, truck size and elevator storage capacity are positively related. A majority of
+
+elevators with less than 2.2 million bushels of storage capacity report that less than half of the
+
+                                               23
+grain received is delivered via semi-tractor and trailer. In contrast, two of three elevators
+
+with storage capacity greater than 2.2 million bushels attributed more than half the grain they
+
+receive to semi-tractor and trailer delivery equipment.
+
+
+
+   Table 11.      Inbound Grain Delivery made via Semi-Truck and Trailer, by
+                  Capacity
+                                                           0 to 49%       50 to 100% of
+                                        Respondents    Inbound via Semi Inbound via Semi
+   1 to 489,999 Bushels                      119              56%                 44%
+   490,000 to 999,999 Bushels                122              53%                 47%
+   1,000,000 to 2,199,999 Bushels            129              51%                 49%
+   2,200,000 or More Bushels                 123              33%                 67%
+
+                                 All         493              48%                 52%
+
+
+
+       Shipper size, based on rail loading capabilities, is the final relationship considered in
+
+the inbound equipment discussion. As illustrated in the following table, a positive
+
+relationship exists between shipper size and capacity of inbound delivery equipment. For no-
+
+rail and single car elevators, 56 and 54 percent of respondents, respectively, report that grain
+
+is delivered to their elevator with equipment other than the semi-tractor and trailer. Nearly
+
+two in three of the multicar and unit train respondents report that a majority of grain receipts
+
+are via semi. Shuttle equipped facilities report slightly greater prevalence of semis in grain
+
+deliveries made to their elevators, as 33 percent report a majority of the inbound grain loaded
+
+on semis.
+
+
+
+
+                                               24
+         Table 12.       Inbound Grain Delivery made via Semi-Truck and
+                         Trailer, by Shipper Size
+                                                       0 to 49%       50 to 100% of
+                                   Respondents     Inbound via Semi Inbound via Semi
+         No Rail                       136              56%                44%
+         Single Car                    180              54%                46%
+         Multicar                       70              37%                63%
+         Unit Train                     78              37%                63%
+         Shuttle                        40              33%                67%
+
+                           All         504              48%                52%
+
+
+
+                                       Grain Distribution
+
+       Primary elevator activities are centered on the distribution of raw grain product. It is
+
+important to understand current market flows and the parameters that influence them.
+
+Respondents provided insight into marketing decisions by describing their marketing
+
+activities, discussing factors that influence modal decisions for outbound grain and detailing
+
+certain aspects of rail and truck alternatives.
+
+       Modal distribution of grain shipments originating from elevators in the nine-state
+
+region is dominated by rail and truck. Based on survey responses, railroads handle 51 percent
+
+of annual shipments, truck 45 percent, and barge the remaining 4 percent. Distribution
+
+among the modes varies by commodity. Trucks handle a majority of the corn (52 percent)
+
+and other commodity (53 percent) bushels, while railroads are hired to transport the largest
+
+share of soybeans (48 percent) and wheat (52 percent). Barges are attributed with moving 1,
+
+9, 22, and 15 percent of the corn, soybeans, wheat, and other commodities, respectively.
+
+
+
+
+                                                  25
+       Figure 6.          Mode for Grain Shipments, by Commodity
+
+
+
+        Distinguishing modal selection factors provides valuable information regarding
+
+distribution patterns associated with individual elevators. Modal selection was considered by
+
+categorizing shippers into four groups, those shipping 0 to 24, 25 to 49, 50 to 74, and 75 to
+
+100 percent of their grain via rail. The relationship between rail activity and three basic
+
+characteristics: size - measured by storage, rail capability - measured by shipper size, and
+
+location - measured by state, are considered. Survey response results suggest that each of the
+
+factors should be considered in assessing modal distribution. Each of these variables has a
+
+statistically significant relationship to level of rail shipping in all grain shipments. The
+
+propensity of an elevator to choose rail is significant for each variable considered - storage
+
+capacity (Chi=26.1, % =.01), shipper size (Chi=115.3, % =.00), and state (Chi=205.1, % =.00) -
+
+at the 99th percentile.
+
+
+
+
+                                                26
+ Table 13.      Mode for Grain Distribution, by Capacity
+                                 Respon dents     Rail         Truck         Barge       000 Bushels
+ 1 to 489,999 Bu.                    125          34%            52%         2%            131,736
+ 490,000 to 999,999 Bu.              122          41%            44%         14%           252,908
+ 1,000,000 to 2,199,999 Bu.          129          49%            50%          1%           458,544
+ 2,200,000 or More Bu.               126          53%            44%          3%          1,394,093
+
+ All                                              51%            45%          4%          2,237,281
+
+       Storage capacity and rail shipments are positively related, as indicated in Table 13.
+
+Respondents with less than 490,000 bushels market approximately one-third of the grain
+
+handled via rail, while respondents with more than 2.2 million bushels of storage market
+
+more than one-half (53 percent) of the grain handled via rail.
+
+       Level of rail access and proclivity to market grain via rail are positively related, based
+
+on survey responses. This relationship is expected, as previous investment in rail access and
+
+observed rail pricing strategies favor larger shipment sizes. Shuttle train facilities, assumed
+
+to have the largest investment in rail shipping capacity, market 81 percent of the grain
+
+handled through the rail system. Unit train shippers, also with substantial rail investments,
+
+ship approximately two-thirds of the grain in rail cars.
+
+
+
+
+       Table 14.      Mode for Grain Distribution, by Shipper Size
+                           Respon dents    Rail          Truck     Barge           000 Bushels
+       No-rail                143          6%            80%           13%           326,954
+       Single Car              181         21%           77%            1%           412,203
+       Multicar                73          44%           53%            0%           323,829
+       Unit Train              78          63%           34%            2%           506,945
+       Shuttle                 41          81%           15%            4%           707,200
+
+                     All       516         51%           45%           4%            2,277,131
+
+                                                  27
+        As a whole, the balance of the elevator population markets less than half the grain via
+
+rail, instead favoring the truck alternative. These modal tendencies do vary significantly
+
+among elevators in each of the shipper size groups. No-rail shippers reported little use of rail
+
+in marketing the volume they handle. Approximately 6 percent of the grain handled is
+
+delivered to customers via rail. Because these facilities have no direct access to rail, it is
+
+assumed that this volume is being transferred to another facility where it can be loaded on to
+
+rail cars.
+
+
+
+
+       Figure 7.       Modal Distribution of Grain Shipments, by State
+
+
+
+
+        The relationship between location of elevator and use of rail in marketing grain is
+
+illustrated in Figure 7. The location is defined by state. Bushels originated by elevators in
+
+South Dakota are most likely be marketed via rail, compared to modal distributions among
+
+the nine states. Based on survey responses, 78 percent of the grain originated by South
+
+
+                                                28
+Dakota elevators is marketed via rail. Montana, Minnesota, North Dakota, and Nebraska
+
+elevators also utilize rail frequently in marketing the grain they handle — 72, 60, 61 and 53
+
+percent, respectively — of the grain originated is shipped to destination via rail. Elevators in
+
+Colorado, Kansas, Oklahoma, and Texas report that they market less than half the bushels
+
+they handle via rail. Rail share of elevator shipments originated in these states ranges from
+
+29 to 32 percent, based on survey responses. It should be noted that each of the
+
+characteristics discussed should be considered in making general statements regarding modal
+
+shipments of grain from the Great Plains region. The use of modes for shipping individual
+
+commodities at the state level is detailed in Appendix D.
+
+
+
+                             Factors Influencing Modal Selection
+
+       Modal selection for grain shipments made be influenced by many factors. To better
+
+understand the relative importance of these factors in the decisions made by elevators,
+
+respondents were asked to rank the influence of four key factors: availability of equipment,
+
+rates, receiver freight requirements, and reliability of service; in their choice to use barge,
+
+truck, or rail for outbound grain shipments. Based on responses, rates are the most influential
+
+factor in the modal decision. Rates have an average ranking of 4.3 on a scale of 1 to 5, with 1
+
+indicating the factor is “not influential” and 5 indicating the factor is “very influential.”
+
+Eight-two percent of respondents gave rates a rating of 5, suggesting rates are a major factor
+
+in modal selection. Availability of equipment and reliability of service rank second and third
+
+among the factors, at 4.1 and 4.0, respectively. Approximately 8 and 11 percent of
+
+respondents feel that equipment and service are of less than average importance in selection
+
+
+                                                29
+of a mode for grain shipments. Receiver requirements received an average rank of 3.4 on the
+
+five point scale. Fewer than half of the respondents reported receiver requirements having
+
+more than an average influence on their selection of mode for marketing grain. Based on
+
+survey responses, the selection of mode for shipping was influenced by several key criteria.
+
+Table 15.       Factors Influencing Modal Selection for Grain Shipments
+
+
+                                                                     Rating
+Factor                                           (Rate: 1 = not influen tial, 5 = very influential)
+
+                                            Average          1         2          3         4          5
+Availability of Equipment                     4.0          6%         5%       16%        29%         44%
+
+Rates                                         4.3          3%         3%       12%        22%         60%
+
+Receiver Freight Requirements                 3.4          12%       12%       26%        19%         30%
+
+Reliability of Service                        4.1          4%         4%       14%        32%         46%
+n=471
+
+
+
+                                          Direct Sales
+
+        One factor to consider in establishing marketing patterns across grains and regions is
+
+the share of grain sold direct. Direct sales refers to business transactions an elevator
+
+completes with a processor or livestock feeder, rather than sales made through a third party
+
+grain broker. The direct sales by an elevator (1) provides local planners with better
+
+information regarding the route, (2) may allow local planners some latitude in working with
+
+the local elevator to better utilize infrastructure, (3) provides some insight into the strength of
+
+the local market as a buyer of grain, and in more general terms, (4) establishes another factor
+
+for differentiating the marketing characteristics associated with grain shipments. Based on
+
+survey responses, 46 percent of the grain marketed by elevators in the Great Plains Region is
+
+                                                30
+       Figure 8.       Direct Sales as Share of All Sales, by Commodity
+
+
+sold through direct sales. The share marketed via direct sales does vary slightly across
+
+commodities, ranging from a high of 49 percent for corn to a low of 40 percent for other
+
+commodities.
+
+       Variation in use of direct sales in marketing among states is evident in Figure 9.
+
+Direct sales, as a percent of all grain sales, ranges from 30 to 71 percent among the nine
+
+states. Elevators in Oklahoma market the largest share of bushels via direct sales. South
+
+Dakota elevators are a close second, selling 67 percent of the grain they handle directly to
+
+processors or feeders. Montana elevators report the least proclivity to sell directly to buyers,
+
+selling less than one-third of the grain they handle directly to a processor or feed market. An
+
+overview of the use of direct marketing by states for individual commodities is provided in
+
+Appendix E.
+
+
+
+
+                                               31
+         Figure 9       Direct Sales in Marketing, Among States
+
+
+
+
+                                     Local Truck Market
+
+
+
+       Trucks provide important functions in the grain market as they are employed to
+
+accumulate quantities at elevators, distribute grain to local markets, and enhance flexibility of
+
+the grain marketing network with their more liquid human and equipment resources.
+
+Elevators were asked to describe adequacy of truck services for outbound shipments and
+
+provide information about truck rates. With regard to truck service, elevators rated the
+
+adequacy of truck service during harvest and non-harvest periods and the degree of
+
+competition among truckers in their local market. Availability of trucks during harvest is
+
+rated 3.2 on a scale of 1 to 5, 1 indicating poor and 5 indicating excellent. Availability during
+
+non-harvest is rated higher at 4.4. The degree of competition among truckers is rated better
+
+than average for the Great Plains region, at 3.9.
+
+
+                                               32
+       Rates were collected for harvest and non-harvest truck movements of 50, 100, and
+
+200 miles. Harvest and non-harvest distinctions were made (1) due to the overall increase in
+
+demand for truck services during harvest, and (2) the shift of producer-owned trucks from the
+
+custom-haul market to harvest activities during harvest. A quarterly profile of rates may have
+
+gathered the same information, but with differences in timing of harvest, the harvest/non-
+
+harvest differentiation was selected.
+
+       Respondents using trucks to market grain reported an average rate of 47 cents per
+
+hundredweight per mile during harvest, and 44 cents per hundredweight per mile the balance
+
+of the year for a 50-mile trip. The seasonal rate differential is evident in the longer hauls. In
+
+addition to the seasonal effect, the rate per mile has an inverse relationship to distance. The
+
+truck rates for the 100-mile haul average 40 cents per hundredweight per mile during harvest
+
+
+
+               Table 16.       Local Truck Rates
+                                    50 miles          100 mile         200 miles
+                                                     $/cwt per m ile
+
+               Harvest              $0.0047            $0.0040         $0.0032
+               Non-Harvest          $0.0044            $0.0036         $0.0030
+
+
+
+and 36 cents per hundredweight per mile outside the harvest season, based on survey
+
+responses. The rates for the 200-mile haul are the lowest among the rates. Rates for this
+
+distance also exhibit the least response to harvest pressures. Hauls of 200 miles average 32
+
+cents per hundredweight per mile during harvest, with a two cent per hundredweight per mile
+
+discount during non-harvest periods. State level truck rates are included in Appendix F.
+
+
+
+                                                33
+                                          Rail Freight
+
+       Employment of rail capacity by elevators in marketing grain varies by location and
+
+across commodities. Respondents reporting direct access to rail were asked about
+
+management rail freight, rail car ordering programs, and the rail carrier service. As
+
+aforementioned, three-fourths of the elevators responding have access to a railroad. Among
+
+these facilities, 86 percent have access to a single carrier. For facilities with access to
+
+multiple carriers, 10 percent report access to two railroads, 3 percent have access to three
+
+carriers and 1 percent has access to four or more rail carriers.
+
+
+
+Rail Freight Management
+
+       Rail equipment may be owned or leased by the railroad, the elevator, or a third party.
+
+The track network is owned by the railroad and operations are handled by railroad labor. Rail
+
+shipment is initiated by an elevator placing an order directly with the railroad or through a
+
+third party. Survey responses indicate that 41 percent of the elevators in the Great Plains
+
+region manage and purchase their own rail freight, ranging from a high of 64 percent of North
+
+Dakota elevators to a low of 22 percent of Texas elevators. In-house management and
+
+purchase of rail freight may indicate the level of resources elevator management dedicates to
+
+rail marketing efforts.
+
+
+
+
+                                                34
+                          Table 17.       In-house Management
+                                          and Purchase of Rail
+                                          Freight, by State
+                                                      In-house
+                          Colorado                      30%
+                          Kansas                        33%
+                          Minnesota                     44%
+                          Montana                       52%
+                          Nebraska                      41%
+                          North Dakota                  64%
+                          Oklahoma                      34%
+                          South Dakota                  32%
+                          Texas                         22%
+                                         All            41%
+
+
+
+       Elevators managing and purchasing freight in-house were asked about their use of
+
+alternative rail ordering programs. Five types of rail car orders can generally be placed with a
+
+railroad: tariff, shorter-term railroad auction, longer-term freight contracts, nearby orders, and
+
+shuttle agreements. The availability of programs and program guidelines vary with each rail
+
+carrier. Tariff cars refer to car orders placed directly with the railroad for service under the
+
+common carrier obligation. Service for these orders is provided by the railroad at the
+
+published tariff rate. The tariff rate, which is public information, generally sets the baseline
+
+for rail grain rate structures. A market premium or discount does not apply for these orders
+
+and service is not guaranteed. Shippers are assessed a penalty if cars are delivered and not
+
+loaded by the elevator. Shorter-term railroad auctions allow shippers to order cars from the
+
+railroad, usually four to six months in advance, with service guarantees. Longer-term freight
+
+
+
+                                                35
+contracts are agreements with the railroad for a specified level of service each month. For
+
+instance, an elevator agrees to purchase service of a monthly 25-car train for 12 months. This
+
+service is guaranteed. The final alternative considered is the shuttle agreement in which the
+
+elevator agrees to ship a shuttle size (100 cars plus) train in a cycle for a specified number of
+
+trips. The shuttle agreement includes origin and destination efficiency requirements. A
+
+market premium or discount may apply for non-tariff orders and non-performance penalties
+
+apply for shipper and carrier. The proportion of shippers reporting use of each of the rail car
+
+ordering programs is provided in Figure 10. Use of the tariff program is most common, as
+
+more than one-third of respondents reported that they had ordered a share of rail cars under
+
+this option. The shorter-term rail auction and secondary market are next in frequency of use
+
+among respondents as 25 and 21 percent report use of these options, respectively. Longer-
+
+term contracts are used by approximately10 percent of the elevators that manage and
+
+
+
+
+     Figure 10.      Share of Shippers Using Alterative Rail Programs, for Shippers
+                     In-House Purchase and Management of Rail Freight
+
+                                               36
+purchase their own rail freight. Shuttles, least common among the programs, is used by
+
+approximately 8 percent of the elevator subset. The less common occurrence of the longer-
+
+term contracts and shuttle agreements are expected due to the risk associated with volume
+
+requirements and upgrade investments.
+
+       Beyond frequency of use for the alternative car programs, the volume shipped under
+
+each program may provide insight into elevator marketing practices and trends in the
+
+industry. For the respondents reporting that they manage and purchase their own rail freight,
+
+the shuttle option accounted for the largest share of bushels - nearly one-third of the volume
+
+reported by respondents. Shorter-term rail auctions, which guarantee rail service, is second
+
+among volume moved under the alternative rail programs, with 22 percent of the volume.
+
+The tariff program and secondary market, the more liquid, often less risky options, are each
+
+attributed with 17 percent of the volume. Longer-term rail contracts form the final segment
+
+in the volume, with 13 percent. These longer-term contracts should be considered in
+
+conjunction with shuttle volumes, as both require commitment of volume and service for an
+
+extended period. These agreements may dampen the cyclical characteristics of rail grain
+
+shipments.
+
+
+
+
+                                              37
+Rail Service
+
+       Given the important role the rail industry plays promoting an efficient and
+
+economically successful Great Plains elevator industry, elevators were asked to rank four key
+
+service factors and then rate their primary rail carrier in these service areas. The four service
+
+components are: availability of marketing and sales personnel, timely delivery of equipment,
+
+
+
+
+       Figure 11.     Distribution of Bushels Among Alternative Rail Programs, for
+                      Shippers with In-House Management and Purchase of Rail
+                      Freight
+
+
+
+availability of order information, and condition of equipment. Among these factors, timely
+
+delivery of equipment receives the highest average ranking with 1.4. In the ranking, 206 or
+
+79 percent of the respondents ranked this factor as highest in importance among the four
+
+factors. Availability of order information and condition of equipment received the second
+
+and third rankings, as both averaged 2.6. Availability of marketing personnel is last among
+
+service factors, with an average ranking slightly lower at 2.7.
+
+
+                                               38
+       Rail carriers received slightly better than average ratings for each of the four service
+
+factors. Respondent rating of the factors spanned a narrow range. Based on these ratings,
+
+condition of equipment is the least sufficient among service variables at 3.1. Timely delivery
+
+of equipment and information regarding the order are second and third, with ratings of 3.4
+
+and 3.5. Railroads receive their highest ratings for availability of personnel. This factor is,
+
+however, ranked last in importance among the four variables. This information suggests that
+
+railroads are providing adequate service, with the ratings of individual elevators varying with
+
+expectations and their experiences with railroad performance.
+
+
+
+
+   Table 18.          Ranking and Rating of Rail Service Factors by Rail Shippers
+                                                             Rating
+                                                Average and Response Distribution
+                                                     (Rate: 1 = poor, 5 = excellent)
+
+    Ranking                               Average         1        2        3          4    5
+                 Timely delivery of
+        1                                    3.4        12%      13%      30%      34%     11%
+                 equipment
+
+                 Condition of
+        2                                    3.1        6%       13%      42%      33%     7%
+                 equipment
+                 Availability of order
+        2                                    3.5        5%       10%      35%      38%     11%
+                 information
+                 Availability of
+        4        marketing and sales         3.6        9%       16%      29%      28%     18%
+                 personnel
+   n=259
+   Rating w eighted b y rail bush els
+
+
+
+
+                                               39
+                       ELEVATOR INDUSTRY EXPECTATIONS
+
+        The elevator industry continues its metamorphosis, adjusting to changes in the
+
+agricultural production and consumer sectors. As local and national policies are assessed and
+
+investments are considered, insight into the future of this industry may allow decision makers
+
+to be proactive in addressing needs of the industry and those affected by it. Elevators were
+
+asked to provide opinions regarding issues relevant to grain industry logistics. By
+
+encompassing the view of these active industry participants, researchers, policy makers, and
+
+resource owners might more efficiently and effectively meet future industry needs.
+
+
+
+
+Table 19.       Factors Influencing Modal Selection for Grain Shipments
+                                                             Rating
+                                                Average and Response Distribution
+Issue                                        (Rate: 1 = not impo rtant, 5 = v ery impo rtant)
+
+                                        Average            1         2         3         4       5
+Rail Mergers                              3.6            10%        9%       19%       31%      31%
+Grain Company Mergers                     4.4            3%         3%       17%       39%      38%
+Availability of Barge Capacity            2.7            34%       12%       21%       20%      13%
+Availability of Rail Capacity             3.7            7%         6%       22%       37%      28%
+Truck Weight Limits                       3.8            2%         6%       28%       34%      30%
+Local Processing/Feeding                  3.7            4%        10%       22%       35%      30%
+Access to Market Information              4.1            1%         3%       19%       40%      36%
+Government Policy                         4.2            2%         2%       15%       34%      48%
+Financing                                 3.8            3%         7%       28%       31%      30%
+n=459
+
+
+
+
+                                                40
+       Elevators rate the merger of grain companies as the most important industry issue.
+
+This issue received an average rating by respondents of 4.4 on a five point scale, with the
+
+scale ranging from 1 for ‘not important’ to 5 for ‘very important’. Approximately 77 percent
+
+of the respondents thought this issue was more important (rated 4 or 5). Second in
+
+importance to elevators are future government policy, with an average rating of 4.2.
+
+Although this issue is second, based on rating, it is the issue that received the greatest
+
+proportion of responses in the ratings of 4 and 5. Proportion of the ratings in these two
+
+categories suggest elevators view the issue as of more than average importance to their
+
+industry. Next among issues is access to market information. This issue too, may be
+
+attributed to some degree to government, as government has an important role in collecting
+
+and disseminating much of the publicly available grain market information.
+
+       Several issues are rated between average importance, 3 and 4. Truck weight limits and
+
+financing are among the issues, both rated 3.8 by the respondents. Local processing/feeding,
+
+rail capacity, and rail mergers received similar average ratings of 3.7, 3.7 and 3.6,
+
+respectively. The mid-range ratings of these issues may be attributed to the variation in
+
+individual elevator characteristics and market environments that are more or less impacted.
+
+The least important issue, based on survey responses, is the only issue to be rated at less than
+
+average importance – barge capacity. A majority of respondents (56 percent) rated this issue
+
+as less important by indicating an importance of 1 or 2 on the 5-point scale. These statistics
+
+offer a broad indicator of issues influencing grain industry logistics. The average rating of
+
+the issues, for each of the states, are presented in Appendix G.
+
+
+
+
+                                                41
+Figure 12.      Distribution of Elevator Rating of Industry Issues
+
+
+      In addition to rating the issues listed in the survey, several respondents included other
+
+issues they view as important to the future of grain industry logistics. These issues include:
+
+  •   large farms/farmer owned semis               •   rail line abandonment
+  •   biotechnology                                •   shuttles
+  •   export markets                               •   container grain shipments
+  •   short line railroads                         •   specialty grains
+
+
+
+This supplement to the initial list of issues forms a rather comprehensive scope of the
+
+phenomenon that Great Plains elevators identify as important to the future of their industry.
+
+Overall opinions of elevators, and the more local ratings of issues, should be considered in
+
+local, regional, and national policy and resource decisions.
+
+
+
+
+                                              42
+                                          SUMMARY
+
+       Local grain elevators are at a critical juncture in the grain marketing system. These
+
+facilities, estimated to number more than 8,000, accumulate grain in quantities that make
+
+longer-distance markets economically feasible. The objective of this study was to profile the
+
+transportation and industry characteristics of elevators in the Great Plains region of the
+
+United States. The information gathered in this effort is important in future policy and
+
+investment decisions that directly and tangentially impact the elevator industry.
+
+       With the cooperation of nine state elevator organizations, 2,604 surveys were mailed
+
+to elevators in the Great Plains region, stretching from North Dakota to Texas. A total of 518
+
+usable survey responses were returned, rendering results statistically valid at the 95th
+
+percentile. The survey elicited information regarding elevator characteristics, activity, and
+
+expectations.
+
+       Defining and understanding elevator characteristics is an essential activity for
+
+productive discussions regarding the current state and future of the industry. Storage capacity
+
+and annual handle averaged 2,217 and 4,577 thousand bushels. An indicator of elevator
+
+activity is the ability of a facility to turn storage capacity (turnover). Turnover ratios ranged
+
+from 2.2 to 6.5 for each state based on weighted averages for elevators in each state. These
+
+averages varied by state, rail access level, and location.
+
+       As rail activity is important to the Great Plains grain industry, respondents were asked
+
+to provide information in this area. A majority, 72 percent, of the respondents have access to
+
+a railroad at their facility. The level of access, which has implications for rates and services,
+
+is concentrated in that group of elevators with limited ability to receive rail cars.
+
+
+                                                43
+       Approximately 49 percent of the elevators with access to rail are able only to receive
+
+and load from 1 to 24 cars. At the other end of the rail access spectrum, approximately 8
+
+percent of the rail equipped facilities are able to receive and load at least 100 rail cars.
+
+       Regarding non-grain characteristics, business structure and other activities were
+
+considered. The most common business structure among respondents was the locally owned
+
+and operated cooperative. The closed corporation was second in frequency among the
+
+business structures. A majority of the elevators responding to the survey reported that their
+
+operations included agronomic product sales and application services.
+
+       An extensive set of questions were directed at profiling the elevator marketing and
+
+transportation activities. Survey respondents reported an aggregate annual handle of 2.5
+
+million bushels. The bushel total was comprised of corn (36 percent), soybeans (14 percent),
+
+wheat (35 percent), and other commodities (15 percent). One-third of the bushels were
+
+gathered from within an 8-mile radius of the elevator. More than one-half of the origins for
+
+bushels are included when the radius is expanded to 16 miles. Semi-tractor and trailers are
+
+used to deliver half of these bushels to the elevator, based on survey responses.
+
+       Outbound grain movements are shared primarily by railroad (51 percent) and trucks
+
+(45 percent), with barges handling a much smaller fraction (4 percent). Distribution among
+
+the modes varies by commodity. Trucks handle a majority of the corn (52 percent) and other
+
+commodity (53 percent) bushels, while railroads are hired to transport the largest share of
+
+soybeans (48 percent) and wheat (52 percent). Barges are attributed with moving 1, 9, 22,
+
+and 15 percent of the corn, soybeans, wheat, and other commodities, respectively.
+
+
+
+
+                                                44
+       Many factors affect the modal distribution in the grain industry. Rates were identified
+
+as the most influential factor in respondents’ selection of a mode in marketing grain.
+
+Reliability and availability of equipment are next among the four factors considered as
+
+influential in mode selection. In addition to these broad parameters, characteristics of the
+
+local truck market and rail freight also were considered as important in grain marketing
+
+patterns.
+
+       The final task in this project was to ascertain expectations of the participants regarding
+
+issues pertinent to their industry. Elevators rate the merger of grain companies as the most
+
+important industry issue. Second in importance to elevators is future government policy.
+
+Next is access to market information. This issue too may be attributed in some degree to
+
+government, because government has an important role in collecting and disseminating much
+
+of the publicly available grain market information.
+
+       The information presented in this report establishes a baseline for discussing current
+
+issues and trends in the Great Plains grain industry. Elevators provide crucial roles in the
+
+grain market industry through activities such as accumulation, conditioning, and
+
+communication, which make transactions between grain producers and consumers more
+
+efficient. The results of this report may be valuable in encouraging policies and investments
+
+that will enhance the future of the elevator industry and the producers it serves.
+
+
+
+
+                                               45
+46
+APPENDIX A.       COMPOSITION OF GRAIN SHIPMENTS FOR EACH
+                  STATE, BASED ON SURVEY RESPONSES
+
+               Corn   Soybean   Wheat    Other     Bushels
+Colorado       50%       0%      39%     11%       106,664,000
+Kansas         21%      15%     42%      22%       428,576,696
+Minnesota      64%      28%      7%       1%       384,813,932
+Montana         3%       0%      84%     14%        64,330,000
+Nebraska        9%       8%      44%     38%       286,707,392
+North Dakota   68%      14%     12%       6%       371,324,000
+Oklahoma        3%       6%      77%     14%       172,096,647
+South Dakota   49%      27%     20%       3%       272,331,694
+Texas          39%       2%      29%     29%       192,486,415
+
+
+
+
+                                47
+APPENDIX B.          ELEVATOR DRAW AREA, BY COMMODITY AND STATE
+
+
+
+Table B-1.     Distribution of Origins for Corn Bushels Handled by Elevators, by
+               State
+                                 8 miles         8 to 14   15 to 29   30 to 44   45 miles
+                   Respondents    or less         miles     miles      miles      or more
+Colorado               27          26%            30%       17%         7%         20%
+Kansas                 87          48%            28%       16%         5%          3%
+Minnesota              57          43%            29%       17%         8%          4%
+Montana                25           7%            21%       34%        28%         10%
+Nebraska               65          59%            22%       11%         6%          2%
+North Dakota           97          39%            28%       20%         6%          5%
+Oklahoma               48          18%            19%       16%         3%         42%
+South Dakota           32          28%            23%       25%        17%          8%
+Texas                  58          24%            27%       25%        13%         12%
+
+             All       496         43%            26%       17%         8%         6%
+
+
+
+
+Table B-2.     Distribution of Origins for Soybean Bushels Handled by Elevators, by
+               State
+                                 8 miles         8 to 14   15 to 29   30 to 44   45 miles
+                   Respondents    or less         miles     miles      miles      or more
+Colorado               27          16%            46%       14%        11%         13%
+Kansas                 87          26%            18%       13%        17%         25%
+Minnesota              57          41%            32%       17%         7%          4%
+Montana                25            -              -         -          -           -
+Nebraska               65          53%            26%       12%         7%          2%
+North Dakota           97          42%            25%       20%         6%          4%
+Oklahoma               48          18%            14%        8%        11%         49%
+South Dakota           32          26%            22%       26%        17%         9%
+Texas                  58          19%            31%       34%        13%         3%
+
+             All       496         36%            25%       18%        11%         10%
+
+
+
+
+                                            48
+Table B-3.     Distribution of Origins for Wheat Bushels Handled by Elevators, by
+               State
+                                 8 miles         8 to 14   15 to 29   30 to 44   45 miles
+                   Respondents    or less         miles     miles      miles      or more
+Colorado               27          20%            26%       23%        17%         14%
+Kansas                 87          29%            24%       13%        10%         12%
+Minnesota              57          37%            35%       23%         4%          1%
+Montana                25          17%            21%       22%        16%         25%
+Nebraska               65          33%            20%       17%         8%         22%
+North Dakota           97          27%            24%       18%        10%         20%
+Oklahoma               48          31%            17%       13%         9%         28%
+South Dakota           32          20%            22%       29%        20%          9%
+Texas                  58          18%            18%       21%        13%         31%
+
+             All       496         29%            22%       18%        11%         19%
+
+
+
+
+Table B-4.     Distribution of Origins for Other Commodity Bushels Handled by
+               Elevators, by State
+                                 8 miles         8 to 14   15 to 29   30 to 44   45 miles
+                   Respondents    or less         miles     miles      miles      or more
+Colorado               27          25%            28%       19%        11%         17%
+Kansas                 87          47%            27%       13%         6%          7%
+Minnesota              57          33%            40%       16%         7%          4%
+Montana                25          18%            25%       29%        16%         12%
+Nebraska               65          51%            27%       14%         6%          2%
+North Dakota           97          17%            18%       14%        10%         40%
+Oklahoma               48          21%            15%       10%        11%         41%
+South Dakota           32          15%            20%       27%        22%         15%
+Texas                  58          25%            30%       21%        7%          16%
+
+             All       496         30%            24%       15%         9%         22%
+
+
+
+
+                                            49
+APPENDIX C.          TRUCK TYPES USED IN GRAIN DELIVERIES TO
+                     ELEVATOR, BY STATE
+
+
+
+Table C-1.     Equipment Employed in Inbound Corn Deliveries, by State
+                                                                Semi-
+                                 Single    Tandem             Tractor &
+                   Respondents    Axle      Axle     Tri-Axle  Trailer      Other
+Colorado               27          6%          15%      9%       71%        0%
+Kansas                 87         16%          30%      3%       51%        0%
+Minnesota              57         12%          26%      5%       52%        4%
+Montana                25          8%          77%      0%       81%        0%
+Nebraska               65         19%          32%      2%       43%        5%
+North Dakota           97          8%          34%     14%       43%        0%
+Oklahoma               48          7%          22%     12%       59%        0%
+South Dakota           32         11%          26%     4%        57%        2%
+Texas                  58         5%           13%     1%        79%        2%
+
+             All       496        13%          27%     4%        54%        3%
+
+
+
+
+Table C-2.     Equipment Employed in Inbound Soybean Deliveries, by State
+                                                                Semi-
+                                 Single    Tandem             Tractor &
+                   Respondents    Axle      Axle     Tri-Axle  Trailer      Other
+Colorado               27          3%           9%     37%       50%        0%
+Kansas                 87         11%          19%      1%       68%        0%
+Minnesota              57         12%          29%      7%       50%        4%
+Montana                25           -            -       -         -         -
+Nebraska               65         21%          32%      2%       41%        4%
+North Dakota           97          9%          41%     14%       35%        0%
+Oklahoma               48         12%          29%     23%       36%        0%
+South Dakota           32         11%          26%     4%        57%        2%
+Texas                  58         5%           13%     3%        78%        1%
+
+             All       496        13%          27%     5%        52%        3%
+
+
+
+                                          50
+Table C-3.     Equipment Employed in Inbound Wheat Deliveries, by State
+                                                                Semi-
+                                 Single    Tandem             Tractor &
+                   Respondents    Axle      Axle     Tri-Axle  Trailer    Other
+Colorado               27          6%          14%     6%       73%        0%
+Kansas                 87         16%          29%     2%       53%        0%
+Minnesota              57          9%          34%    19%       38%        1%
+Montana                25         11%          15%     3%       71%        0%
+Nebraska               65          9%          18%     0%       72%        0%
+North Dakota           97         13%          28%    12%       43%        3%
+Oklahoma               48         11%          24%    10%       55%        0%
+South Dakota           32         8%           24%    3%        64%        0%
+Texas                  58         5%           12%    1%        70%       12%
+
+             All      496         11%          24%     6%       57%       2%
+
+
+
+
+Table C-4.     Equipment Employed in Inbound Other Commodities Deliveries, by
+               State
+                                                                Semi-
+                                 Single    Tandem             Tractor &
+                   Respondents    Axle      Axle     Tri-Axle  Trailer    Other
+Colorado               27         10%          31%     0%       59%       0%
+Kansas                 87         21%          34%     3%       41%       0%
+Minnesota              57         12%          23%    11%       47%       7%
+Montana                25         15%          20%     1%       64%       0%
+Nebraska               65         21%          31%     1%       44%       3%
+North Dakota           97          9%          20%    30%       40%       1%
+Oklahoma               48         11%          26%    17%       46%       4%
+South Dakota           32         6%           17%    4%        73%       0%
+Texas                  58         4%           11%    1%        80%       3%
+
+             All      496         13%          24%    12%       50%       1%
+
+
+
+
+                                          51
+APPENDIX D.      MODAL DISTRIBUTION OF GRAIN SHIPMENTS, BY
+                 COMMODITY AND STATE
+
+
+         Table D-1.     Modal Distribution of Outbound Corn
+                        Shipments, by State
+                              Rail     Truck     Barge       Bushels
+         Colorado             1%        99%       0%      53,344,560
+         Kansas               5%        95%       0%      90,165,595
+         Minnesota            62%       35%       3%     246,624,409
+         Montana               2%       98%       0%       1,621,100
+         Nebraska             58%       42%       0%      26,613,094
+         North Dakota         50%       50%       0%     251,208,080
+         Oklahoma             15%       85%       0%       5,104,000
+         South Dakota         82%       18%       0%     133,406,464
+         Texas                 2%       84%       0%      74,476,367
+
+
+
+         Table D-2.     Modal Distribution of Outbound Soybeans
+                        Shipments, by State
+                              Rail     Truck     Barge       Bushels
+         Colorado             23%       77%       0%         139,000
+         Kansas               16%       80%       0%      64,350,624
+         Minnesota            59%       38%       2%     107,726,023
+         Montana                -         -         -             -
+         Nebraska             88%       12%       0%      24,233,644
+         North Dakota         33%       67%       1%      53,032,420
+         Oklahoma              0%       11%       88%     10,527,000
+         South Dakota         77%       24%        0%     74,032,884
+         Texas                40%       59%        0%      4,765,305
+
+
+
+
+                                      52
+Table D-3.     Modal Distribution of Outbound Wheat
+               Shipments, by State
+                     Rail     Truck     Barge       Bushels
+Colorado             72%       28%       0%      41,490,000
+Kansas               49%       51%       0%     179,309,863
+Minnesota            59%       36%       1%      26,227,500
+Montana              78%       22%       3%      53,937,300
+Nebraska             74%       22%       0%     126,863,968
+North Dakota         89%       12%       0%      43,209,000
+Oklahoma             38%       28%       32%    133,058,006
+South Dakota         77%       23%        0%     55,731,437
+Texas                74%       25%        0%     56,704,893
+
+
+
+Table D-4.     Modal Distribution of Outbound Other
+               Commodity Shipments, by State
+                     Rail     Truck     Barge       Bushels
+Colorado             11%       89%       0%      11,690,440
+Kansas               33%       66%       0%      94,750,615
+Minnesota            12%       88%       0%       4,236,000
+Montana              47%       52%       0%       8,771,600
+Nebraska             41%       58%       1%     108,996,685
+North Dakota         58%       42%       0%      23,874,500
+Oklahoma              8%       25%       63%     23,407,641
+South Dakota         48%       52%        0%      9,160,909
+Texas                27%       66%        0%     56,539,850
+
+
+
+
+                             53
+APPENDIX E.     DIRECT SALES OF GRAIN SHIPMENTS FOR EACH
+                STATE, BASED ON SURVEY RESPONSES
+
+               Corn   Soybean        Wheat   Other   All
+Colorado       57%     77%           44%     69%     53%
+Kansas         62%     44%           56%     34%     51%
+Minnesota      29%     31%           32%     15%     30%
+Montana        7%        -           51%     35%     48%
+Nebraska       57%     74%           48%     32%     44%
+North Dakota   34%     19%           63%     44%     36%
+Oklahoma       50%      3%           78%     69%     71%
+South Dakota   73%     63%           71%     15%     67%
+Texas          33%     63%           58%     39%     42%
+
+
+
+
+                                54
+APPENDIX F.                  LOCAL TRUCK RATES, BY STATE1
+                                      50 miles      100 mile         200 miles
+                                                   $/cwt per m ile
+Colorado
+       Harvest                            n.a.           n.a.           n.a.
+
+       Non-Harvest                        n.a.           n.a.           n.a.
+
+Kansas
+       Harvest                        $0.0048        $0.0038         $0.0030
+       Non-Harvest                    $0.0041        $0.0035         $0.0027
+Minnesota
+       Harvest                        $0.0046        $0.0041         $0.0032
+       Non-Harvest                    $0.0046        $0.0041         $0.0030
+Montana
+       Harvest                            n.a.           n.a.           n.a.
+
+       Non-Harvest                        n.a.           n.a.           n.a.
+
+Nebraska
+       Harvest                        $0.0042        $0.0028         $0.0019
+       Non-Harvest                    $0.0038        $0.0026         $0.0019
+North Dakota
+       Harvest                        $0.0049        $0.0048         $0.0038
+       Non-Harvest                    $0.0049        $0.0043         $0.0036
+Oklahoma
+       Harvest                        $0.0039        $0.0033            n.a.
+
+       Non-Harvest                    $0.0056        $0.0035            n.a.
+
+South Dakota
+       Harvest                        $0.0045        $0.0036         $0.0029
+       Non-Harvest                    $0.0039        $0.0032         $0.0026
+Texas
+       Harvest                        $0.0059        $0.0039         $0.0032
+       Non-Harvest                    $0.0058        $0.0039         $0.0031
+1
+ Results may n ot be statistically significa nt.
+n.a. not availab le
+
+
+
+
+                                            55
+APPENDIX G.           FACTORS INFLUENCING MODAL SELECTION FOR GRAIN
+                      SHIPMENTS, BY STATE
+                                                                    Rating
+Issue                                            (Rate: 1 = not impo rtant, 5 = v ery impo rtant)
+
+                                    Avg   CO         KS    MN       MT       NE       ND      OK     SD    TX
+                        Responses   459   26         77     52       25       56       91      45    3.6   54
+
+Rail Mergers                        3.6   3.7        3.4    3.7     4.2      3.3      3.8      3.3   4.0   4.0
+
+
+Grain Company Mergers               4.4   4.0        3.9    4.2     4.4      4.0      3.9      4.0   2.3   4.2
+
+Availability of Barge Capacity      2.7   2.4        2.5    3.6     2.3      2.3      2.7      2.7   3.3   2.5
+
+Availability of Rail Capacity       3.7   3.7        3.6    4.1     4.0      3.7      3.8      3.7   4.1   3.8
+
+Truck Weight Limits                 3.8   3.0        3.7    3.8     3.5      3.5      4.2      4.0   4.2   4.1
+
+Local Processing/Feeding            3.7   3.6        3.8    3.9     3.4      4.2      3.5      3.5   4.1   3.9
+
+Access to Market Information        4.1   3.9        4.2    4.1     4.1      4.0      4.0      4.2   4.1   4.1
+
+Government Policy                   4.2   4.4        4.2    4.3     4.0      4.2      4.2      4.3   4.1   4.4
+
+Financing                           3.8   3.7        3.7    3.9     3.1      3.6      3.9      3.9   3.8   3.9
+
+
+
+
+                                                56
+                                        REFERENCES
+
+National Agricultural Statistics Service, United States Department of Agriculture, Washington,
+D.C., On-Line Databases, various years.
+
+
+
+
+                                               57
+

@@ -1,0 +1,104 @@
+{
+ "fig1": {
+  "peak": 6.529,
+  "peak_date": "September 21, 2026",
+  "latest": 6.382,
+  "latest_date": "September 28, 2026",
+  "start_year": 2015
+ },
+ "rows": [
+  {
+   "crop": "corn",
+   "hauled_bu": 250579736.24983647,
+   "loads": 326671.5322627086,
+   "miles": 18162937.193806596,
+   "gallons": 2929505.999001064,
+   "savings": 556606.1398102022
+  },
+  {
+   "crop": "soybeans",
+   "hauled_bu": 123179693.51096456,
+   "loads": 170094.9630347908,
+   "miles": 9457279.944734368,
+   "gallons": 1525367.7330216723,
+   "savings": 289819.86927411775
+  }
+ ],
+ "total_loads": 496766.49529749935,
+ "total_miles": 27620217.138540965,
+ "total_gallons": 4454873.732022736,
+ "total_savings": 846426.0090843199,
+ "if_only_onhand": 446912.93279652094,
+ "haul_low": 660699.438745674,
+ "haul_high": 1269639.0136264798,
+ "params": {
+  "corn": {
+   "production_mbu": 578.5,
+   "share": 0.4331542545373146,
+   "miles": 27.8,
+   "tons_per_load": 21.4779432
+  },
+  "soybeans": {
+   "production_mbu": 203.7,
+   "share": 0.6047113083503415,
+   "miles": 27.8,
+   "tons_per_load": 21.725457
+  }
+ },
+ "mpg": 6.2,
+ "farm_cornsoy": {
+  "bushels": 160000.0,
+  "onroad_gal": 882.9651054976308,
+  "savings": 167.76337004454984,
+  "field_gal_harvest": 6920.0,
+  "fall_diesel_increase": 21732.818411832
+ },
+ "share_detail": [
+  {
+   "crop": "corn",
+   "year": 2024,
+   "production": 542.36,
+   "stocks": "Dec. 1: 325.0",
+   "left": 217.36,
+   "pct_raw": 0.40076701821668265,
+   "share": 0.40076701821668265
+  },
+  {
+   "crop": "corn",
+   "year": 2025,
+   "production": 711.0,
+   "stocks": "Dec. 1: 380.0",
+   "left": 331.0,
+   "pct_raw": 0.46554149085794655,
+   "share": 0.46554149085794655
+  },
+  {
+   "crop": "corn",
+   "year": "Average",
+   "share": 0.4331542545373146
+  },
+  {
+   "crop": "soybeans",
+   "year": 2024,
+   "production": 245.625,
+   "stocks": "Dec. 1: 79.0",
+   "left": 166.625,
+   "pct_raw": 0.6783715012722646,
+   "share": 0.6783715012722646
+  },
+  {
+   "crop": "soybeans",
+   "year": 2025,
+   "production": 223.905,
+   "stocks": "Dec. 1: 105.0",
+   "left": 118.905,
+   "pct_raw": 0.5310511154284183,
+   "share": 0.5310511154284183
+  },
+  {
+   "crop": "soybeans",
+   "year": "Average",
+   "share": 0.6047113083503415
+  }
+ ]
+}

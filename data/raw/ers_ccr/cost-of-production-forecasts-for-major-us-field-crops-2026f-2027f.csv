@@ -1,0 +1,307 @@
+Commodity,Category,Item,Units,Region,Year,Value
+Corn,Operating costs,Seed,Dollars per planted acre,U.S. total,2026F,111.06
+Corn,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2026F,184.33
+Corn,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2026F,46.44
+Corn,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2026F,38.56
+Corn,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2026F,34.19
+Corn,Operating costs,Repairs,Dollars per planted acre,U.S. total,2026F,50.40
+Corn,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2026F,0.30
+Corn,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2026F,7.75
+Corn,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2026F,473.03
+Corn,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2026F,4.78
+Corn,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2026F,32.17
+Corn,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2026F,178.96
+Corn,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2026F,197.80
+Corn,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2026F,21.81
+Corn,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2026F,27.25
+Corn,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2026F,462.76
+Corn,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2026F,935.79
+Corn,Operating costs,Seed,Dollars per planted acre,U.S. total,2027F,114.66
+Corn,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2027F,179.12
+Corn,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2027F,49.25
+Corn,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2027F,39.69
+Corn,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2027F,30.59
+Corn,Operating costs,Repairs,Dollars per planted acre,U.S. total,2027F,52.15
+Corn,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2027F,0.31
+Corn,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2027F,7.57
+Corn,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2027F,473.34
+Corn,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2027F,4.90
+Corn,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2027F,33.00
+Corn,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2027F,186.27
+Corn,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2027F,204.03
+Corn,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2027F,22.35
+Corn,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2027F,28.19
+Corn,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2027F,478.75
+Corn,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2027F,952.09
+Soybeans,Operating costs,Seed,Dollars per planted acre,U.S. total,2026F,61.91
+Soybeans,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2026F,63.46
+Soybeans,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2026F,46.16
+Soybeans,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2026F,14.04
+Soybeans,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2026F,21.58
+Soybeans,Operating costs,Repairs,Dollars per planted acre,U.S. total,2026F,45.87
+Soybeans,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2026F,0.19
+Soybeans,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2026F,4.22
+Soybeans,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2026F,257.43
+Soybeans,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2026F,9.64
+Soybeans,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2026F,17.00
+Soybeans,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2026F,175.06
+Soybeans,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2026F,191.49
+Soybeans,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2026F,13.56
+Soybeans,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2026F,19.69
+Soybeans,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2026F,426.45
+Soybeans,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2026F,683.89
+Soybeans,Operating costs,Seed,Dollars per planted acre,U.S. total,2027F,63.92
+Soybeans,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2027F,61.67
+Soybeans,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2027F,48.96
+Soybeans,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2027F,14.46
+Soybeans,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2027F,19.31
+Soybeans,Operating costs,Repairs,Dollars per planted acre,U.S. total,2027F,47.46
+Soybeans,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2027F,0.19
+Soybeans,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2027F,4.16
+Soybeans,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2027F,260.12
+Soybeans,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2027F,9.89
+Soybeans,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2027F,17.44
+Soybeans,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2027F,182.22
+Soybeans,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2027F,197.52
+Soybeans,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2027F,13.90
+Soybeans,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2027F,20.38
+Soybeans,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2027F,441.36
+Soybeans,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2027F,701.48
+Wheat,Operating costs,Seed,Dollars per planted acre,U.S. total,2026F,16.31
+Wheat,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2026F,68.17
+Wheat,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2026F,15.81
+Wheat,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2026F,16.36
+Wheat,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2026F,15.62
+Wheat,Operating costs,Repairs,Dollars per planted acre,U.S. total,2026F,33.22
+Wheat,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2026F,0.82
+Wheat,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2026F,2.77
+Wheat,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2026F,169.08
+Wheat,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2026F,3.15
+Wheat,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2026F,17.51
+Wheat,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2026F,137.78
+Wheat,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2026F,70.79
+Wheat,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2026F,8.39
+Wheat,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2026F,12.72
+Wheat,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2026F,250.34
+Wheat,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2026F,419.41
+Wheat,Operating costs,Seed,Dollars per planted acre,U.S. total,2027F,16.84
+Wheat,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2027F,66.25
+Wheat,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2027F,16.76
+Wheat,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2027F,16.84
+Wheat,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2027F,13.97
+Wheat,Operating costs,Repairs,Dollars per planted acre,U.S. total,2027F,34.37
+Wheat,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2027F,0.85
+Wheat,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2027F,2.70
+Wheat,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2027F,168.57
+Wheat,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2027F,3.23
+Wheat,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2027F,17.96
+Wheat,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2027F,143.42
+Wheat,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2027F,73.03
+Wheat,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2027F,8.60
+Wheat,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2027F,13.16
+Wheat,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2027F,259.39
+Wheat,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2027F,427.96
+Cotton,Operating costs,Seed,Dollars per planted acre,U.S. total,2026F,98.26
+Cotton,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2026F,112.23
+Cotton,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2026F,81.16
+Cotton,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2026F,36.46
+Cotton,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2026F,56.79
+Cotton,Operating costs,Repairs,Dollars per planted acre,U.S. total,2026F,61.00
+Cotton,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2026F,128.36
+Cotton,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2026F,9.56
+Cotton,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2026F,583.82
+Cotton,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2026F,28.32
+Cotton,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2026F,27.04
+Cotton,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2026F,199.50
+Cotton,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2026F,103.96
+Cotton,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2026F,12.62
+Cotton,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2026F,18.87
+Cotton,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2026F,390.31
+Cotton,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2026F,974.12
+Cotton,Operating costs,Seed,Dollars per planted acre,U.S. total,2027F,101.44
+Cotton,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2027F,109.06
+Cotton,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2027F,86.09
+Cotton,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2027F,37.52
+Cotton,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2027F,50.80
+Cotton,Operating costs,Repairs,Dollars per planted acre,U.S. total,2027F,63.11
+Cotton,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2027F,138.96
+Cotton,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2027F,9.54
+Cotton,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2027F,596.52
+Cotton,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2027F,29.05
+Cotton,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2027F,27.74
+Cotton,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2027F,207.66
+Cotton,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2027F,107.24
+Cotton,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2027F,12.93
+Cotton,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2027F,19.52
+Cotton,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2027F,404.14
+Cotton,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2027F,1000.66
+Rice,Operating costs,Seed,Dollars per planted acre,U.S. total,2026F,116.99
+Rice,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2026F,203.88
+Rice,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2026F,122.23
+Rice,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2026F,125.89
+Rice,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2026F,154.64
+Rice,Operating costs,Repairs,Dollars per planted acre,U.S. total,2026F,78.59
+Rice,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2026F,22.35
+Rice,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2026F,13.73
+Rice,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2026F,838.30
+Rice,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2026F,35.19
+Rice,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2026F,42.60
+Rice,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2026F,214.92
+Rice,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2026F,202.95
+Rice,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2026F,27.16
+Rice,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2026F,50.32
+Rice,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2026F,573.14
+Rice,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2026F,1411.44
+Rice,Operating costs,Seed,Dollars per planted acre,U.S. total,2027F,120.78
+Rice,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2027F,198.12
+Rice,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2027F,129.64
+Rice,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2027F,129.57
+Rice,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2027F,138.35
+Rice,Operating costs,Repairs,Dollars per planted acre,U.S. total,2027F,81.32
+Rice,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2027F,23.00
+Rice,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2027F,13.34
+Rice,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2027F,834.11
+Rice,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2027F,36.09
+Rice,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2027F,43.70
+Rice,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2027F,223.70
+Rice,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2027F,209.35
+Rice,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2027F,27.84
+Rice,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2027F,52.06
+Rice,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2027F,592.75
+Rice,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2027F,1426.87
+Peanuts,Operating costs,Seed,Dollars per planted acre,U.S. total,2026F,128.71
+Peanuts,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2026F,118.11
+Peanuts,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2026F,121.32
+Peanuts,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2026F,93.57
+Peanuts,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2026F,93.18
+Peanuts,Operating costs,Repairs,Dollars per planted acre,U.S. total,2026F,100.52
+Peanuts,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2026F,0.61
+Peanuts,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2026F,10.92
+Peanuts,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2026F,666.95
+Peanuts,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2026F,17.89
+Peanuts,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2026F,63.23
+Peanuts,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2026F,275.37
+Peanuts,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2026F,149.00
+Peanuts,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2026F,25.75
+Peanuts,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2026F,25.76
+Peanuts,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2026F,556.99
+Peanuts,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2026F,1223.94
+Peanuts,Operating costs,Seed,Dollars per planted acre,U.S. total,2027F,132.88
+Peanuts,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2027F,114.77
+Peanuts,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2027F,128.68
+Peanuts,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2027F,96.31
+Peanuts,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2027F,83.36
+Peanuts,Operating costs,Repairs,Dollars per planted acre,U.S. total,2027F,104.01
+Peanuts,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2027F,0.63
+Peanuts,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2027F,10.74
+Peanuts,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2027F,671.37
+Peanuts,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2027F,18.35
+Peanuts,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2027F,64.86
+Peanuts,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2027F,286.62
+Peanuts,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2027F,153.69
+Peanuts,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2027F,26.40
+Peanuts,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2027F,26.65
+Peanuts,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2027F,576.57
+Peanuts,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2027F,1247.94
+Sorghum,Operating costs,Seed,Dollars per planted acre,U.S. total,2026F,16.30
+Sorghum,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2026F,64.39
+Sorghum,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2026F,31.01
+Sorghum,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2026F,23.64
+Sorghum,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2026F,17.50
+Sorghum,Operating costs,Repairs,Dollars per planted acre,U.S. total,2026F,34.73
+Sorghum,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2026F,0.23
+Sorghum,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2026F,3.13
+Sorghum,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2026F,190.93
+Sorghum,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2026F,5.63
+Sorghum,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2026F,21.96
+Sorghum,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2026F,148.08
+Sorghum,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2026F,66.31
+Sorghum,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2026F,14.11
+Sorghum,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2026F,19.18
+Sorghum,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2026F,275.27
+Sorghum,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2026F,466.20
+Sorghum,Operating costs,Seed,Dollars per planted acre,U.S. total,2027F,16.83
+Sorghum,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2027F,62.57
+Sorghum,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2027F,32.89
+Sorghum,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2027F,24.33
+Sorghum,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2027F,15.66
+Sorghum,Operating costs,Repairs,Dollars per planted acre,U.S. total,2027F,35.94
+Sorghum,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2027F,0.24
+Sorghum,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2027F,3.06
+Sorghum,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2027F,191.52
+Sorghum,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2027F,5.78
+Sorghum,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2027F,22.52
+Sorghum,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2027F,154.13
+Sorghum,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2027F,68.40
+Sorghum,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2027F,14.47
+Sorghum,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2027F,19.84
+Sorghum,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2027F,285.14
+Sorghum,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2027F,476.66
+Oats,Operating costs,Seed,Dollars per planted acre,U.S. total,2026F,25.25
+Oats,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2026F,74.90
+Oats,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2026F,5.56
+Oats,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2026F,9.96
+Oats,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2026F,27.40
+Oats,Operating costs,Repairs,Dollars per planted acre,U.S. total,2026F,38.88
+Oats,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2026F,1.84
+Oats,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2026F,3.06
+Oats,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2026F,186.85
+Oats,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2026F,2.63
+Oats,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2026F,33.42
+Oats,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2026F,142.51
+Oats,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2026F,129.20
+Oats,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2026F,10.68
+Oats,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2026F,17.75
+Oats,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2026F,336.18
+Oats,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2026F,523.03
+Oats,Operating costs,Seed,Dollars per planted acre,U.S. total,2027F,26.07
+Oats,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2027F,72.78
+Oats,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2027F,5.90
+Oats,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2027F,10.25
+Oats,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2027F,24.51
+Oats,Operating costs,Repairs,Dollars per planted acre,U.S. total,2027F,40.23
+Oats,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2027F,1.90
+Oats,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2027F,2.95
+Oats,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2027F,184.59
+Oats,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2027F,2.69
+Oats,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2027F,34.28
+Oats,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2027F,148.33
+Oats,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2027F,133.27
+Oats,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2027F,10.95
+Oats,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2027F,18.36
+Oats,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2027F,347.89
+Oats,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2027F,532.48
+Barley,Operating costs,Seed,Dollars per planted acre,U.S. total,2026F,24.19
+Barley,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2026F,79.04
+Barley,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2026F,23.64
+Barley,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2026F,8.18
+Barley,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2026F,26.19
+Barley,Operating costs,Repairs,Dollars per planted acre,U.S. total,2026F,37.93
+Barley,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2026F,3.65
+Barley,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2026F,3.38
+Barley,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2026F,206.19
+Barley,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2026F,5.77
+Barley,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2026F,21.48
+Barley,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2026F,154.87
+Barley,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2026F,95.78
+Barley,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2026F,17.19
+Barley,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2026F,25.65
+Barley,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2026F,320.73
+Barley,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2026F,526.92
+Barley,Operating costs,Seed,Dollars per planted acre,U.S. total,2027F,24.97
+Barley,Operating costs,Fertilizer,Dollars per planted acre,U.S. total,2027F,76.81
+Barley,Operating costs,Chemicals,Dollars per planted acre,U.S. total,2027F,25.07
+Barley,Operating costs,Custom operations,Dollars per planted acre,U.S. total,2027F,8.42
+Barley,Operating costs,"Fuel, lube, and electricity",Dollars per planted acre,U.S. total,2027F,23.43
+Barley,Operating costs,Repairs,Dollars per planted acre,U.S. total,2027F,39.24
+Barley,Operating costs,Other variable expenses,Dollars per planted acre,U.S. total,2027F,3.75
+Barley,Operating costs,Interest on operating capital,Dollars per planted acre,U.S. total,2027F,3.28
+Barley,Operating costs,"Total, operating costs",Dollars per planted acre,U.S. total,2027F,204.98
+Barley,Allocated overhead,Hired labor,Dollars per planted acre,U.S. total,2027F,5.92
+Barley,Allocated overhead,Opportunity cost of unpaid labor,Dollars per planted acre,U.S. total,2027F,22.03
+Barley,Allocated overhead,Capital recovery of machinery and equipment,Dollars per planted acre,U.S. total,2027F,161.20
+Barley,Allocated overhead,Opportunity cost of land (rental rate),Dollars per planted acre,U.S. total,2027F,98.80
+Barley,Allocated overhead,Taxes and insurance,Dollars per planted acre,U.S. total,2027F,17.62
+Barley,Allocated overhead,General farm overhead,Dollars per planted acre,U.S. total,2027F,26.53
+Barley,Allocated overhead,"Total, allocated costs",Dollars per planted acre,U.S. total,2027F,332.11
+Barley,Costs listed,"Total, costs listed",Dollars per planted acre,U.S. total,2027F,537.08

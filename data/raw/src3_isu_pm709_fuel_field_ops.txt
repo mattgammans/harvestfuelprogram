@@ -1,0 +1,82 @@
+Machinery Management
+
+Fuel Required for Field Operations
+The table below contains estimates         The values for row-crop operations                keep wheel slippage below 15 percent,
+of the average quantity of diesel fuel     were calculated for 30-inch rows.                 properly tuned and adjusted tractor
+required for farm field operations.        They should be adjusted for other row             engines, and partial load tractor
+The estimates include only the fuel        widths. All values were calculated                operation efficiency by shifting up a
+required for actual field work and do      assuming efficient materials handling             gear and throttling the engine back.
+not account for machine preparation        in the field, proper tractor ballasting to
+or travel to and from the field. Because
+fuel consumption values for any             Approximate Diesel Fuel Required for Field Operations
+particular operation vary among
+tractors, soil type, etc., actual fuel                                      Diesel Gallons                                  Diesel Gallons
+requirements may be as much as              Field Operation                 Per Acre         Field Operation                Per Acre
+35 percent higher or lower than the
+values listed in the table. Engine          Fertilization                                    Harvesting
+                                            Spreading dry fertilizer, bulk cart       0.15   Mower                                       0.30
+efficiencies increase over time. Older      Anhydrous ammonia (30-inch spacing)       0.55   Mower-conditioner, PTO                      0.55
+tractors manufactured before 1990 or                                                         Self-propelled windrower                    0.45
+in poor repair may use 10 percent or        Tillage                                          Rake                                        0.25
+more additional fuel. Older gasoline        Shredding cornstalks                      0.45   Baler                                       0.40
+powered equipment uses about                Moldboard plow                            1.70   Forage harvester
+                                            Subsoiler/ripper                          1.70     Green forage                              0.85
+50 percent more gallons of gasoline
+                                            Disk-chisel plow                          1.30     Haylage                                   1.15
+than the table values indicate.             Chisel plow                               1.10     Corn Silage                               3.25
+                                            Offset disk                               0.85     High-moisture ground ear corn             1.70
+Fuel requirements for tillage machines      Tandem disk, plowed field                 0.65   Forage blower
+were calculated for a central Iowa          Tandem disk, tilled field                 0.55     Green forage                              0.30
+loam soil. For heavier soils, the values    Tandem disk, cornstalks                   0.45     Haylage                                   0.25
+                                            Field cultivate, plowed field             0.70     Corn silage                               1.25
+in the table should be increased            Field cultivate, tilled field             0.65     High-moisture ground ear corn             0.40
+slightly. Values were calculated for a      Seedbed conditioner                       0.90   Combine, soybeans                           1.00
+7-inch plowing depth and 3- to 6-inch                                                        Combine, corn                               1.45
+operating depth for other tillage           Planting (30-inch rows)                          Hauling, field plus 1⁄2 mile on gravel road
+machines. Field speeds were assumed         Planter, seed only, tilled seedbed        0.40     Green forage                              0.30
+                                            Plant with fertilizer and pesticide                Haylage                                   0.20
+to be 4 to 6 mph for tillage operations,
+                                                attachments, tilled seedbed           0.55     Corn silage                               1.25
+5 mph for planting and spraying, 4 to       Till-planter                              0.55     Corn grain                                0.20
+5 mph for forage harvesting machines,       No-till planter                           0.45     Soybeans                                  0.08
+and 4 mph for corn and soybean              Grain drill                               0.30   Hauling, add following values to those above
+harvesting.                                 Broadcast seeder                          0.15     for each additional mile on gravel road
+                                            Air drill                                 0.70     Green forage                              0.15
+                                                                                               Haylage                                   0.20
+                                            Weed Control (30-inch rows)                        Corn silage                               0.80
+                                            Sprayer, trailer type                     0.10     Corn grain                                0.15
+                                            Rotary hoe                                0.20     Soybeans                                  0.05
+                                            Row-crop cultivator                       0.40
+
+
+
+
+                                                                                                               PM 709 Revised April 2001
+Other publications that will help you make good machinery management   Prepared by Mark Hanna, extension
+decisions are:                                                         agricultural engineer. Originally prepared
+                                                                       by George Ayres, former extension
+PM 696  Estimating Field Capacity of Farm Machines                     agricultural engineer.
+PM 710  Estimating Farm Machinery Costs
+PM 786  Combine Ownership or Custom Hire                               The U.S. Department of Agriculture
+PM 787  Acquiring Farm Machinery Services: Ownership, Custom Hire,     (USDA) prohibits discrimination in all its
+                                                                       programs and activities on the basis of race,
+        Rental, Leasing
+                                                                       color, national origin, gender, religion, age,
+PM 952 Farm Machinery Selection                                        disability, political beliefs, sexual orienta-
+PM 1373 Joint Machinery Ownership                                      tion, and marital or family status. (Not all
+PM 1450 Transferring Ownership of Farm Machinery                       prohibited bases apply to all programs.)
+PM 1860 Replacement Strategies for Farm Machinery                      Many materials can be made available in
+PM 1874 Fieldwork Days in Iowa                                         alternative formats for ADA clients. To
+                                                                       file a complaint of discrimination, write
+                                                                       USDA, Office of Civil Rights, Room 326-W,
+                                                                       Whitten Building, 14th and Independence
+File: Engineering 3-1 and Economics 1-8                                Avenue SW, Washington, DC 20250-9410
+                                                                       or call 202-720-5964.
+                                                                       Issued in furtherance of Cooperative
+                                                                       Extension work, Acts of May 8 and
+                                                                       June 30, 1914, in cooperation with the
+                                                                       U.S. Department of Agriculture. Stanley R.
+                                                                       Johnson, director, Cooperative Extension
+                                                                       Service, Iowa State University of Science
+                                                                       and Technology, Ames, Iowa.
+

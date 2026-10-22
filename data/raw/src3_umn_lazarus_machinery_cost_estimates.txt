@@ -1,0 +1,386 @@
+                                        Department of Agricultural     277 Coffey Hall
+                                        and Natural Resource Systems   1420 Eckles Avenue
+                                                                       St. Paul, MN 55108-6070
+
+                                                                       612-624-1234
+                                                                       Fax: 612-624-1260
+                                                                       www.extension.umn.edu
+                                                                       ext-anr@umn.edu
+
+
+
+
+                              MACHINERY COST ESTIMATES
+                                              by
+                                       William F. Lazarus
+                                            July 2024
+
+The tables in this publication contain estimates of farm machinery operation costs calculated
+via an economic engineering approach. The data are intended to show a representative
+farming industry cost for specified machines and operations.
+
+The 2024 machinery ownership and operating cost estimates are also available in a Microsoft
+Excel spreadsheet (MACHDATA.XLSM) which is available for downloading at
+z.umn.edu/machdata. Due to the wide variety of options and features in the farm equipment
+marketplace today it is becoming increasingly difficult to determine “typical” prices. While
+machine purchase prices are included here and in the spreadsheet, if possible I encourage you
+to enter your own purchase prices and the other input data in order to arrive at the most
+accurate results for your own situation.
+
+Machine costs are separated into time‐related and use‐related categories. Use‐related costs
+are incurred only when a machine is used. They include fuel, lubrication, use‐related repairs
+and labor. Time‐related costs, also often referred to as overhead costs, accrue to the owner
+whether or not a machine is used. Overhead includes time‐related economic costs: interest,
+insurance, and housing. Depreciation is both a use‐ and a time‐related cost. Depreciation will
+be related to use to the extent that increased annual usage shortens years of life and/or
+reduces salvage value. While not entirely use‐related, depreciation is included along with
+operating expenses and labor costs in the columns labeled "use‐related cost/acre".
+
+OVERHEAD COSTS: Time‐related costs are prorated over a 12‐year economic life except where
+otherwise indicated. Trade‐in values are estimated based on American Society of Agricultural
+Engineers formulas. Income tax implications are ignored. A housing charge of 97 cents per
+square foot of shelter space needed per year is made.
+
+A five percent interest rate is used in the cost estimates. This is intended to approximate a
+“real” (inflation‐adjusted) calculated by taking a nominal rate charged by lenders, minus a
+measure of the inflation rate per year expected over the years of ownership. Insurance is
+charged at 0.85 percent of the undepreciated value. The interest and insurance cost formulas
+have one year's depreciation added to the numerator in effect bases the costs on the value at
+the beginning of each year owned. This gives a slightly more accurate calculation of the actual
+costs over the years owned. Salvage value are also adjusted for inflation so that depreciation is
+also on an inflation‐adjusted basis. In states where farm machinery is taxed as personal
+property, property tax could be calculated in a similar manner, depending on how taxes are
+assessed.
+
+Formulas used to compute machinery overhead costs:
+
+                  purchase cost + salvage value + depreciation ($/year)
+Interest, $/year = ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ x “real” interest rate
+                                                    2
+
+                 purchase cost + salvage value + depreciation ($/year)
+Insurance, $/year =‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ x insurance rate
+                                                   2
+
+Housing, $/year = price per sq. foot x sq. feet shelter space required
+
+USE‐RELATED COSTS: Fuel cost is calculated by multiplying the fuel consumption by the price of
+fuel, with fuel consumption assumed to be 0.044 gallons of diesel fuel per PTO horsepower‐
+hour on average for each implement type. Fuel consumption per acre is averaged across sizes
+within a given implement type. The price of farm diesel fuel is projected at $2.98 per gallon. All
+power units, tractors, combines, trucks, etc., use diesel fuel. Lubrication cost is assumed to be
+10 percent of fuel cost.
+
+The formulas for repair and maintenance costs estimate total accumulated repair costs based
+on accumulated hours of lifetime use. Repair and maintenance calculations are based on
+American Society of Agricultural Engineers formulas. The total cost is then divided by
+accumulated hours to arrive at an average per hour cost estimate. The amount of annual use of
+a machine is an estimate of the number of hours a commercial farmer would use that particular
+machine in one year.
+
+Labor is charged at hourly rates that include benefits. The charge rates are $34.00 per hour for
+unskilled labor and $36.00 per hour for skilled labor. The skilled labor rate is generally used
+with the planting and harvesting equipment and sprayers. Labor per acre for an operation such
+as plowing or disking is calculated by using the work rate on the implement. Less labor per acre
+is used in a disking operation that covers more acres per hour than in a plowing operation. A
+small amount of extra labor is added over and above machine time to allow for downtime for
+tasks such as making adjustments and filling sprayers and planters. The labor adjustment
+ranges from 2 percent additional time for tillage to 25 percent for spraying.
+
+Economic depreciation is included in use‐related costs, calculated using the straight‐line
+formula:
+                              purchase cost ‐ salvage value
+Depreciation, $/year =         ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+                               years you will use machine
+                                                               2
+These estimates will not represent any given individual's cost. Differences in buying power,
+repair programs, average annual use, and overall replacement programs should be considered
+when making adjustments. It may be useful to record actual expenses for at least a few of your
+implements and compare your costs to these estimates. These estimates will differ from
+records because they are estimates, but also because they are averaged over the use period
+and are expressed in today's dollars. If these estimates are compared to recorded costs that
+include repairs or depreciation based on historical costs, one adjustment that would be
+required for comparability would be to index the historical cost to current prices.
+
+THE BOTTOM LINE: Machinery costs are substantial; control of them is important. Custom
+charges are often based upon them. No one should do custom work unless the charge will
+cover operating costs and use‐related depreciation plus a return for one's risk and time.
+Ideally, all allocated per acre or hour overhead costs should also be covered by anyone offering
+to do custom work. The market for custom work usually does not cover all costs. The market is
+usually somewhere in between the use‐related costs and total costs.
+
+ACCESS TO EDUCATIONAL PROGRAMS AND MATERIALS:
+The University of Minnesota shall provide equal access to and opportunity in its programs, facilities, and
+employment without regard to race, color, creed, religion, national origin, gender, age, marital status,
+familial status, disability, public assistance status, membership or activity in a local commission created
+for the purpose of dealing with discrimination, veteran status, sexual orientation, gender identity, or
+gender expression.
+
+DISABILITY ACCESS STATEMENT:
+This publication/material is available in alternative formats upon request. Direct requests to Waite
+Library, University of Minnesota, Department of Applied Economics, 232 Ruttan Hall, 1994 Buford
+Avenue, St. Paul, MN 55108, apecdept.umn.edu, 612‐625‐1222.
+
+ACKNOWLEDGEMENT:
+Funded by the USDA‐National Institute for Food and Agriculture under AES Project MIN‐14‐131. Any
+opinions, findings, conclusions, or recommendations expressed in this publication are those of the
+author(s) and do not necessarily reflect the view of the U.S. Department of Agriculture.
+
+
+
+
+                                                     3
+Summary of Per Acre Use‐Related Costs and Total Cost for Implements with Associated Power
+Units, Averaged Over All Sizes by Implement Type
+
+                          Use‐Related     Total                                   Use‐Related     Total
+                          Cost/Acre1    Cost/Acre                                 Cost/Acre1    Cost/Acre
+Chisel Plow                  $14.05      $19.99         Round Baler w/Bale
+                                                        Wrap                          $19.74     $22.94
+Chisel Plow, Front Dsk       $18.72      $25.73
+                                                        Large Rectangular Baler       $15.66     $19.99
+Moldboard Plow               $27.15      $34.90
+                                                        Forage Harvester, Pull‐
+Field Cultivator              $7.07       $9.67
+                                                        Type w/Corn Head              $75.24     $97.70
+Tandem Disk                  $15.26      $20.72
+                                                        Forage Harvester, Pull‐
+Row Crop Planter             $15.17      $22.30         Type w/Pickup Head            $37.69     $48.29
+Presswheel Drill             $15.80      $20.97         Forage Harvester, Self‐
+Air Seeder Drill w/Cart      $23.54      $33.60         Prop Corn Head                $51.04     $69.65
+
+No‐Till Drill                $28.34      $38.22         Forage Harvester, Self‐
+                                                        Prop Pickup Head              $54.97     $73.65
+Row Cultivator                $9.09      $12.02
+                                                        Forage Harvester, Self‐
+Boom Sprayer, Self‐                                     Prop Pickup Head (2X
+Propelled                     $6.73      $11.22         windrows)                     $33.18     $44.14
+Boom Sprayer, Pull‐                                     Combine Corn Hd               $48.01     $56.75
+Type                          $4.71       $7.59
+                                                        Combine Chopping Corn
+Stalk Shredder               $16.67      $21.88         Hd                            $52.26     $62.06
+Rotary                                                  Combine Platform              $43.79     $51.01
+Mower/Conditioner            $11.11      $14.87
+                                                        Combine Belt Pickup Hd        $39.36     $47.01
+Hay Rake                      $2.82       $3.67
+                                                        Grain Cart                    $32.33     $42.78
+Hay Merger                   $18.40      $21.15
+Hay Merger, Self‐
+Propelled                    $14.05      $19.99
+Hay Baler PTO Twine          $18.72      $25.73
+
+
+1
+  Use‐related cost/acre includes fuel, lubricants, repairs and maintenance, labor, and power and
+implement depreciation (depreciation is both time‐related and use‐related). The difference
+between use‐related cost and total cost is that total cost also includes overhead costs (interest,
+insurance, and housing).
+
+
+
+
+                                                    4
+                                                          2024 Minnesota Farm Machinery Estimates
+
+
+                                         Net Cost       Annual    Fuel & Oil Maintenance Depreciation      -- Overhead3 --      Total Cost   Total Cost   Diesel
+Tractor, combine or                      of a New       Hours     Cost Per    & Repair     Cost Per     Cost Per    Cost Per    Per Year     Per Hour     Use/Hr
+                      1                             2
+Forage Harvester HP                    Power Unit       of Use      Hour       Cost/Hr      Hour         Year         Hour       Of Use       Of Use      Gallons
+Tractors, Combines, and Self-Propelled Forage Harvesters (Without Heads)
+40 HP                                     $33,000           400      $5.77        $1.11       $4.02      $1,503         $3.76     $5,861       $14.65        1.76
+60 HP                                      37,000           400        8.65         1.24       4.50        1,686         4.21       7,446        18.61       2.64
+75 HP                                      65,000           400      10.82          2.30       7.62        2,934         7.33     11,226         28.07       3.30
+105 HP MFWD                               173,000           450      15.14          5.19      21.28        7,162        15.92     25,890         57.53       4.62
+130 HP MFWD                               239,000           450      18.75          7.17      29.40        9,850        21.89     34,746         77.21       5.72
+160 HP MFWD                               299,000           500      23.08          9.97      33.34      12,321         24.64     45,515         91.03       7.04
+200 HP MFWD                               387,000           500      28.85        12.90       43.16      15,900         31.80     58,352       116.70        8.80
+225 HP MFWD                               402,000           400      32.45        10.72       55.22      16,653         41.63     56,009       140.02        9.90
+260 HP MFWD                               480,000           400      37.50          7.68      65.93      19,837         49.59     64,282       160.71       11.44
+310 HP 4WD                                491,000           400      44.71          7.86      67.44      20,286         50.71     68,291       170.73       13.64
+360 HP 4WD                                451,000           400      51.92          7.22      61.95      18,653         46.63     67,089       167.72       15.84
+425 HP 4WD                                536,000           400      61.30          8.58      73.63      22,123         55.31     79,523       198.81       18.70
+275 HP Combine                            447,000           400      39.66      105.71        82.32      15,943         39.86    107,018       267.54       12.10
+375 HP Combine                            525,000           400      54.09      124.15        96.68      18,754         46.89    128,722       321.80       16.50
+440 HP Combine                            557,000           400      55.25      131.72       102.57      19,868         49.67    135,684       339.21       16.85
+400 HP SP Forage Harvester Base
+Unit                                      524,000           350      31.47        73.19       68.46      23,429         66.94     84,021       240.06        9.60
+625 HP SP Forage Harvester Base
+Unit                                      630,000           350      49.17        88.00       82.31      28,071         80.20    104,888       299.68       15.00
+
+ 1
+   HP shown for the smaller tractors is PTO horsepower. Engine HP is shown for the larger tractors. PTO HP for the larger tractors runs about 87% of engine HP,
+ and is shown in parentheses. Fuel use is estimated at 0.044 gallons of diesel fuel per hour per PTO HP.
+ 2
+   Net cost of a new unit assumes no trade-in. Farm machinery is exempt from sales tax in Minnesota so no sales tax is included.
+ 3
+   Overhead costs include interest, insurance, and housing but not depreciation, which is shown separately because it varies to some extent with use. Overhead pe
+ hour will vary with annual use.
+
+
+
+
+                                                                                5
+                                                                                      2024 Minnesota Farm Machinery Estimates
+
+
+                                              Tractor        Net Cost           --Estimated--                                 Labor        --Implement Cost/Acre--           Total       Use-related Operating        Diesel
+                                                                                                                      2
+                                               Size          of a New         Work-Performed          -Power Cost/Acre -      Cost                 Deprec-                   Cost            Cost           Cost       Fuel
+                                                                        1                                                                                            3               4              5
+                Implement                      (HP)         Implement        Acres/hr     Acres/yr    Fuel       Other       Per Acre   Repairs     iation    Overhead   Per Acre        Per Acre       Per Acre     Gal/Acre
+
+Tillage                                                 0               $0        -             -                                                                        $      -
+
+Chisel Plow 23 Ft                     200 HP MFWD               $59,500         11.85           711     $2.14       $7.71       $2.93      $1.37      $4.79       $3.69 $     22.64      $    16.26     $     7.67       0.70
+
+Chisel Plow 37 Ft                     310 HP 4WD                $87,000         19.06        1,144      $2.23       $6.72       $1.82      $1.25      $4.36       $3.36 $     19.74      $    13.72     $     5.77       0.70
+
+Chisel Plow 57 Ft                     425 HP 4WD              $146,000          29.36        1,762      $2.49       $4.28       $1.18      $1.36      $4.75       $3.52 $     17.58      $    12.17     $     5.12       0.70
+
+Chisel Plow, Front Dsk 16.3 Ft        200 HP MFWD               $38,000          8.37           670     $4.08       $9.86       $4.14      $0.88      $3.22       $2.61 $     24.80      $    18.39     $    10.33       1.15
+
+Chisel Plow, Front Dsk 21.3 Ft Fold   310 HP 4WD                $59,500         10.95           876     $3.45      $12.15       $3.17      $1.06      $3.86       $2.98 $     26.66      $    19.05     $     8.71       1.15
+
+Moldboard Plow 6 Bottom-18, 9 Ft      130 HP MFWD               $33,500          4.17           501     $4.15      $14.36       $8.31      $3.46      $3.83       $2.94 $     37.05      $    28.87     $    17.81       1.32
+
+Moldboard Plow 8 Bottom-18, 12 Ft     160 HP MFWD               $44,500          5.56           668     $4.49      $11.87       $6.23      $3.45      $3.82       $2.89 $     32.75      $    25.43     $    15.80       1.32
+
+Field Cultivator 23 Ft                105 HP MFWD               $54,000         16.59        1,659      $1.12       $2.35       $2.09      $1.05      $1.86       $1.42 $      9.90      $     7.52     $     4.47       0.31
+
+Field Cultivator 47 Ft                260 HP MFWD             $111,000          33.90        3,390      $0.93       $3.81       $1.02      $1.06      $1.88       $1.43 $     10.12      $     7.23     $     3.32       0.31
+
+Field Cultivator 60 Ft                310 HP 4WD              $139,000          43.27        4,327      $1.00       $2.94       $0.80      $1.04      $1.84       $1.38 $      9.00      $     6.45     $     3.04       0.31
+
+Tandem Disk 21 Ft Fold                160 HP MFWD               $89,000         12.22        1,222      $2.97       $4.48       $2.84      $2.44      $4.17       $3.12 $     20.02      $    14.88     $     8.52       0.74
+
+Tandem Disk 30 Ft Fold                360 HP 4WD              $129,000          17.45        1,745      $1.89       $7.72       $1.99      $2.47      $4.23       $3.12 $     21.42      $    15.63     $     7.31       0.74
+Planting                                                0               $0        -             -                                                                        $      -
+
+Row Crop Planter 6 Row-30, 15 Ft      60 HP                     $47,500          7.00           490     $1.41       $1.25       $5.97      $1.99      $4.42       $4.64 $     19.68      $    14.43     $     9.46       0.40
+
+Row Crop Planter 8 Row-30, 20 Ft      75 HP                     $59,000          9.33           653     $1.49       $1.52       $4.47      $1.86      $4.12       $4.26 $     17.71      $    12.67     $     7.90       0.40
+
+Row Crop Planter 12 Row-30, 30 Ft     105 HP MFWD             $136,000          14.00           980     $1.57       $2.54       $2.98      $2.85      $6.33       $6.38 $     22.65      $    15.13     $     7.53       0.40
+
+Row Crop Planter 16 Row-30, 40 Ft     200 HP MFWD             $200,000          18.67        1,307      $1.10       $5.15       $2.24      $3.14      $6.98       $6.93 $     25.54      $    16.91     $     7.40       0.40
+
+Row Crop Planter 24 Row-30, 60 Ft     310 HP 4WD              $324,000          28.00        1,960      $1.05       $5.05       $1.49      $3.40      $7.53       $7.39 $     25.91      $    16.71     $     6.49       0.40
+
+Presswheel Drill 16 Ft                105 HP MFWD               $29,500          6.79           509     $1.78       $6.70       $5.89      $1.38      $3.42       $2.58 $     21.73      $    16.81     $    10.03       0.61
+
+Presswheel Drill 20 Ft                130 HP MFWD               $35,000          8.48           636     $1.80       $7.30       $4.71      $1.31      $3.24       $2.46 $     20.81      $    15.78     $     8.87       0.61
+
+Presswheel Drill 25 Ft                130 HP MFWD               $63,000         10.61           795     $2.24       $5.04       $3.77      $1.88      $4.67       $3.41 $     21.01      $    15.53     $     8.33       0.61
+
+Presswheel Drill 30 Ft                160 HP MFWD               $79,500         12.73        1,018      $2.20       $4.95       $3.14      $2.12      $4.60       $3.32 $     20.33      $    15.08     $     8.05       0.61
+
+Air Seeder Drill w/Cart 52 Ft         260 HP MFWD             $342,000          22.06        1,765      $1.70       $5.58       $1.81      $5.27     $11.42       $7.81 $     33.60      $    23.54     $     9.13       0.52
+
+No-Till Drill 15 Ft                   130 HP MFWD               $79,000          6.36           509     $2.95       $9.19       $6.28      $4.22      $9.15       $6.44 $     38.22      $    28.34     $    14.57       0.90
+Crop Maintenance                                        0               $0        -             -                                                                        $      -
+
+Row Cultivator 12 Row-30, 30 Ft       160 HP MFWD               $48,000         15.45        1,545      $1.49       $4.40       $2.29      $0.73      $1.78       $1.33 $     12.02      $     9.09     $     5.16       0.46
+
+Boom Sprayer, Self-Propelled 120 Ft   None                    $673,000          66.18        6,618      $0.45       -$0.45      $0.68      $1.19      $4.63       $4.49 $     11.22      $     6.73     $     2.10       0.07
+
+Boom Sprayer, Pull-Type 90 Ft         130 HP MFWD               $54,500         46.09        1,152      $0.41       $1.27       $0.98      $0.38      $2.16       $2.41 $      7.59      $     4.71     $     1.91       0.12
+
+
+
+                                                                                                          6
+                                                                                           2024 Minnesota Farm Machinery Estimates
+
+
+                                                Tractor           Net Cost           --Estimated--                                Labor        --Implement Cost/Acre--            Total       Use-related Operating        Diesel
+                                                                                                                           2
+                                                 Size             of a New         Work-Performed          -Power Cost/Acre -     Cost                 Deprec-                    Cost            Cost           Cost       Fuel
+                                                                             1                                                                                            3               4              5
+              Implement                          (HP)            Implement        Acres/hr     Acres/yr    Fuel       Other      Per Acre   Repairs     iation    Overhead    Per Acre        Per Acre       Per Acre     Gal/Acre
+
+Stalk Shredder 20 Ft                   130 HP MFWD                   $40,500          7.76           776     $2.42       $7.54      $4.82      $1.75      $2.97       $2.39 $      21.88      $    16.67     $     9.91       0.74
+Harvest                                                      0               $0        -             -                                                                        $      -
+
+Rotary Mower/Conditioner 12 Ft         75 HP                         $47,500          8.73           698     $1.24       $1.98      $4.09      $0.93      $3.71       $2.92 $      14.87      $    11.11     $     6.52       0.38
+
+Hay Rake 30 Ft                         40 HP                         $31,000         26.18        2,095      $0.22       $0.34      $1.32      $0.22      $0.86       $0.70 $       3.67      $     2.82     $     1.81       0.07
+
+Hay Merger 14 Ft                       75 HP                         $74,000         10.86        2,172      $0.87       $1.71      $3.19      $1.83      $1.99       $1.51 $      11.10      $     8.92     $     6.17       0.29
+
+Hay Merger 34 Ft                       160 HP MFWD                 $295,000          26.38        5,275      $1.00       $2.46      $1.31      $1.79      $3.05       $2.35 $      11.96      $     8.67     $     4.42       0.29
+
+Hay Baler PTO Twine 12 Ft              40 HP                         $37,000          4.36           873     $1.32       $2.04      $9.16      $4.28      $2.47       $1.89 $      21.15      $    18.40     $    15.01       0.40
+
+Round Baler w/Bale Wrap 5x6 , 20 Ft    75 HP                       $114,000           9.45        1,891      $1.14       $1.82      $3.67     $10.36      $3.52       $2.43 $      22.94      $    19.74     $    15.41       0.35
+
+Large Rectangular Baler 3x3 , 20 Ft    130 HP MFWD                 $155,000          11.64        2,909      $1.61       $5.02      $3.43      $3.56      $3.11       $2.20 $      18.94      $    14.86     $     9.23       0.49
+
+Large Rectangular Baler 4x3 , 20 Ft    130 HP MFWD                 $192,000          11.64        2,909      $1.61       $5.02      $3.43      $4.42      $3.85       $2.71 $      21.04      $    16.45     $    10.08       0.49
+Forage Harvester, Pull-Type w/Corn
+Head 3 Row, 7.5 Ft                     160 HP MFWD                   $96,500          2.07           414   $11.16       $32.86     $19.32     $13.15     $10.67      $10.54 $      97.70      $    75.24     $    48.45       3.40
+Forage Harvester, Pull-Type w/Pickup
+Head 12 Ft                             105 HP MFWD                   $84,500          3.31           662     $4.58      $12.81     $12.08      $7.20      $5.84       $5.80 $      48.29      $    37.69     $    25.42       1.40
+Forage Harvester, Self-Prop Corn Head 625 HP SP Forage
+6 Row, 15 Ft                          Harvester Base Unit          $107,000           5.09        1,018      $7.24      $51.62      $7.85      $1.68      $4.81       $4.89        $78.09 $        57.45     $    35.27       2.58
+Forage Harvester, Self-Prop Corn Head 625 HP SP Forage
+8 Row, 20 Ft                          Harvester Base Unit          $141,000           6.79        1,358      $9.66      $34.49      $5.89      $1.66      $4.75       $4.76        $61.21 $        44.63     $    28.96       2.58
+Forage Harvester, Self-Prop Pickup     400 HP SP Forage
+Head 12 Ft                             Harvester Base Unit           $35,000          4.07           815     $7.73      $51.22      $9.81      $0.69      $1.96       $2.24        $73.65 $        54.97     $    36.20       2.36
+Forage Harvester, Self-Prop Pickup     625 HP SP Forage
+Head (2X windrows) 24 Ft               Harvester Base Unit           $35,000          8.15        1,629      $6.04      $30.75      $4.91      $0.34      $0.98       $1.12        $44.14 $        33.18     $    22.09       1.84
+
+Combine Platform 20 Ft                 275 HP Combine                $36,000          5.94        1,188      $6.68      $38.37      $6.73      $0.79      $2.14       $1.17        $55.88 $        48.00     $    32.00       2.04
+
+Combine Platform 25 Ft                 375 HP Combine                $43,500          7.42        1,485      $6.07      $37.27      $5.38      $0.77      $2.07       $1.12        $52.68 $        45.25     $    29.55       2.04
+
+Combine Platform 30 Ft                 375 HP Combine                $51,000          8.91        1,782      $7.29      $28.84      $4.49      $0.75      $2.02       $1.08        $44.46 $        38.11     $    25.85       2.04
+
+Combine Corn Hd 6 Row-30, 15 Ft        275 HP Combine                $66,000          5.09        1,018      $5.30      $47.25      $7.85      $1.70      $4.58       $2.43        $69.11 $        58.85     $    36.86       2.00
+
+Combine Corn Hd 8 Row-30, 20 Ft        275 HP Combine                $85,500          6.79        1,358      $7.25      $32.16      $5.89      $1.65      $4.45       $2.37        $53.77 $        45.53     $    29.66       2.00
+Combine Chopping Corn Hd 8 Row-30,
+20 Ft                              275 HP Combine                  $115,000           6.79        1,358      $6.60      $32.81      $5.89      $7.65      $4.53       $3.61        $61.10 $        51.61     $    35.34       1.90
+
+Combine Corn Hd 12 Row-30, 30 Ft       375 HP Combine              $131,000          10.18        2,036      $7.78      $23.82      $3.92      $1.69      $4.54       $2.38        $44.13 $        37.15     $    24.35       2.00
+
+Combine Corn Hd 12 Row-22, 22 Ft       375 HP Combine              $129,000           7.47        1,493      $5.85      $37.25      $5.35      $2.26      $6.10       $3.20        $60.01 $        50.53     $    30.79       2.00
+Combine Chopping Corn Hd 12 Row-
+30, 30 Ft                              440 HP Combine              $174,000          10.18        2,036      $7.02      $26.30      $3.92      $7.72      $4.57       $3.60        $53.14 $        44.65     $    30.80       1.90
+
+
+
+                                                                                                               7
+                                                                                      2024 Minnesota Farm Machinery Estimates
+
+
+                                              Tractor            Net Cost          --Estimated--                                Labor        --Implement Cost/Acre--          Total       Use-related Operating       Diesel
+                                                                                                                         2
+                                                Size             of a New        Work-Performed          -Power Cost/Acre -     Cost                 Deprec-                  Cost           Cost           Cost       Fuel
+                                                                            1                                                                                           3             4             5
+              Implement                         (HP)            Implement       Acres/hr   Acres/yr      Fuel       Other      Per Acre   Repairs     iation    Overhead    Per Acre      Per Acre      Per Acre     Gal/Acre
+Combine Chopping Corn Hd 12 Row-
+22, 22 Ft                            440 HP Combine                $170,000         7.47      1,493        $5.05      $40.38      $5.35     $10.29      $6.09       $4.80      $71.96 $       60.50     $    39.50       1.90
+
+Combine Belt Pickup Hd 23 Ft         275 HP Combine                  $56,000        7.81           832     $5.08      $29.19      $5.12      $0.47      $4.60       $2.55      $47.01 $       39.36     $    24.21       1.55
+
+Grain Cart 30 Ft                     225 HP MFWD                   $152,000         6.87      1,375        $4.72      $15.65      $5.49      $6.07      $6.45       $4.39      $42.78 $       32.33     $    17.84       1.44
+1
+ Net cost of a new unit assumes no trade-in. Farm machinery is exempt from sales tax in Minnesota so no sales tax is included.
+2
+ Power cost per acre for the power unit assigned to each implement multiplied times that implement’s acres/hour equals that power unit’s total cost per hour shown in the “Tractors,
+Combines, and Self-Propelled Forage Harvesters (Without Heads)” table above.
+3
+ Overhead per acre will vary with annual use.
+4
+ Total cost/acre is total cost per hour divided by acres per hour. Includes fuel, lubricants, power and equipment repairs and maintenance, labor, and overhead costs including depreciation.
+Fuel is included in power cost.
+5
+ Use-related cost/acre is included in the total cost/acre amount. Use-related cost/acre includes everything in total cost/acre EXCEPT that non-depreciation overhead costs (interest,
+insurance, and housing) are omitted. Depreciation is included in use-related cost under the assumption that extra use reduces trade-in value which increases annual depreciation. In other
+words, depreciation is considered here to be at least partially use-related even though it is commonly thought of as being mainly time-related.
+
+
+
+
+                                                                                                             8
+

@@ -1,0 +1,219 @@
+# Inputs for analysis/. Two kinds of entries:
+#   inputs:  sourced values (source string gives report, table/page, and the local file in data/raw/)
+#   bounds:  the few quantities no source measures. Each is labeled BOUND (logical limits of the quantity,
+#            midpoint as central; used only where the whole term is shown to be small) or SCENARIO
+#            (behavioral, not estimable before the fact; results are reported across its range).
+# Every model parameter is DERIVED from these in analysis/derive.py, which records how
+# (see outputs/derived_params.csv and appendix section A8).
+
+window:
+  start: 2026-09-29
+  end: 2026-11-30
+  days: 63
+  source: "EO 2026-08 (nd_EO_2026-08.pdf): effective immediately, through Nov. 30, 2026"
+
+tax:
+  nd_clear_cents: 23
+  nd_dyed_cents: 4
+  relief_cents: 19
+  federal_cents: 24.4
+  lust_cents: 0.1
+  source: "NDCC 57-43.2-02 and -03 (ndcc_57-43.2.txt); governor's release 9/29/2026; 26 U.S.C. 4081; Reuters 9/28/2026 (LUST 0.1c)"
+
+htdf_split:
+  state_highway_fund: 0.60
+  counties_and_cities: 0.35
+  townships: 0.034
+  public_transit: 0.016
+  city_share_of_county: 0.27
+  source: "NDCC 54-27-19 (ndcc_54-27.txt)"
+
+inputs:
+  # ---------- 2026 crops (NASS) ----------
+  crops_2026:
+    source: "NASS Crop Production 9/11/2026 (nass_crop0926.txt: corn, soybeans, sugarbeets) and 8/12/2026 (nass_crop0826.txt: wheat, durum, barley, dry beans); NASS Acreage 6/30/2026 (src2_acrg0626.txt: canola, sunflower planted); Crop Production 2025 Summary (src2_cropan26.txt: 2025 sunflower, potatoes)"
+    corn: {production_bu: 578.5e+6, lb_per_bu: 56, acres: 4.45e+6}
+    soybeans: {production_bu: 203.7e+6, lb_per_bu: 60, acres: 6.79e+6}
+    sugarbeets: {production_tons: 5.898e+6, acres: 0.202e+6}
+    spring_wheat: {acres: 4.49e+6, production_bu: 246.95e+6}
+    durum: {acres: 0.91e+6, production_bu: 35.49e+6}
+    barley: {acres: 0.35e+6, production_bu: 24.85e+6}
+    oats: {acres: 0.105e+6}
+    dry_beans: {production_cwt: 7.04e+6, acres: 0.44e+6}
+    canola: {acres: 2.35e+6, production_lb_2025: 3816.0e+6}
+    sunflower: {acres: 0.605e+6, acres_2025: 0.575e+6, production_lb_2025: 1088.4e+6}
+    potatoes: {production_cwt_2025: 24.84e+6}
+  pct_harvested_sep27_2026:
+    source: "NASS Crop Progress, week ending 9/27/2026 (nass_prog3926.txt)"
+    corn: 0.08
+    soybeans: 0.22
+    sugarbeets: 0.25
+    sunflower: 0.03
+  pct_harvested_late_nov_history:   # ND, 2016-2025, week ending closest to Nov 30 (or last reported value)
+    source: "NASS Crop Progress 2016-2025 (src2_cropprog_*.txt)"
+    corn: [93, 94, 80, 36, 97, 95, 98, 93, 90, 89]
+    soybeans: [99, 100, 94, 92, 100, 100, 100, 97, 100, 97]
+    sugarbeets: [99, 100, 99, 99, 99, 99, 100, 100, 100, 99]
+    sunflower: [97, 93, 80, 51, 98, 96, 94, 82, 91, 89]
+  usual_harvest_dates_nd:           # begin (~5%), most-active start (15%), most-active end (85%), end (~95%)
+    source: "NASS Field Crops Usual Planting and Harvesting Dates, Oct. 2010, p. 44 and definitions p. 3 (src3_nass_usual_planting_harvesting_dates_2010.txt)"
+    dry_beans: ["08-30", "09-07", "10-11", "10-26"]
+    potatoes: ["09-02", "09-10", "10-07", "10-16"]
+  grain_stocks_onfarm_1000bu:
+    source: "NASS Grain Stocks 9/30/2025 (src2_grst0925.txt), 1/12/2026 (src2_grst0126.txt), 9/30/2026 (src2_grst0926.txt); Sept 1 corn/soy are old crop"
+    y2024: {wheat_sep1: 222000, wheat_dec1: 173000, barley_sep1: 16500, barley_dec1: 15500, corn_dec1: 325000, soy_dec1: 79000}
+    y2025: {wheat_sep1: 221000, wheat_dec1: 168000, barley_sep1: 22500, barley_dec1: 15000, corn_dec1: 380000, soy_dec1: 105000}
+    y2026: {wheat_sep1: 165000, barley_sep1: 18500}
+  production_1000bu:
+    source: "NASS Crop Production 2025 Summary, 1/12/2026 (src2_cropan26.txt)"
+    y2024: {corn: 542360, soybeans: 245625}
+    y2025: {corn: 711000, soybeans: 223905}
+  harvested_by_dec1_share:
+    source: "Same Crop Progress history (last ND value on or before ~Dec 1)"
+    y2024: {corn: 0.90, soybeans: 1.00}
+    y2025: {corn: 0.89, soybeans: 0.97}
+
+  # ---------- trucks and hauling ----------
+  dp284:
+    source: "Vachal, UGPTI DP-284 (2015), 2013-crop survey (params_ugpti_dp284_farm_truck_fleet.pdf; text dp284.txt)"
+    direct_from_field_share: {corn_nd: 0.33, wheat_nd: 0.36, soybeans_region: 0.66}   # p. 11
+    oneway_miles: {wheat_nd: 24.5, corn_nd: 27.8, semi_wheat_nd: 21.7, semi_corn_nd: 25.5, region_second: 41.7}  # T3.52, T3.56, T3.70, T3.73, T3.46
+    nd_fleet_share: {single: 0.187, tandem: 0.224, tridem: 0.105, semi5: 0.406, semi7: 0.033, other: 0.044}  # T3.34
+    corn_bu_per_load: {single: 366, tandem: 581, tridem: 661, semi5: 930, semi7: 1092}   # T3.65
+    annual_miles: {single: 1186, tandem: 2172, tridem: 3768, semi5: 6954, semi7: 16920}  # T3.38 (region)
+  ugpti_2024_grain_to_elevator_share:
+    source: "UGPTI Infrastructure Needs 2024-2043, Table 12 (params_ugpti_2024_infrastructure_needs.pdf)"
+    semi5: 0.5496
+    tandem: 0.2515
+    tridem: 0.1255
+  mpg:
+    source: "ORNL Transportation Energy Data Book Ed. 40 (params_ornl_tedb_ed40.pdf): T5.2 combination 6.2 (all-trip average); T5.1 single-unit 7.6; T5.12 Class 8 at 25-55 mph 4.4-5.8"
+    combination_avg: 6.2
+    single_unit_avg: 7.6
+    class8_speed_test_low: 4.4
+    class8_speed_test_high: 5.8
+  census2022:
+    source: "2022 Census of Agriculture, ND: Tables 1, 9, 47, 72 (finance_census22_*.pdf; src5_census22_nd_table47_landuse.pdf); Table 8 county data (src4_census22_nd_county_st38_2_008_008.pdf, parsed at run time)"
+    farms: 25068
+    trucks_incl_pickups: 81912
+    harvested_cropland_acres: 21824571
+    intensive_tillage_acres: 4699452
+    size_classes_harvested:   # [farms, harvested cropland acres], farms with harvested cropland by size, Table 9
+      - [131, 321]
+      - [809, 13602]
+      - [255, 9713]
+      - [385, 19458]
+      - [404, 28214]
+      - [816, 74110]
+      - [383, 44373]
+      - [423, 59331]
+      - [1907, 411591]
+      - [2580, 1112115]
+      - [3150, 2921467]
+      - [3799, 7786912]
+      - [2089, 9343364]
+    rrv_beet_counties: [Pembina, Walsh, Grand Forks, Traill, Cass, Richland]
+    mn_border_counties: [Pembina, Walsh, Grand Forks, Traill, Cass, Richland]
+    sd_border_counties: [Bowman, Adams, Sioux, Emmons, McIntosh, Dickey, Sargent, Richland]
+  gazetteer_file: "src5_census_gazetteer_2023_counties_nd.zip"   # Census 2023 Gazetteer, ALAND_SQMI
+  beets:
+    source: "American Crystal 2026 harvest district pages (src4_acsharvest_*.html): 12 ND receiving sites; Minn-Dak (src4_mdf_receiving-stations.html): 3 in ND; Agweek 2026 (src4_agweek_acs_2026_prepile.html): 208,000 ND beet acres; Grand Forks Herald example of a 10-mile haul (src4_gfherald_beet_drivers.html)"
+    nd_receiving_sites: 15
+    nd_receiving_sites_acs_only: 12
+    nd_beet_acres: 208000
+    news_example_miles: 10
+  livestock:
+    source: "NASS Cattle 1/30/2026 (src2_catl0126.txt): 2025 calf crop 860,000; NDDA licensed auction markets (src5_ndda_livestock_auction_markets.pdf): 10 cattle markets; OSU Beef Team (src5_osu_feeder_cattle_lot_size.html): pot load ~80 head of 500-lb calves"
+    calf_crop: 860000
+    auction_markets: 10
+    head_per_load: 80
+  fertilizer:
+    source: "USDA ERS fertilizer use (src2_ers_fertilizer_use_price_all_tables.xls): ND corn 146 lb N per fertilized acre (2018, Table 10); anhydrous ammonia is 82% N"
+    corn_n_lb_per_acre: 146
+    nh3_n_share: 0.82
+    nurse_tank_tons: 2.1     # 1,000-gal nurse tank x ~4.2 lb/gal liquid NH3 / 2000
+  field_ops_gal_per_acre:
+    source: "UMN Machinery Cost Estimates, July 2024, pp. 6-8 (src3_umn_lazarus_machinery_cost_estimates.txt); ISU PM 709 (src3_isu_pm709_fuel_field_ops.txt) for anhydrous"
+    combine_corn: 2.00
+    combine_platform: 2.04
+    combine_pickup: 1.55
+    grain_cart: 1.44
+    planter: 0.40
+    field_cultivator: 0.31
+    sprayer_sp: 0.07
+    chisel: 0.70
+    anhydrous_isu: 0.55
+  ndsu_budgets_fuel_lube_per_acre:   # EC1654, EC1656, EC1659, EC1660 (Feb 2026)
+    source: "NDSU 2026 Projected Crop Budgets (finance_ndsu_2026_ec16xx.txt); $2.55/gal diesel, lube 15% of fuel"
+    diesel_price: 2.55
+    lube_share: 0.15
+    corn: [22.97, 26.45, 26.11, 27.95]
+    soybeans: [12.21, 15.87, 14.03, 16.26]
+    spring_wheat: [15.96, 19.60, 17.59, 19.60]
+    durum: [16.01, 19.20, 17.42]
+    barley: [17.15, 20.13, 18.34, 20.58]
+    oats: [19.34, 23.16, 19.51, 22.76]
+    canola: [15.07, 16.43, 16.82]
+    sunflower: [16.99, 18.92, 19.40, 19.67]
+    dry_beans: [17.37, 18.33, 19.41, 18.04]
+  farm_diesel_annual:
+    source: "EIA adjusted distillate sales by end use, ND farm (topdown_eia_adjusted_distillate_by_enduse_ND_annual.xls); ERS FIWS 9/3/2026, ND diesel expense 2025 (finance_ers_fiws_september-3-2026-release.zip)"
+    eia_farm_gal: [133.751e+6, 151.460e+6, 136.768e+6, 151.620e+6, 194.938e+6]   # 2016-2020
+    ers_diesel_expense_2025: 359.817e+6
+  fhwa_mf33sf_2024_gal:
+    source: "FHWA Highway Statistics 2024, MF-33SF, ND (topdown_fhwa_hs2024_mf33sf.html)"
+    sep: 30658884
+    oct: 26684819
+    nov: 30579990
+  road_cost:
+    source: "FHWA HCAS 2000 Addendum Table 13 (params_fhwa_hcas2000_addendum.html); BLS CPI-U (src3_bls_cpiu_*.json); DOT NHCCI 2003Q1=1 (src3_dot_nhcci_r94d-n4f9.csv); FHWA Bid Price Index 1987=100 (src3_fhwa_bpi_pt2006q4.html); UGPTI Infrastructure Needs 2024"
+    pavement_cents_80kip_rural_interstate_2000: 12.7
+    cpi_2000: 172.2
+    cpi_aug2026: 334.980
+    nhcci_2026q1: 3.13482
+    bpi_2000: 145.6
+    bpi_2003: 149.8
+    local_road_needs_per_year: 618.0e+6
+  benchmarks:
+    nd_net_farm_income_2025: {value: 2.978e+9, source: "ERS FIWS 9/3/2026"}
+    raff_nd_nfi_2026_proj: {value: 2.91e+9, source: "NDSU RaFF/CAPTS Fall 2025 outlook"}
+    ndsu_cost_per_acre: {low: 5, high: 8, source: "NDSU Extension (R. Haugen) via NewsCoop ND 8/28/2026"}
+  prices:
+    source: "EIA weekly retail diesel (eia_pet_pri_gnd_*.xls); AAA via InForum 9/29/2026 (not independently verified)"
+    baseline_window: ["2025-09-01", "2025-11-30"]
+    nd_current_aaa: 6.14
+  example_farm:
+    corn_acres: 1000
+    soy_acres: 1000
+
+bounds:
+  field_share_farmed_within_radius:
+    kind: BOUND
+    low: 0.25
+    central: 0.5
+    high: 1.0
+    why: "Share of cropland around the home yard that the operation itself farms. 1.0 is the logical maximum (one contiguous block); 0.25 means neighbors farm three of every four acres nearby. Enters only the short field-to-bin leg."
+  fall_share_intensive_tillage:
+    kind: BOUND
+    low: 0.0
+    central: 0.5
+    high: 1.0
+    why: "Share of Census intensive-tillage acres tilled in Oct-Nov rather than spring. Logical limits. Enters only the fall farm-fuel denominator."
+  fall_share_nh3:
+    kind: BOUND
+    low: 0.0
+    central: 0.5
+    high: 1.0
+    why: "Share of corn N applied as fall anhydrous. Logical limits. NDSU guidance bars fall NH3 before Oct 1 (src3_ndsu_guidelines_fall_n_application.html), so any fall NH3 falls in the window."
+  calves_shipped_in_window:
+    kind: BOUND
+    low: 0.0
+    central: 0.5
+    high: 1.0
+    why: "Share of the calf crop shipped Sept 29-Nov 30. NDSU calls fall the 'heavy fall calf marketing season' (src2_ndsu_2019_cattle_marketing_advice.html); no monthly count is published."
+  risk_acceptance:
+    kind: ASSUMPTION
+    low: 1.0
+    central: 1.0
+    high: 1.0
+    why: "Author's choice: every operator with dyed fuel on hand uses it on-road. Federal penalty exposure remains (no IRS relief as of Oct 2, 2026), so this is an upper bound on this factor; actual use could be lower."

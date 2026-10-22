@@ -1,0 +1,990 @@
+<html>
+<head>
+<title>Federal Register, Volume 91 Issue 35 (Monday, February 23, 2026)</title>
+</head>
+<body><pre>
+[Federal Register Volume 91, Number 35 (Monday, February 23, 2026)]
+[Rules and Regulations]
+[Pages 8360-8368]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2026-03456]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF AGRICULTURE
+
+Commodity Credit Corporation
+
+7 CFR Part 1414
+
+[Docket ID FSA-2026-0001]
+RIN 0560-AI87
+
+
+Farmer Bridge Assistance (FBA) Program
+
+AGENCY: Commodity Credit Corporation, U.S. Department of Agriculture 
+(USDA).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Commodity Credit Corporation (CCC) is issuing this rule to 
+provide $11 billion in one-time bridge payments to American farmers in 
+response to temporary trade market disruptions and increased production 
+costs. Payments under the Farmer Bridge Assistance (FBA) Program are 
+intended in part to aid producers until assistance from provisions in 
+the One Big Beautiful Bill Act (OBBBA), notably increases in reference 
+prices to major covered commodities, reach eligible famers after 
+October 1, 2026.
+
+DATES: This rule is effective on February 23, 2026.
+
+FOR FURTHER INFORMATION CONTACT: Michael Walter; telephone: (816) 491-
+6934; or email: <a href="/cdn-cgi/l/email-protection#f7ba9e949f96929bd9a0969b839285c6b782849396d9909881"><span class="__cf_email__" data-cfemail="460b2f252e27232a6811272a32233477063335222768212930">[email&#160;protected]</span></a>. Individuals with disabilities 
+who require alternative means for communication should contact the USDA 
+Target Center at (202) 720-2600 (voice and text telephone (TTY mode)) 
+or dial 711 for Telecommunications Relay Service (both voice and text 
+telephone users can initiate this call from any telephone).
+
+SUPPLEMENTARY INFORMATION:
+
+Table of Contents
+
+I. Background
+II. How To Apply
+III. Payment Limitation and Payment Eligibility
+IV. Regulatory Analyses
+    A. Notice and Comment and Effective Date
+    B. Executive Orders 12866, 13563, and 14192
+    C. Cost Benefit Analysis Summary
+    D. Environmental Review
+    E. Executive Order 13175
+    F. Unfunded Mandates Reform Act
+    G. Paperwork Reduction Act Requirements
+    H. E-Government Act Compliance
+
+I. Background
+
+    CCC will make $11 billion available in one-time bridge payments to 
+American farmers in response to temporary trade market disruptions and 
+increased production costs that are still impacting farmers. These 
+bridge payments are intended in part to aid farmers until historic 
+investments from the OBBBA (Pub. L. 119-21), including reference prices 
+which are set to increase between 10-21 percent for major covered 
+commodities such as soybeans, corn, and wheat, reach eligible farmers 
+after October 1, 2026. Eligible producers are those who: (1) produced 
+2025 crops of barley, canola, chickpeas, corn, cotton, crambe, flax, 
+lentils, mustard, oats, peanuts, peas, rapeseed, rice, safflower, 
+sesame, sorghum, soybeans, sunflower, and wheat (referred to as 
+``eligible commodities'' in this rule); (2) have timely filed a crop 
+acreage report with the Farm Service Agency (FSA) by December 19, 2025, 
+specifying the acreage planted to each eligible commodity in crop year 
+2025; and (3) comply with other requirements specified in this rule.
+    The FBA Program will help address market disruptions, elevated 
+input costs, persistent inflation, and market losses. The FBA Program 
+applies simple, proportional assistance to producers using a uniform 
+formula to cover a portion of modeled losses during the 2025 crop year. 
+This national loss average is based on FSA timely reported planted 
+acres, Economic Research Service (ERS) cost of production estimates, 
+World Agricultural Supply and Demand Estimates (WASDE) yields and 
+prices (for many crops), and economic modeling (for crops not covered 
+in WASDE or for which ERS cost of production data are unavailable). 
+Producers are not required to purchase crop insurance or Noninsured 
+Crop Disaster Assistance Program (NAP) coverage to be eligible for the 
+FBA Program; however, USDA strongly urges producers to take advantage 
+of the new OBBBA risk management tools to best protect against price 
+risk and volatility in the future. CCC intends to issue FBA Program 
+payments to eligible producers in early 2026.
+    The Agricultural Act of 2014 (``2014 Act''; Pub. L. 113-79) 
+authorized assistance to producers of specified commodities under the 
+Agricultural Risk Coverage (ARC) and the Price Loss Coverage (PLC) 
+Programs for the 2014 through 2018 crop years. Generally, these 
+programs provide assistance when market prices are less than specified 
+``effective prices'' set forth in the 2014 Act. The ARC Program 
+provides payments when actual crop revenues fall below a specified 
+guarantee level, while the PLC Program provides payments when the 
+national average market price (or the national average loan rate, if 
+higher) for a given covered commodity falls below a specified effective 
+reference price for that commodity.
+    The Agriculture Improvement Act of 2018 (Pub. L. 115-334) extended 
+these programs through the 2023 crop year, and subsequent 1-year 
+extensions authorized continuation of the programs through the 2025 
+crop year (Pub. L. 118-22; Pub. L. 118-158). While these acts made 
+minor changes to the structure of the ARC and PLC Programs, statutory 
+reference prices were not updated to reflect changes in market prices 
+that had occurred since the enactment of the 2014 Act (see Table 1).
+    Since the enactment of the 2014 Act, there have been major changes 
+in commodity markets and the price of inputs required to produce 
+covered commodities included in the ARC and PLC Programs. During the 
+past four years the costs associated with the production of these 
+commodities have increased significantly. Recognizing these changes in 
+markets, and specifically the increase in input costs, the OBBBA 
+increased the statutorily established reference prices used to 
+administer these programs for the 2025 through 2030 crop years.
+
+[[Page 8361]]
+
+
+
+                      Table 1--Reference Prices for ARC and PLC Program Covered Commodities
+----------------------------------------------------------------------------------------------------------------
+                                                        Reference price
+               Covered commodity               --------------------------------               Unit
+                                                   2014-2024      2025-2030 *
+----------------------------------------------------------------------------------------------------------------
+Barley........................................           $4.95           $5.45  Dollars/Bushel.
+Canola........................................           20.15           23.75  Dollars/Hundredweight.
+Chickpeas, Large..............................           21.54           25.65  Dollars/Hundredweight.
+Chickpeas, Small..............................           19.04           22.65  Dollars/Hundredweight.
+Corn..........................................            3.70            4.10  Dollars/Bushel.
+Crambe........................................           20.15           23.75  Dollars/Hundredweight.
+Dry Peas......................................           11.00           13.10  Dollars/Hundredweight.
+Flaxseed......................................           20.15           23.75  Dollars/Hundredweight.
+Grain Sorghum.................................            3.95            4.40  Dollars/Bushel.
+Lentils.......................................           19.97           23.75  Dollars/Hundredweight.
+Mustard Seed..................................           20.15           23.75  Dollars/Hundredweight.
+Oats..........................................            2.40            2.65  Dollars/Bushel.
+Peanuts.......................................          535.00          630.00  Dollars/Ton, Short (2,000 lbs.).
+Rapeseed......................................           20.15           23.75  Dollars/Hundredweight.
+Rice, Long Grain..............................           14.00           16.90  Dollars/Hundredweight.
+Rice, Medium Grain............................           14.00           16.90  Dollars/Hundredweight.
+Rice, Temperate Japonica **...................           17.30           24.33  Dollars/Hundredweight.
+Safflower.....................................           20.15           23.75  Dollars/Hundredweight.
+Seed Cotton **................................           0.367            0.42  Dollars/Pound.
+Sesame Seed...................................           20.15           23.75  Dollars/Hundredweight.
+Soybeans......................................            8.40           10.00  Dollars/Bushel.
+Sunflower Seed................................           20.15           23.75  Dollars/Hundredweight.
+Wheat.........................................            5.50            6.35  Dollars/Bushel.
+----------------------------------------------------------------------------------------------------------------
+* Reference prices are automatically increased by 1.005 starting in 2031.
+** The temperate japonica rice reference price was updated in crop year 2019 from $16.10 to $17.30. Seed cotton
+  became a covered commodity in crop year 2018.
+
+    Producers of many covered commodities, especially soybeans and 
+corn, have been subject to market-distorting actions of foreign 
+governments. Imposition of tariffs and delayed purchases have affected 
+the ability of U.S. producers to export, thus reducing domestic prices 
+of 2025 crops. While the increase in reference prices will provide 
+increased protection to producers of 2025 and subsequent crops, 
+payments under ARC and PLC are not made until after October 1 of the 
+year following the year in which the crop was produced. Accordingly, 
+payments for 2025 crop production will not be made until after October 
+1, 2026. These producers are currently making planting and financing 
+decisions regarding 2026 crops, and this delayed payment process 
+creates substantial obstacles for many producers who rely on these 
+payments to maintain their farming operations.
+    To sustain producers until these payments are made, the Department 
+has determined that additional assistance for these producers is 
+necessary. Section 5(b) of the CCC Charter Act (15 U.S.C. 714c(b)) 
+provides that CCC may use its funds to ``(m)ake available materials and 
+facilities required in connection with the production and marketing of 
+agricultural commodities (other than tobacco).'' Accordingly, $11 
+billion of CCC funds will be used to assist producers under the FBA 
+Program.
+    In order to ensure that producers may receive assistance as they 
+make 2026 crop financing decisions, CCC will calculate payments using 
+the 2025 planted acreage producers reported to FSA on FSA-578, Report 
+of Crop Acreage, by December 19, 2025. Use of the 2025 timely reported 
+acreage not only expedites making these payments, but also ensures that 
+issuing the payments does not distort 2026 crop planting decisions. 
+Acreage that is timely reported as an initial, double-crop, or 
+subsequent commodity will be eligible for FBA Program payments. Acreage 
+that is reported as a cover crop or with an intended use of grazing, 
+left standing, volunteer, green manure, or experimental will not be 
+eligible for FBA Program payments.
+    Payments for a producer will be calculated by multiplying the 
+applicable payment rate for an eligible commodity by the eligible 
+acreage timely reported for the commodity on the FSA-578.
+    CCC has calculated a payment rate for each eligible commodity using 
+a 30.41 percent factor, which reflects the share of expected economic 
+loss covered by FBA funding. This factor is used so that total payments 
+do not exceed the $11 billion in program funding and is based on 
+eligible acres per commodity.
+    The payment calculation for each eligible crop requires data on 
+expected cost of production per acre and the expected gross return 
+(crop yield multiplied by price) per acre. Where available, the 
+expected cost of production per acre for a commodity is equal to the 
+2025 crop year ``total cost'' forecast in the ``National Average Cost-
+of-Production Forecasts for Major U.S. Field Crops'' data product 
+published by ERS.\1\ The expected gross return per acre for a commodity 
+is equal to the projected average farm price for the commodity for the 
+2025 through 2026 marketing year, taken from the December 9, 2025 WASDE 
+report,\2\ multiplied by the national average harvested yield per acre 
+for the commodity for the 2025 crop year.\3\ The net gross return is 
+the gross return minus the expected cost of production.
+---------------------------------------------------------------------------
+
+    \1\ The ERS data product is ``Cost-of-production forecasts for 
+major U.S. field crops, 2025F-2026F'' updated on December 18, 2025, 
+available at <a href="https://www.ers.usda.gov/data-products/commodity-costs-and-returns">https://www.ers.usda.gov/data-products/commodity-costs-and-returns</a>.
+    \2\ Projected average farm prices for eligible and available 
+commodities for the 2025 through 2026 marketing year were taken from 
+the December 9, 2025, report, available at <a href="https://www.usda.gov/oce/commodity/wasde/wasde1225.pdf">https://www.usda.gov/oce/commodity/wasde/wasde1225.pdf</a>.
+    \3\ Crop year 2025 harvested yields were calculated using 2025 
+yield estimates from USDA's National Agricultural Statistics Service 
+(NASS). For those crops where a 2025 harvested yield estimate is not 
+yet available, the Olympic average of NASS data for 2020-2024 was 
+used.
+
+---------------------------------------------------------------------------
+
+[[Page 8362]]
+
+    An example of the resulting payment calculation for corn is shown 
+in Table 2.
+
+                     Table 2--Corn Example Payment Rate Calculations; Variables for FBA Payment Calculations and Final Payment Rate
+                                                                       [Per acre]
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                       Forecasted cost of    Economic loss using     Payment rate using
+                Crop                  2025 Harvested  yield      Price forecast            production        30.41 percent factor   30.41 percent factor
+                                     (a)...................  (b)...................  (c)..................  ((a * b)-c) * 0.3041.  (a * b)-c * 0.3041
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Corn...............................  186 bushels per acre..  $4.00 per bushel......  $889.88 per acre.....  -$44.36 per acre.....  $44.36 per acre.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    To start, the net gross return for corn is calculated:
+
+Net Gross Return for Corn = (a * b) = (186 * $4.00) = $744.00 (a * b)-c 
+= $744-$889.88 = -$145.88/acre
+
+    The next step is to calculate the economic loss payment rate for 
+corn:
+
+Economic Loss Payment Rate for Corn (greater than 0 given economic 
+loss) = [verbar](a * b)-c[verbar] * 30.41 percent = $145.88 * 30.41 
+percent = $44.36/acre
+
+    The payment rate of $44.36 per acre is applied to all eligible corn 
+acres and is also shown in Table 3, along with the rates for all other 
+eligible commodities.
+    For commodities not included in the USDA data sources noted above, 
+gross returns and costs of production were estimated. Eligible 
+commodities that do not have a price projection available in WASDE, nor 
+a cost-of-production forecast in the ``Cost of-Production Forecasts for 
+Major U.S. Field Crops, 2025F-2026F'' ERS data product, are pulse crops 
+(large chickpeas, small chickpeas, dry peas, lentils) and certain 
+oilseeds (canola, crambe, flax, mustard, rapeseed, safflower, sesame, 
+sunflower). Peanuts do not have a WASDE price forecast. For commodities 
+not available in the WASDE, price projections for the 2025-2026 
+marketing year were taken from the ARC/PLC 2025 Market Year Average 
+Prices web posting as of December 2025. This is the only data set 
+published by USDA that provides crop year price forecasts for those 
+crops that are not included in the WASDE, and these prices are 
+determined using similar methods as WASDE forecasts.
+    Regarding cost of production data for the pulses and oilseeds not 
+included in ERS's costs of production data product, USDA researched and 
+evaluated agricultural extension budgets and other sources. These 
+budgets were not used as they are based on differing computational 
+methodologies, can be outdated, and can vary considerably across states 
+even with seemingly similar production environments. Instead, national 
+average costs of production for pulses and certain oilseeds were 
+estimated based on a statistical equation involving crops with complete 
+costs and returns data.\4\ After the equation was estimated, the 
+resulting coefficients were applied to the 2025 NASS average harvested 
+yield or Olympic average yields, the ARC/PLC 2025 market year average 
+price of each commodity, and 2023 and 2024 NASS yields and prices, with 
+the model then predicting costs for each crop having incomplete data. 
+This methodology provides a uniform approach to estimating production 
+costs for crops with incomplete data, and uses the best available data 
+to reflect market conditions. The resulting production costs are shown 
+in Table 3 (column c), and given the cost estimate, the calculation of 
+the payment rate follows the same methodology as shown above for corn.
+---------------------------------------------------------------------------
+
+    \4\ For a detailed explanation of the payment rates for these 
+crops, see the Cost Benefit Analysis posted in Docket ID FSA-2026-
+0001 on <a href="http://www.regulations.gov">http://www.regulations.gov</a>.
+
+                          Table 3--Variables for FBA Program Payment Calculations and Final Payment Rate per Acre, by Commodity
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                            2025
+                                                                              Price      Forecasted      Net gross       Economic loss      FBA payment
+                          Commodity                            2025 Yield  forecast in     cost of        return          using 30.41      rate per acre
+                                                                             dollars     production                     percent factor
+                                                                      (a)          (b)           (c)       (a * b)-c       ((a * b)-c) *             (d)
+                                                                                                                                   30.41
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Barley (bu).................................................           80         5.30        491.43          -67.43              -20.51          $20.51
+Canola (lb).................................................        1,789       0.2150        462.15          -77.51              -23.57           23.57
+Chickpeas, large (lb).......................................        1,411        0.280        482.09          -87.01              -26.46           26.46
+Chickpeas, small (lb).......................................        1,440       0.1940        389.07         -109.71              -33.36           33.36
+Corn (bu)...................................................          186         4.00        889.88         -145.88              -44.36           44.36
+Cotton, all (lbs)...........................................          929         0.60        943.28         -385.88             -117.35          117.35
+Crambe (lb).................................................        2,030       0.3750        678.11           83.14                   0            0.00
+Flax (bu)...................................................           18        13.50        267.23          -26.48               -8.05            8.05
+Lentils (lb)................................................        1,055       0.3130        409.09          -78.87              -23.98           23.98
+Mustard (lb)................................................          585       0.4280        326.84          -76.31              -23.21           23.21
+Oats (bu)...................................................         73.8         3.10        497.60         -268.82              -81.75           81.75
+Peanuts (cwt)...............................................         39.3        25.00      1,165.50            -183              -55.65           55.65
+Peas (lb)...................................................        1,814       0.1180        278.52           64.46                19.6          -19.60
+Rapeseed (lb)...............................................        1,954       0.3125        556.54           54.19                   0           $0.00
+Rice (cwt)..................................................        75.06        11.60      1,307.68         -436.98             -132.89          132.89
+
+[[Page 8363]]
+
+ 
+Safflower (lb)..............................................        1,150         0.23        346.26          -81.76              -24.86           24.86
+Sesame (lb).................................................          594         0.33        241.06          -44.98              -13.68           13.68
+Sorghum (bu)................................................           75         3.80        443.19         -158.19              -48.11           48.11
+Soybeans (bu)...............................................           53        10.50        658.06         -101.56              -30.88           30.88
+Sunflower (lbs).............................................        1,699       0.2305        448.51          -56.96              -17.32           17.32
+Wheat, all (bu).............................................         53.3         5.00        395.90          -129.4              -39.35           39.35
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Note: The data do not show economic losses for rapeseed and crambe; in addition, there are no reported acres for crambe.
+Table 1 & 3 Sources:
+(a) 2025/2026 harvested yields are from NASS (pulled from QuickStats in December 2025). The minor oilseed crops' 2025 harvested yields are not yet
+  available from NASS. An Olympic average for 2020-2024 was used for canola, rapeseed, safflower, flax, sesame, mustard, and sunflower. Sesame harvested
+  yield estimates are not available from NASS. Sesame's 2025 harvested yield was calculated using: (1) harvested acres and production for sesame from
+  the 2022 Census of Agriculture, and (2) the year-to-year change in NASS's canola yield for 2022 to 2023, for 2023 to 2024, and for 2024 to 2025.
+  Historical internal estimates of crambe yields are those used for President's Budget purposes.
+(b) 2025-2026 marketing year price forecasts are from the December 9, 2025 WASDE report, for barley, corn, cotton, oats, peanuts, rice, soybeans, and
+  wheat. The remaining commodity price forecasts are from the 2025-2026 ARC/PLC Marketing Year Average Prices on the FSA website.
+(c) 2025 costs-of-production forecasts are from ERS's ``Cost-of-production forecasts for major U.S. fields crops, 2025F-2026F'' updated on December 18,
+  2025 (including wheat, corn, sorghum, barley, oats, cotton, peanuts, rice, and soybeans). For commodities that are not available in this publication,
+  a statistical approach was implemented as described above.
+
+II. How To Apply
+
+    CCC is in possession of all the information needed to calculate 
+payments for each producer. FSA will prepare a CCC-555, Farmer Bridge 
+Assistance (FBA) Program Application, for each eligible producer using 
+the acreage timely reported for each eligible commodity in all states 
+and counties. FSA will use the persons identified as producers on FSA-
+578, Report of Acreage, and the respective percentages of interest in 
+the eligible commodity. Potential program participants must obtain 
+their pre-filled CCC-555 from FSA through the electronic portal, which 
+can be accessed through the FBA Program web page at <a href="https://www.fsa.usda.gov/fba">https://www.fsa.usda.gov/fba</a>, or by contacting any local FSA county office. 
+Persons who believe that their interest in an eligible commodity is not 
+accurately reflected in current FSA records must contact FSA to provide 
+any information that the person believes is relevant to correcting this 
+information. Form CCC-555 must be returned to FSA by April 17, 2026.
+    Producers must also submit the following eligibility forms to FSA 
+by April 19, 2027, if not already on file with FSA for the 2025 program 
+year:
+    <bullet> CCC-901, Member Information for Legal Entities, if 
+applicable;
+    <bullet> CCC-902E, Farm Operating Plan for an Entity; if 
+applicable;
+    <bullet> CCC-902I, Farm Operating Plan for an Individual, if 
+applicable;
+    <bullet> CCC-941, Average Adjusted Gross Income (AGI) Certification 
+and Consent to Disclosure of Tax Information, for individuals, legal 
+entities, and members of legal entities, excluding joint ventures and 
+general partnerships; and
+    <bullet> AD-1026 Highly Erodible Land Conservation (HELC) and 
+Wetland Conservation (WC) Certification, for the producer and 
+affiliated persons, as specified in 7 CFR 12.8.
+
+III. Payment Limitation and Payment Eligibility
+
+    The total amount of FBA Program payments received, directly or 
+indirectly, by a person or legal entity (except a joint venture or 
+general partnership) may not exceed $155,000. In addition, a person or 
+legal entity, other than a joint venture or general partnership, is 
+ineligible for FBA Program payments, directly or indirectly, if the 
+person's or legal entity's average adjusted gross income (AGI), using 
+the average of the adjusted gross incomes for the 2021, 2022, and 2023 
+tax years, exceeds $900,000. A producer must be actively engaged in 
+farming, as specified in 7 CFR part 1400, subparts C and G, to be 
+eligible for the FBA Program.
+    FSA will administer the payment limitation, payment eligibility, 
+and average AGI limitation according to the regulations set forth at 7 
+CFR part 1400 as in effect on February 23, 2026, except that Subpart E, 
+Foreign Person eligibility, does not apply to the FBA Program.
+
+IV. Regulatory Analyses
+
+A. Notice and Comment and Effective Date
+
+    The Administrative Procedure Act (APA, 5 U.S.C. 553(a)(2)) provides 
+that the notice and comment requirements and 30-day delay in the 
+effective date provisions of that Act do not apply when the rule 
+involves specified actions, including matters relating to loans, 
+grants, benefits, and contracts. This rule falls within this exemption.
+    This rule is exempt from the regulatory analysis requirements of 
+the Regulatory Flexibility Act (5 U.S.C. 601-612), as amended by the 
+Small Business Regulatory Enforcement Fairness Act of 1996 (SBREFA), 
+because it involves matters relating to benefits. The requirements for 
+the regulatory flexibility analysis in 5 U.S.C. 603 and 604 are 
+specifically tied to the requirement for a proposed rule by section 553 
+or any other law; in addition, the definition of ``rule'' in 5 U.S.C. 
+601 is tied to the publication of a proposed rule.
+    The Office of Management and Budget (OMB) found this rule meets the 
+criteria in 5 U.S.C. 804(2) of the Congressional Review Act (CRA), 
+which would ordinarily necessitate delaying its effective date for 60 
+days (5 U.S.C. 801(a)(3)(A)). However, the CRA, at 5 U.S.C. 808(2), 
+allows an agency to make such regulations effective immediately if the 
+agency finds there is good cause to do so. CCC has determined that such 
+good cause exists here as benefits made by this rule are critical to 
+the financial
+
+[[Page 8364]]
+
+stability of producers who participate in this program and this 
+assistance is necessary to help those producers sustain their normal 
+business operations. Therefore, CCC is not required to delay the 
+effective date for 60 days from the date of publication to allow for 
+Congressional review. Accordingly, this rule is effective upon 
+publication in the Federal Register.
+
+B. Executive Orders 12866, 13563, and 14192
+
+    Executive Order 12866, ``Regulatory Planning and Review,'' and 
+Executive Order 13563, ``Improving Regulation and Regulatory Review,'' 
+direct agencies to assess all costs and benefits of available 
+regulatory alternatives and, if regulation is necessary, to select 
+regulatory approaches that maximize net benefits (including potential 
+economic, environmental, public health and safety effects, distributive 
+impacts, and equity). Executive Order 13563 emphasized the importance 
+of quantifying both costs and benefits, of reducing costs, of 
+harmonizing rules, and of promoting flexibility. Executive Order 14192, 
+``Unleashing Prosperity Through Deregulation,'' announced the 
+Administration policy to significantly reduce the private expenditures 
+required to comply with Federal regulations to secure America's 
+economic prosperity and national security and the highest possible 
+quality of life for each citizen and to alleviate unnecessary 
+regulatory burdens placed on the American people. In line with the 
+Executive Order requirements, CCC will use existing information 
+available to CCC to maximize benefits and minimize burden on American 
+producers. This rule is not an Executive Order 14192 regulatory action 
+because it does not impose any more than de minimis regulatory costs.
+    The Office of Management and Budget (OMB) designated this rule as 
+economically significant under Executive Order 12866, section 3(f)(1), 
+and therefore, OMB has reviewed this rule. The costs and benefits of 
+this rule are summarized below. The Cost Benefit Analysis is available 
+on <a href="http://regulations.gov">regulations.gov</a>.
+
+C. Cost Benefit Analysis Summary
+
+    The FBA Program applies simple, proportional assistance to 
+producers of crops that experienced an economic loss in crop year 2025 
+using a formula to cover a portion of losses. The concept of economic 
+loss is the basis for the methodology. CCC calculated a payment rate 
+for each eligible commodity, which is a function of the 30.41 percent 
+factor and which reflects the share of expected economic loss covered 
+by FBA Program funding. This factor value is used so that total 
+payments do not exceed the $11 billion in program funding and is based 
+on eligible acres per crop in addition to prices, yields, and costs.
+    To estimate the total program cost per crop, each crop's respective 
+payment rate is applied to the total number of eligible acres for that 
+crop reported to FSA. The total program cost is estimated to be $10.998 
+billion. The total cost to the government is the equivalent benefit to 
+producers. The final cost will depend on the number of applications 
+submitted and approved.
+
+D. Environmental Review
+
+    The environmental impacts have been considered in a manner 
+consistent with the provisions of the National Environmental Policy Act 
+(NEPA, 42 U.S.C. 4321-4347) and the USDA regulation for compliance with 
+NEPA (7 CFR part 1b).
+    There are no actions under this rule that have the potential to 
+impact the human environment. Accordingly, the actions under this rule 
+are covered by the FSA Categorical Exclusions specified in 7 CFR 
+1b.4(c)(16)(viii) that apply to individual farm participation in FSA 
+programs where no ground disturbance or change in land use occurs as a 
+result of the proposed action or participation, and 7 CFR 
+1b.(c)(16)(ix) that applies to safety net programs.
+    No Extraordinary Circumstances (Sec.  1b.3(f)) exist because this 
+is an administrative payment program. The FBA Program does not 
+constitute major Federal action that would significantly affect the 
+quality of the human environment, individually or cumulatively. 
+Therefore, CCC will not prepare an environmental assessment or 
+environmental impact statement for this action and, consistent with 
+Sec.  1b.3(g), this document serves as the programmatic finding of 
+applicability and no extraordinary circumstance (FANEC) for this 
+Federal action.
+
+E. Executive Order 13175
+
+    This rule has been reviewed in accordance with the requirements of 
+Executive Order 13175, ``Consultation and Coordination with Indian 
+Tribal Governments.'' Executive Order 13175 requires Federal agencies 
+to consult and coordinate with Tribes on a Government-to-Government 
+basis on policies that have Tribal implications, including regulations, 
+legislative comments or proposed legislation, and other policy 
+statements or actions that have substantial direct effects on one or 
+more Indian Tribes, on the relationship between the Federal Government 
+and Indian Tribes, or on the distribution of power and responsibilities 
+between the Federal Government and Indian Tribes.
+    CCC has assessed the impact of this rule on Indian Tribes and 
+determined that this rule does not, to our knowledge, have Tribal 
+implications that require Tribal consultation at this time. If a Tribe 
+requests consultation in the future, FSA will work with the Office of 
+Tribal Relations to ensure meaningful consultation is provided.
+
+F. Unfunded Mandates Reform Act
+
+    Title II of the Unfunded Mandates Reform Act of 1995 (UMRA, Pub. L. 
+104-4) requires Federal agencies to assess the effects of their 
+regulatory actions of State, local, and Tribal governments or the 
+private sector. Agencies generally must prepare a written statement, 
+including cost benefit analysis, for proposed and final rules with 
+Federal mandates that may result in expenditures of $100 million or 
+more in any 1 year for State, local or Tribal governments, in the 
+aggregate, or to the private sector. UMRA generally requires agencies 
+to consider alternatives and adopt the more cost effective or least 
+burdensome alternative that achieves the objectives of the rule. This 
+rule contains no Federal mandates, as defined in Title II of UMRA, for 
+State, local and Tribal governments or the private sector. Therefore, 
+this rule is not subject to the requirements of sections 202 and 205 of 
+UMRA.
+
+G. Paperwork Reduction Act Requirements
+
+    The Paperwork Reduction Act of 1995 (44 U.S.C. Chap. 35; see 5 CFR 
+part 1320), requires that OMB approve all collections of information by 
+a Federal agency from the public before they can be implemented. 
+Respondents are not required to respond to any collection of 
+information unless it displays a current valid OMB control number. The 
+USDA intends to use the OMB approved information collection under the 
+control number of 0503-0028; Expiration Date: 10/31/2027 for the 
+purposes of this regulation.
+    FSA will issue payments to producers using the following forms: 
+CCC-555, CCC-901, CCC-902E, CCC-902I, CCC-941, and AD-1026. The AD-1026 
+is exempt.\5\ The CCC-555 is the only new data collection activity 
+associated with this request. The total annual burden hours for this 
+information collection are 197,921. See table below for the breakout. 
+This final rule is a one-time
+
+[[Page 8365]]
+
+announcement of Federal financial assistance funding for the FBA 
+Program.
+---------------------------------------------------------------------------
+
+    \5\ This information collection is exempted from the Paperwork 
+Reduction Act as specified in the Agricultural Act of 2014 (Pub. L. 
+113-79, Title II, Subtitle G, Funding and Administration).
+---------------------------------------------------------------------------
+
+    For Further Information Contact: Requests for additional 
+information or copies of this information collection should be directed 
+to Michael Walter; telephone: (816) 491-6934; or email: 
+<a href="/cdn-cgi/l/email-protection#3974505a51585c55176e58554d5c4b08794c4a5d58175e564f"><span class="__cf_email__" data-cfemail="317c58525950545d1f66505d4554430071444255501f565e47">[email&#160;protected]</span></a>.
+    Title: Farmer Bridge Assistance (FBA) Program.
+    Form Numbers: CCC-555, CCC-901, CCC-902E, CCC-902I, CCC-941, and 
+AD-1026.
+    OMB Number: 0503-0028.
+    Expiration Date: 10/31/2027.
+    Type of Request: Revision to Generic Information Collection.
+    Abstract: As authorized by Section 5(b) of the CCC Charter Act (15 
+U.S.C. 714c(b)), CCC is administering the FBA Program to provide $11 
+billion in one-time bridge payments to producers of eligible 
+commodities in response to temporary trade market disruptions and 
+increased production costs.
+    To apply for the FBA Program, producers must execute a pre-filled 
+CCC-555. Producers will use one application for all eligible crop 
+acreage nationwide. Producers must also submit the following 
+eligibility forms if not already on file with FSA due to participation 
+in other programs: CCC-901, Member Information for Legal Entities, if 
+applicable; CCC-902, Farm Operating Plan, for an individual or legal 
+entity as provided in 7 CFR part 1400; CCC-941, Average Adjusted Gross 
+Income (AGI) Certification and Consent to Disclosure of Tax 
+Information, for individuals, legal entities, and members of legal 
+entities, excluding joint ventures and general partnerships; and AD-
+1026, Highly Erodible Land Conservation (HELC) and Wetland Conservation 
+(WC) Certification, for the participant and applicable affiliates.
+    Affected Public: Farms or businesses for profit (Agricultural 
+producers).
+    Estimated Number Respondents: 584,700.
+    Estimated Number of Responses per Respondent: 1.56000000.
+    Estimated Number of Total Annual Responses: 912,132.
+    Estimated Time per Respondent: 0.21698718 hours.
+    Estimated Total Annual Burden on Respondents: 197,921 burden hours.
+
+----------------------------------------------------------------------------------------------------------------
+                                                              Number of       Total
+         Burden activity or form              Number of     responses per    annual      Hours per   Total hours
+                                             respondents     respondent     responses    response      per year
+----------------------------------------------------------------------------------------------------------------
+CCC-555, Farmer Bridge Assistance (FBA)           584,700               1     584,700        0.0835       48,822
+ Program Application.....................
+CCC-901, Member Information for an Entity           5,847               1       5,847           0.5        2,924
+CCC-902E, Farm Operating Plan for an               58,470               1      58,470           0.5       29,235
+ Entity..................................
+CCC-902I, Farm Operating Plan for an               58,470               1      58,470           0.5       29,235
+ Individual..............................
+CCC-941, Average Adjusted Gross Income            175,410               1     175,410           0.5       87,705
+ (AGI) Certification and Consent to
+ Disclosure of Tax Information...........
+AD-1026, Highly Erodible Land                      29,235               1      29,235        0.0835       EXEMPT
+ Conservation (HELC) and Wetland
+ Conservation (WC) Certification.........
+                                          ----------------------------------------------------------------------
+    Total Estimates......................         584,700      1.56000000     912,132    0.21698718      197,921
+----------------------------------------------------------------------------------------------------------------
+
+    There are 584,700 respondents anticipated for this data collection. 
+The total estimated ``Number of Respondents'' is not a sum of 
+respondents for all burden activities and forms. It represents the same 
+respondents submitting responses related to different activities for 
+this data collection; therefore, these respondents are not double 
+counted.
+
+H. E-Government Act Compliance
+
+    CCC is committed to complying with the E-Government Act of 2002, to 
+promote the use of the internet and other information technologies to 
+provide increased opportunities for citizen access to Government 
+information and services, and for other purposes.
+
+Federal Assistance Programs
+
+    The title and number of the Federal assistance program, as found in 
+the Assistance Listing, to which this document applies are 10.990--
+Farmer Bridge Assistance (FBA) Program.
+
+List of Subjects in 7 CFR Part 1414
+
+    Agricultural commodities, Cotton, Feed grains, Oilseeds, Peanuts, 
+Reporting and recordkeeping requirements, Rice, Wheat.
+
+
+0
+For the reasons discussed above, this final rule amends 7 CFR chapter 
+XIV by adding part 1414 to read as follows:
+
+PART 1414--BRIDGE ASSISTANCE
+
+Subpart A--Farmer Bridge Assistance Program
+
+Sec.
+1414.1 Applicability.
+1414.2 Administration.
+1414.3 Definitions.
+1414.4 Eligible producer.
+1414.5 Eligible acres.
+1414.6 Time and method of application.
+1414.7 Payment calculation.
+1414.8 Payment eligibility and limitation.
+1414.9 General provisions.
+
+Subpart B--[Reserved]
+
+    Authority:  15 U.S.C. 714, et seq.
+
+PART 1414--BRIDGE ASSISTANCE
+
+Subpart A--Farmer Bridge Assistance Program
+
+
+Sec.  1414.1  Applicability.
+
+    The regulations in this subpart are applicable to producers 
+participating in the Farmer Bridge Assistance (FBA) Program. Producers 
+who participate in the FBA Program will receive payments from the 
+Commodity Credit Corporation (CCC) to assist them in the production and 
+marketing of agricultural commodities. Payments will be based on 2025 
+planted and timely reported acreage of eligible commodities and on 
+payment rates determined by CCC.
+
+
+Sec.  1414.2  Administration.
+
+    (a) The regulations in this subpart will be administered under the 
+general supervision and direction of the Executive Vice President, CCC. 
+In the field, the regulations in this subpart will be administered by 
+the Farm Service Agency (FSA) State and county committees (referred to 
+as ``State committee'' and ``county committee,'' respectively).
+    (b) State executive directors, county executive directors, and 
+State and county committees do not have authority to modify or waive 
+any of the provisions of this subpart.
+    (c) The State committee may take any action authorized or required 
+by this subpart to be taken by the county committee that has not been 
+taken by the county committee. The State committee may also:
+    (1) Correct or require a county committee to correct any action 
+taken by
+
+[[Page 8366]]
+
+the county committee that is not in accordance with this subpart; or
+    (2) Require a county committee to withhold taking any action that 
+is not in accordance with this subpart.
+    (d) No delegation in this subpart to a State or county committee 
+precludes the Executive Vice President, CCC or a designee, from 
+determining any question arising under this subpart or from reversing 
+or modifying any determination made by a State or county committee.
+
+
+Sec.  1414.3  Definitions.
+
+    The definitions in this section are applicable for all purposes of 
+administering this subpart. The terms defined in 7 CFR parts 718 and 
+1400 are also applicable, except where those definitions conflict with 
+the definitions specified in this section. Where there is a conflict or 
+a difference in definitions specified in this subpart and parts 718 and 
+1400, the regulations in this subpart will apply.
+    CCC-555 means Form CCC-555, Farmer Bridge Assistance (FBA) Program 
+Application.
+    Corn means only white, yellow, amylose, popcorn (excluding 
+strawberry popcorn), waxy, and high amylase corn.
+    Cotton means extra-long staple cotton and upland cotton.
+    Crop year means the calendar year in which a commodity was intended 
+for harvest.
+    Determined acres means that acreage established by an FSA 
+representative by use of official acreage, digitizing areas on a 
+photograph or other imagery, or computations from scaled dimensions or 
+ground measurements.
+    Double cropping means, as determined by the Deputy Administrator on 
+a regional basis, consecutive planting of two specific crops that have 
+the capability to be planted and carried to maturity for the intended 
+uses, as reported by the producer, on the same acreage as the initial 
+crop is planted, within a 12-month period. To be considered double 
+cropping, the planting of two specific crops must be in an area where 
+the FSA State Committee has determined that producers are typically 
+able to repeat the same cycle successfully in a subsequent 12-month 
+period under normal growing conditions.
+    Dry peas mean Austrian, green, wrinkled seed, and yellow peas, 
+excluding peas grown for the fresh, canning, or frozen market.
+    Eligible commodity means a 2025 crop of barley, canola, corn, 
+crambe, extra-long staple cotton, flax, large chickpeas, lentils, 
+mustard, oats, peanuts, dry peas, rapeseed, rice, safflower, sesame, 
+small chickpeas, sorghum, soybeans, sunflower, upland cotton, and 
+wheat.
+    Eligible producer means a producer of an eligible commodity who 
+timely filed Form FSA-578 with FSA and who complies with all provisions 
+of this subpart.
+    Extra-long staple cotton means cotton that follows the standard 
+planting and harvesting practices of the area in which the cotton is 
+grown, and meets all of the following conditions:
+    (1) American-Pima, Sea Island, Sealand, all other varieties of the 
+Barbadense species of cotton and any hybrid thereof, and any other 
+variety of cotton in which 1 or more of these varieties is predominant;
+    (2) The acreage is grown in a county designated as an extra-long 
+staple cotton county by the Secretary; and
+    (3) The production from the acreage is ginned on a roller-type gin.
+    FSA-578 means Form FSA-578, Report of Crop Acreage.
+    Payment rate means the amount per acre for an eligible commodity 
+that CCC has determined to use to provide assistance to eligible 
+producers in accordance with this subpart.
+    Peanuts means all peanuts excluding perennial peanuts.
+    Rice means long grain rice and medium grain rice, including 
+temperate japonica rice, short grain, and sweet rice.
+    Skip-row means a cultural practice in which rows of a crop are 
+alternated with strips of idle land or another crop, as determined by 
+the Secretary.
+    Sorghum means both grain sorghum and dual-purpose sorghum 
+(including any cross that, at all stages of growth, having 
+characteristics of a feed grain or dual-purpose variety). Sweet sorghum 
+is not considered a grain sorghum.
+    Upland cotton means cotton that is produced in the United States 
+from other than pure strain varieties of the Barbadense species, any 
+hybrid thereof, or any other variety of cotton in which one or more of 
+these varieties predominate. In other words, it means any cotton that 
+is not extra-long staple cotton.
+
+
+Sec.  1414.4  Eligible producer.
+
+    (a)(1) To be eligible for payment under this subpart, a producer 
+must have timely filed an FSA-578 with FSA for their acreage of each 
+eligible commodity for which a payment under this subpart is requested.
+    (2) Federal agencies are not eligible to participate in the FBA 
+Program.
+    (b) An eligible producer is a:
+    (1) Citizen of the United States;
+    (2) Resident alien, which for purposes of the FBA Program, means 
+``lawful alien'' as defined in 7 CFR part 1400;
+    (3) Partnership organized under State law consisting solely of 
+citizens of the United States or resident aliens;
+    (4) Corporation, limited liability company, or other organizational 
+structure organized under State law consisting solely of citizens of 
+the United States or resident aliens; or
+    (5) Indian Tribe or Tribal organization, as defined in section 4(b) 
+of the Indian Self-Determination and Education Assistance Act (25 
+U.S.C. 5304).
+    (c)(1) A State, political subdivision, or agency thereof, is 
+eligible for a payment under this subpart if:
+    (i) The land for which payments are received is owned by the State, 
+political subdivision, or agency thereof; and
+    (ii) The payments are used solely for the support of public 
+schools.
+    (2) The total of payments to the State, political subdivision, or 
+agency thereof cannot exceed $500,000 annually, except for States with 
+a population less than 1,500,000, as established by the most recent 
+U.S. Census Bureau annual estimate of the State's resident population. 
+This limitation is in addition to the limitation per person or legal 
+entity described in Sec.  1414.8. States with a population of less than 
+1,500,000 are subject to the regular per person or entity limit in 
+Sec.  1414.8.
+    (d) To be eligible for assistance under this subpart, a producer 
+must be in compliance with the provisions of 7 CFR part 12 and the 
+provisions of 7 CFR 718.6, which address ineligibility for benefits for 
+offenses involving controlled substances.
+    (e) To be eligible for assistance under this subpart, a producer 
+must be actively engaged in farming. FSA will administer this 
+requirement according to the provisions of 7 CFR part 1400, subparts C 
+and G.
+    (f) A receiver or trustee of an insolvent or bankrupt debtor's 
+estate, an executor or an administrator of a deceased person's estate, 
+a guardian of an estate of a ward or an incompetent person, and 
+trustees of a trust are considered to represent the insolvent or 
+bankrupt debtor, the deceased person, the ward or incompetent, and the 
+beneficiaries of a trust, respectively. The production of the receiver, 
+executor, administrator, guardian, or trustee is considered to be the 
+production of the person or estate represented by the receiver, 
+executor, administrator, guardian, or trustee.
+
+[[Page 8367]]
+
+Sec.  1414.5  Eligible acres.
+
+    (a) Eligible acres under this subpart include 2025 crop year acres 
+planted in the United States to an eligible commodity, excluding 
+acreage reported as a cover crop, and acreage with an intended use of 
+grazing, experimental, green manure, left standing, or volunteer. 
+Producers must have reported the acres to FSA on FSA-578 by December 
+19, 2025, to be eligible for payment under this subpart.
+    (b) FBA Program payments will be based on timely reported acres. If 
+reported acres have determined acres present, determined acres will be 
+used.
+    (c) Planted acreage includes any land devoted to planted acres for 
+accepted skip-row planting patterns, as determined by the Secretary. 
+FSA will calculate FBA Program payments for skip-row acreage based on 
+the total acres devoted to the eligible commodity without making 
+reductions specified in 7 CFR 718.108 that are applicable to other FSA 
+programs.
+    (d) In situations where a producer planted both an initial crop and 
+a subsequent crop on the same acreage for the 2025 crop year, both the 
+initial crop and the subsequent crop will be eligible for the FBA 
+Program if they were eligible commodities.
+
+
+Sec.  1414.6  Time and method of application.
+
+    (a) Producers must contact an FSA county office to obtain their 
+pre-filled CCC-555 and submit this form to any FSA county office by 
+April 17, 2026. Applicants will submit one application that includes 
+all eligible acreage in all counties nationwide.
+    (b) The date to apply for payments under this program may, at the 
+sole discretion of FSA, be extended. If FSA makes that decision, the 
+extended date will be set forth at <a href="https://www.fsa.usda.gov/fba">https://www.fsa.usda.gov/fba</a>. 
+Producers may also obtain that information from any FSA county office.
+    (c) Producers must also submit the following eligibility forms to 
+FSA by April 19, 2027, if not already on file with FSA for the 2025 
+program year:
+    (1) CCC-901, Member Information for Legal Entities, if applicable;
+    (2) CCC-902E, Farm Operating Plan for an Entity; if applicable;
+    (3) CCC-902I, Farm Operating Plan for an Individual, if applicable;
+    (4) CCC-941, Average Adjusted Gross Income (AGI) Certification and 
+Consent to Disclosure of Tax Information, for individuals, legal 
+entities, and members of legal entities, excluding joint ventures and 
+general partnerships; and
+    (5) AD-1026 Highly Erodible Land Conservation (HELC) and Wetland 
+Conservation (WC) Certification, for the producer and affiliated 
+persons, as specified in 7 CFR 12.8.
+
+
+Sec.  1414.7  Payment calculation.
+
+    (a) Payments will be determined by multiplying the eligible acres 
+of an eligible commodity by the payment rate for such commodity. 
+Payment rates are specified in paragraph (b) of this section.
+    (b) The FBA Program payment rates are specified in the following 
+table.
+
+           Table 1 to Paragraph (b)--FBA Program Payment Rates
+------------------------------------------------------------------------
+                                                           Payment rate
+                   Eligible commodity                        per acre
+------------------------------------------------------------------------
+Barley.................................................           $20.51
+Canola.................................................            23.57
+Chickpeas, Large.......................................            26.46
+Chickpeas, Small.......................................            33.36
+Corn...................................................            44.36
+Cotton.................................................           117.35
+Crambe.................................................                0
+Flax...................................................             8.05
+Lentils................................................            23.98
+Mustard................................................            23.21
+Oats...................................................            81.75
+Peanuts................................................            55.65
+Peas, Dry..............................................            19.60
+Rapeseed...............................................                0
+Rice...................................................           132.89
+Safflower..............................................            24.86
+Sesame.................................................            13.68
+Sorghum................................................            48.11
+Soybeans...............................................            30.88
+Sunflowers.............................................            17.32
+Wheat..................................................            39.35
+------------------------------------------------------------------------
+
+Sec.  1414.8  Payment eligibility and limitation.
+
+    (a) A person, legal entity, or member of a joint venture or general 
+partnership, as determined in 7 CFR part 1400 in effect on February 23, 
+2026, cannot receive, directly or indirectly, more than $155,000 under 
+this subpart. The regulations set forth in part 1400 will be used to 
+administer this limitation.
+    (b) A person or legal entity with an average adjusted gross income 
+that exceeds $900,000, as determined according to 7 CFR part 1400, 
+subpart F, will not be eligible to receive benefits, directly or 
+indirectly, under this subpart.
+
+
+Sec.  1414.9   General provisions.
+
+    (a) All information provided to FSA for program eligibility and 
+payment calculation purposes is subject to spot check. Participants are 
+required to retain documentation in support of their application for 3 
+years after the date of approval, including verifiable evidence of 
+planted acres of eligible commodities. Participants receiving FBA 
+Program payments or any other person who furnishes such information to 
+the U.S. Department of Agriculture (USDA) must permit authorized 
+representatives of USDA or the Government Accountability Office, during 
+regular business hours, to enter the operation and to inspect, examine, 
+and allow representatives to make copies of books, records, or other 
+items for the purpose of confirming the accuracy of the information 
+provided by the participant.
+    (b) If an FBA Program payment resulted from erroneous information 
+provided by a participant, or any person acting on their behalf, the 
+payment will be recalculated and the participant must refund any excess 
+payment to FSA with interest calculated from the date of the 
+disbursement of the payment. If FSA determines that the applicant 
+intentionally misrepresented information included on their application, 
+the application will be disapproved and the applicant must refund the 
+full payment to FSA with interest from the date of disbursement.
+    (c) Any payment under this subpart will be made without regard to 
+questions of title under State law and without regard to any claim or 
+lien. The regulations governing offsets in 7 CFR part 3 apply to FBA 
+Program payments.
+    (d) In either applying for or participating in the FBA Program, or 
+both, the applicant is subject to laws against perjury (including, but 
+not limited to, 18 U.S.C. 1621). If the applicant willfully makes and 
+represents as true any verbal or written declaration, certification, 
+statement, or verification that the applicant knows or believes not to 
+be true, in the course of either applying for or participating in the 
+FBA Program, or both, then the applicant may be found to be guilty of 
+perjury. Except as otherwise provided by law, if guilty of perjury the 
+applicant may be fined, imprisoned for not more than 5 years, or both, 
+regardless of whether the applicant makes such verbal or written 
+declaration, certification, statement, or verification within or 
+outside the United States.
+    (e) For the purposes of the effect of a lien on eligibility for 
+Federal programs (28 U.S.C. 3201(e)), USDA waives the restriction on 
+receipt of funds under this subpart but only as to beneficiaries who, 
+as a condition of the waiver, agree to apply the FBA Program payments 
+to reduce the amount of the judgment lien.
+    (f) In addition to any other Federal laws that apply to the FBA 
+Program, the following laws apply: 18 U.S.C. 286, 287, 371, and 1001.
+
+[[Page 8368]]
+
+Subpart B--[Reserved]
+
+William Beam,
+Executive Vice President, Commodity Credit Corporation.
+[FR Doc. 2026-03456 Filed 2-20-26; 8:45 am]
+BILLING CODE 3411-E2-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

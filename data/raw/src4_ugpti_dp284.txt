@@ -1,0 +1,2366 @@
+                                                   Department Publication No. 284
+                                                                     October 2015
+
+
+
+Northern Plains Grain Farm Truck Fleet & Marketing Patterns
+prepared by Kimberly Vachal, Ph.D.
+ABSTRACT
+A survey of farm operators in the Northern Plains Region of North Dakota, northern South
+Dakota, western Minnesota and eastern Montana was conducted to gather information about
+transportation of crops, the inventory and characteristics of the farmer-owned truck fleet and on-
+farm storage capacity. The objective of the study is to provide information about farm truck
+inventory and grain marketing patterns in the Northern Plains. There is no other source for this
+information and it should be unique and complementary to other farm-to-market information and
+national commodity flow publications. Farmers may use the results for their own investment and
+productivity assessments. Local and regional planners and policy makers can use the information
+in calibrating travel demand and freight flow models for investment and asset management
+choices.
+
+
+
+
+  Preferred Citation:
+  Vachal, Kimberly, Northern Plains Grain Farm Truck Fleet & Marketing Patterns. Upper Great Plains
+  Transportation Institute, North Dakota State University, Fargo, September 2015, DP-284.
+
+  Acknowledgement
+  The author would like to acknowledge contribution to the project by Darin Janzi, North Dakota Field Office,
+  U.S. Department of Agriculture’s National Statistics Service and Mark Berwick, Upper Great Plains
+  Transportation Institute, North Dakota State University, for their contribution to the project.
+
+  Disclaimer
+  This research was supported by the U.S. Department of Transportation’s Office of the Assistant Secretary for
+  Research & Technology under Grant DTOS59-06-G-00046. The contents presented in this report are the sole
+  responsibility of the Upper Great Plains Transportation Institute, North Dakota State University, and its authors.
+
+
+  North Dakota State University does not discriminate on the basis of age, color, disability, gender expression/identity, genetic information,
+  marital status, national origin, public assistance status, race, religion, sex, sexual orientation, or status as a U.S. veteran. Direct inquiries
+  to: Equal Opportunity Specialist, Old Main 201, 701-231-7708 or Title IX/ADA Coordinator, Old Main 102, 701-231-6409.
+
+
+
+
+                                                                         i
+TABLE OF CONTENTS
+
+1.     INTRODUCTION..................................................................................................................1
+2.     METHOD AND DATA .........................................................................................................3
+      2.1 Mail and Phone Surveys ....................................................................................................3
+      2.2 Survey Responses ..............................................................................................................4
+      2.3 Statistical Metrics ..............................................................................................................4
+3.     SURVEY RESULTS ..............................................................................................................7
+      3.1 Respondent Profile ............................................................................................................7
+      3.2 Marketing Patterns ............................................................................................................9
+             3.2.1        On-Farm Storage ................................................................................................9
+             3.2.2        Regional Markets ..............................................................................................12
+      3.3 Grain Transportation Vehicle Inventory .........................................................................21
+             3.3.1        Farm Truck Ownership .....................................................................................23
+             3.3.2        Farm Truck Use ................................................................................................26
+             3.3.3        Farm Truck Fleet Current and Future Investments ..........................................27
+      3.4 Farm to Market Trips ......................................................................................................29
+             3.4.1        Road Use in Farm Grain Delivery ....................................................................30
+             3.4.2        Road Use in Farm Delivery, by State and Farm Group....................................33
+      3.5 Truck Type Characteristics, Trips from Field to On-Farm Storage or Market ..............39
+             3.5.1        Regional Truck Type Characteristics ...............................................................39
+             3.5.2        Truck Type Characteristics, by Farm and State Strata .....................................43
+      3.6 Truck Fleet Inspection .....................................................................................................45
+4.     SUMMARY ..........................................................................................................................47
+REFERENCES .............................................................................................................................51
+
+
+
+
+                                                                     ii
+LIST OF FIGURES
+
+Figure 1.1  ND Grain Production Trend....................................................................................... 1
+Figure 2.1  Farm Truck Survey Geography ................................................................................. 4
+Figure 3.1  Scatterplot of Reported On-Farm Storage Capacity, Farms with 500,000
+            Bushels or Less ........................................................................................................ 10
+Figure 3.2 Single-Axle Truck .................................................................................................... 21
+Figure 3.3 Tandem-axle Truck .................................................................................................. 21
+Figure 3.4 Tridem-axle Truck ................................................................................................... 22
+Figure 3.5 5-Axle Semi-truck .................................................................................................... 22
+Figure 3.6 7-Axle Semi or RMD (Rocky Mountain Double). .................................................. 22
+Figure 3.7 Regional Road Use for the 1st Choice Delivery Point ............................................. 30
+Figure 3.8 Road Type for Wheat Delivery, by State ................................................................. 33
+Figure 3.9 Road Type for Corn Delivery, by State ................................................................... 35
+Figure 3.10 Road Type for Soybean Delivery, by Farm Group .................................................. 37
+Figure 3.11 Truck Type Average Loaded Weight, By Commodity............................................ 40
+Figure 3.12 Truck Type Trip Distance, by Commodity .............................................................. 42
+Figure 3.13 State Agency Truck Inspection, by Farm Group ..................................................... 46
+Figure 3.14 State Agency Truck Inspection, by State ................................................................. 46
+
+
+
+
+                                                                  iii
+LIST OF TABLES
+
+Table 3.1    Respondents Reporting Crop Production, by State and Commodity......................... 7
+Table 3.2    Share of Harvested Acres Represented in the Sample Response .............................. 8
+Table 3.3    Farm Group Characteristics ....................................................................................... 8
+Table 3.4    Corn, Soybean and Wheat Storage Capacity, by State .............................................. 9
+Table 3.5    Corn, Soybean and Wheat Storage Capacity, by Farm Group ................................ 10
+Table 3.6    Crop Delivery from Field to Market, by Farm Group ............................................. 11
+Table 3.7    Regional Markets for Wheat Produced in 2013 ....................................................... 12
+Table 3.8    Regional Markets for Corn Produced in 2013 ......................................................... 12
+Table 3.9    Regional Markets for Soybean Produced in 2013 ................................................... 12
+Table 3.10   Regional Markets for Wheat Produced in 2013, Minnesota .................................... 13
+Table 3.11   Regional Markets for Corn Produced in 2013, Minnesota ...................................... 13
+Table 3.12   Regional Markets for Soybean Produced in 2013, Minnesota ................................ 13
+Table 3.13   Regional Markets for Wheat Produced in 2013, Montana ...................................... 14
+Table 3.14   Regional Markets for Corn Produced in 2013, Montana ......................................... 14
+Table 3.15   Regional Markets for Wheat Produced in 2013, North Dakota ............................... 15
+Table 3.16   Regional Markets for Corn Produced in 2013, North Dakota ................................. 15
+Table 3.17   Regional Markets for Soybean Produced in 2013, North Dakota ........................... 15
+Table 3.18   Regional Markets for Wheat Produced in 2013, South Dakota ............................... 16
+Table 3.19   Regional Markets for Corn Produced in 2013, South Dakota ................................. 16
+Table 3.20   Regional Markets for Soybean Produced in 2013, South Dakota ........................... 16
+Table 3.21   Regional Markets for Wheat Produced in 2013, Farm Group 1 .............................. 17
+Table 3.22   Regional Markets for Corn Produced in 2013, Farm Group 1 ................................ 17
+Table 3.23   Regional Markets for Soybean Produced in 2013, Farm Group 1 ........................... 17
+Table 3.24   Regional Markets for Wheat Produced in 2013, Farm Group 2 .............................. 18
+Table 3.25   Regional Markets for Corn Produced in 2013, Farm Group 2 ................................ 18
+Table 3.26   Regional Markets for Soybean Produced in 2013, Farm Group 2 ........................... 18
+Table 3.27   Regional Markets for Wheat Produced in 2013, Farm Group 3 .............................. 19
+Table 3.28   Regional Markets for Corn Produced in 2013, Farm Group 3 ................................ 19
+Table 3.29   Regional Markets for Soybean Produced in 2013, Farm Group 3 ........................... 19
+Table 3.30   Regional Markets for Wheat Produced in 2013, Farm Group 4 .............................. 20
+Table 3.31   Regional Markets for Corn Produced in 2013, Farm Group 4 ................................ 20
+Table 3.32   Regional Markets for Soybean Produced in 2013, Farm Group 4 ........................... 20
+Table 3.33   Regional Total Trucks Reported .............................................................................. 23
+Table 3.34   Truck Type Owned, by State ................................................................................... 23
+Table 3.35   Truck Annual Mileage Share in State, by Truck Type ............................................ 24
+Table 3.36   Truck Fleet Owned, by Farm Size ........................................................................... 24
+Table 3.37   Annual Truck Miles, by Truck Type and Farm Group ............................................ 25
+Table 3.38   Regional Average Annual Miles by Truck Type ..................................................... 25
+Table 3.39   Regional Truck Average Annual Use for Hauling Own Grain, by Truck Type ...... 26
+
+                                                            iv
+Table 3.40   Regional Truck Average Annual Custom Use, by Truck Type ............................... 26
+Table 3.41   Regional Truck Mileage Other Use ......................................................................... 27
+Table 3.42   Regional Number of Trucks Owned in 2014 ........................................................... 27
+Table 3.43   Regional Trucks to be Owned in 2018 .................................................................... 28
+Table 3.44   Regional Trucks Leased in 2014.............................................................................. 28
+Table 3.45   Regional Trucks to be Leased in 2018 ..................................................................... 29
+Table 3.46   Regional Market Road Type Miles for 2013 Grain Delivery .................................. 30
+Table 3.47   Regional Market Road Type Miles for 2013 Wheat Delivery ................................. 31
+Table 3.48   Regional Market Road Type Miles for 2013 Corn Delivery ................................... 32
+Table 3.49   Regional Market Road Type Miles for 2013 Soybean Delivery ............................. 32
+Table 3.50   Wheat Market Road Type Miles for 2013 Grain Delivery, Minnesota ................... 34
+Table 3.51   Wheat Market Road Type Miles for 2013 Grain Delivery, Montana ...................... 34
+Table 3.52   Wheat Market Road Type Miles for 2013 Grain Delivery, North Dakota .............. 34
+Table 3.53   Wheat Market Road Type Miles for 2013 Grain Delivery, South Dakota .............. 35
+Table 3.54   Corn Market Road Type Miles for 2013 Grain Delivery, Minnesota...................... 36
+Table 3.55   Corn Market Road Type Miles for 2013 Grain Delivery, Montana ........................ 36
+Table 3.56   Corn Market Road Type Miles for 2013 Grain Delivery, North Dakota................. 36
+Table 3.57   Corn Market Road Type Miles for 2013 Grain Delivery, South Dakota................. 37
+Table 3.58   Soybean Market Road Type Miles for 2013 Grain Delivery, Farm Group 1 .......... 38
+Table 3.59   Soybean Market Road Type Miles for 2013 Grain Delivery, Farm Group 2 .......... 38
+Table 3.60   Soybean Market Road Type Miles for 2013 Grain Delivery, Farm Group 3 .......... 38
+Table 3.61   Soybean Market Road Type Miles for 2013 Grain Delivery, Farm Group 4 .......... 39
+Table 3.62   Farm Truck Fleet Truck Trip Distance and Loaded Weights .................................. 40
+Table 3.63   Average Loaded Weight, by Commodity ................................................................ 41
+Table 3.64   Average Empty Weight, by Commodity ................................................................. 41
+Table 3.65   Truck Type Average Bushels per Load, by Commodity ......................................... 42
+Table 3.66   Truck Type Average Trip Distance, by Commodity ............................................... 43
+Table 3.67   Wheat Trip 5-Axle Loaded Weight, by Farm Group ............................................... 43
+Table 3.68   Wheat Trip 5-Axle Average Distance, by Farm Group ........................................... 44
+Table 3.69   Wheat Trip 5-Axle Loaded Weight, by State .......................................................... 44
+Table 3.70   Wheat Trip 5-Axle Average Distance, by State....................................................... 44
+Table 3.71   Corn Trip 5-Axle Loaded Weight, by Farm Group ................................................. 44
+Table 3.72   Corn Trip 5-Axle Loaded Weight, by State ............................................................. 45
+Table 3.73   Corn Trip 5-Axle Average Distance, by State ......................................................... 45
+Table 3.74   DOT Truck Inspection Reported, by State and Farm Group ................................... 46
+
+
+
+
+                                                           v
+1.                       INTRODUCTION
+
+Agriculture, including traditional grain markets and value-added activities such as food
+processing, biofuels production, and specialty grains, plays a large role in the economy of North
+Dakota and neighboring states. The 2012 Agricultural Census shows that farms in these states
+had crop sales of $32 billion (U.S. Department of Agriculture 2014a). In terms of private income
+for 2013, North Dakota generated 14.5% of its state gross domestic product from agriculture.
+That figure was similar in surrounding states: 15.3% in South Dakota, 7.4% in Montana and
+5.0% in Minnesota. The share of economic activity attributed to agriculture in these states is far
+greater than the role of agriculture in the nation’s overall economy at 1.8% (Bureau of Economic
+Analysis 2015).
+While the economies of these states have become more diversified over recent decades, the
+increasing magnitude of agricultural products as a transport-demand component and economic
+generator is evident in grain production trends. For example, U.S. Department of Agriculture
+figures show that in 1940 North Dakota produced approximately 9.5 million tons of grain. This
+grain was transported about 10 miles to local elevator facilities based on the legacy grain
+gathering system in the Midwest where elevators were spaced about 8 miles apart along the rail
+line (Ming and Wilson 1983). These early grain movements generated about 95 million farm
+truck ton-miles in freight demand (National Agricultural Statistics Service 2014). This compares
+to 800 million bushels, or 30 million tons, of grain moving approximately 30 miles to
+subterminal elevator facilities and local agricultural processors in 2010 (Tolliver et al. 2005) –
+900 million farm truck ton-miles (Figure 1.1). This trend is related to changes in marketing
+patterns, farm management, agricultural technology and agronomic practices.
+
+
+                        1,000
+     Millions Bushels
+
+
+
+
+                         900
+                         800
+                         700
+                         600                                                                                        Wheat
+                         500
+                         400                                                                                        Soybeans
+                         300
+                                                                                                                    Corn
+                         200
+                         100
+                           -
+                                                     1996
+
+
+
+
+                                                                                        2006
+                                1990
+
+                                       1992
+
+                                              1994
+
+
+
+                                                            1998
+
+                                                                   2000
+
+                                                                          2002
+
+                                                                                 2004
+
+
+
+                                                                                               2008
+
+                                                                                                      2010
+
+                                                                                                             2012
+
+
+
+
+Figure 1.1 ND Grain Production Trend
+
+
+
+
+                                                                                          1
+Crop production is widely distributed across the states, with farms accounting for about 70% of
+the land use in the Northern Plains (U.S. Department of Agriculture 2014b). Farm-generated
+truck movement is defined as the initial movement of grain from field to market delivery point in
+the distribution chain. This market delivery point may be an elevator, feedlot, or processor and
+the move may include an interim movement to an on-farm storage facility. The grain distribution
+chain is complex with delivery timing and points influenced by factors such as market pricing
+signals, storage alternatives, global markets, and farm manager market expectations. It is
+especially important to understand the transportation patterns and trends for these farm truck
+shipments in making investment and policy decisions related to rural and agriculture-centric
+economies. National commodity transport data sources, such as the Commodity Flow Survey and
+Freight Analysis Framework, do not account for this farm-generated grain traffic (BTS 2010,
+Donnelly 2010).
+The objective of this study is to partially fill the information gap for the farm truck inventory and
+grain marketing patterns in the Northern Plains. Collecting truck and trip information directly
+from farm operators is optimal for understanding patterns and trends in farm-generated grain
+traffic. This traffic is not otherwise inventoried in national data sources, so it is the responsibility
+of individual states or other entities to collect and/or estimate farm-generated grain traffic. As
+state and local decision makers consider infrastructure investments, policy changes, and traffic
+operations it is especially important to better understand the farm-generated grain traffic patterns
+and trends for this key local and widely dispersed freight generator. The information collected in
+this study should be unique and complementary to other farm-to-market studies (Baumel 1996,
+Tolliver et. al, 2005, Tun-Hsiang and Hart 2009) and national commodity flow publications.
+Results will prove useful to a wide array of groups. Farmers may use the results for their own
+investment and productivity assessments. Local and regional planners can utilize the information
+in calibrating travel demand and freight flow models for investment and asset management
+choices. In addition, policy makers will be able to consider this information when making
+infrastructure and industry related decisions.
+The next section describes the method and data used in the study. Descriptive and statistical
+analyses are presented in the survey results section. Detail regarding farm truck fleet, road use,
+and marketing patterns are developed within this discussion. Section four is a summary of the
+findings.
+
+
+
+
+                                                   2
+2.          METHOD AND DATA
+
+The survey method was used to collect the data needed for the study. Based on a successful
+collaboration for the Tolliver et al. study (2005), the Upper Great Plains Transportation Institute
+(UGPTI) at North Dakota State University worked with the North Dakota Office of the
+Agricultural Statistics Service (NDASS) and the National Agricultural Statistics Service (NASS)
+of the U.S. Department of Agriculture to complete a survey of farmers in the region. The UGPTI
+was the lead agency in drafting the survey instrument and compiling survey results. The UGPTI
+worked with NDASS to finalize the survey instrument. Its six sections covered: (1) crop
+production and marketing, (2) farm grain truck fleet, (3-5) farm-generated transportation of hard
+red spring wheat,1 corn, and soybean, and (6) select farm operation characteristics.
+
+2.1         Mail and Phone Surveys
+The survey process was a two-phase system. An initial mail survey was distributed to a sample
+of farmers in the NASS contact database. A follow-up phone survey of non-respondent farmers
+within that initial survey sample was completed to supplement the mail response to meet the
+sample size requirement. NASS completed and printed the final survey. In addition, NASS
+developed and conducted training for the telephone survey. A stratified non-probability quota
+sample was used to select the farmers from the population for the survey. The number of surveys
+collected, overall and from within each of the state strata, was deemed sufficiently large to
+approximate random selection so generalizations could be made about the larger population
+within the budget and time constraints. In addition, expertise of the NASS personnel with
+agricultural survey issues and the data quality control contribute to a strong likelihood that the
+sample is representative of the larger population. Although random influences cannot be ruled
+out within this sample technique, confidence intervals are shown since the large regional sample
+is assumed to have normal probability distributions.
+The survey and mail sample were designed to collect data for a representative sample of corn,
+wheat, and soybean farms in North Dakota and the adjacent crop reporting districts (CRDs) from
+Montana, South Dakota, and Minnesota (Figure 2.1). The farms surveyed may produce one or all
+three commodities. The sample for the survey was derived from the larger population of farms
+that reportedly grew at least one of the major wheat, corn, and soybean crops based on the 2013
+County Agricultural Production Survey (CAPS). This group is defined as the eligible farm
+population that was made up of the potential survey candidates. CAPS is a federally required
+submission used for federal farm program management at all jurisdictions. A random sample of
+6,000 farms was drawn from the eligible population.
+
+
+
+
+1
+    HRS wheat is referred to as wheat for the discussion of survey results.
+
+                                                             3
+Figure 2.1 Farm Truck Survey Geography
+
+2.2    Survey Responses
+The survey was mailed to these 6,000 farmers in the survey region in June 2014. The agency
+received 623 responses from the mailed surveys. A month after the mailing, a phone survey of
+non-respondent farmers, randomly selected from stratum in the original sample, was conducted
+to complete the survey via phone. All survey collection efforts resulted in 3,006 responses for a
+response rate of 50%. One survey response from New York was omitted from the dataset for the
+study. The largest number of responses was from North Dakota with 932 survey returns.
+Responses from Minnesota, Montana and South Dakota totaled 832, 407, and 834, respectively.
+The responses were compiled by NASS and submitted to the UGPTI for analysis.
+Results were developed based on the valid respondent population of 3,005. Stratification of
+respondent figures by state and commodity show that a sufficient number were received to
+develop statistically robust results for the farm truck fleet and its farm-generated grain traffic.
+The main descriptive statistics calculated to describe the farm grain fleet and farm-generated
+grain traffic are related to frequency, central tendency and dispersion. In addition, some means
+tests are presented to investigate potential differences in grain farm truck fleet and marketing
+characteristics among the state CRD groups and different size farms.
+
+2.3    Statistical Metrics
+This section provides a highlight of some statistics used in the report. This overview provides a
+cursory understanding of the measures.
+The frequency distribution is simply a summary of frequency for the individual values (or value
+ranges) for a variable. With large samples, the frequency distribution tends to be a normal for
+independently and randomly distributed observations. This type of distribution presents itself in a
+bell-shaped observation frequency plot.
+
+
+
+
+                                                  4
+The sample mean is the simple average of all values in the responses. The mean is the most
+common measure of central tendency. Its calculation for a sample data set is:
+
+
+𝑥 = ∑ 𝑥𝑖 ⁄𝑛
+      𝑖
+
+Where xi is the value of x for observation i in the set of responses and n is the number of
+responses in the dataset.
+
+𝑥𝑤 = ∑ 𝑤𝑖 𝑥𝑖 ⁄∑ 𝑤𝑖
+          𝑖        𝑖
+
+Where wi is the weight associated with variable w for observation in the set of responses.
+Dispersion of the data is important in projecting this sample data as reflective of the larger
+population. Dispersion is the spread of values around the mean. The standard deviation is a
+measure of dispersion. The measure corrects for outliers that may be a problem with simpler
+indicators of dispersion such as range. Standard deviation is an indicator of how widely
+dispersed individual responses are relative to the mean. If the standard deviation is larger than
+expected, it may indicate the sample is not sufficient for statistically sound results. The standard
+deviation in the sample is calculated as:
+
+
+𝑠 = √∑(𝑥 − 𝑥̅ )2 ⁄𝑛 − 1
+
+
+Where x represents each value in the responses, 𝑥̅ is the mean value of the responses and n is the
+number of values in the sample of responses.
+The sample variance is closely related to the standard deviation, also providing an indicator for
+robustness based on variability in the response data based on expectations for normal distribution
+associated with central tendency. The variance, as with the standard deviation, is a measure of
+dispersion for the responses. The variance is the average squared deviation. In general, higher
+variation indicates potential bias and lower quality data that may be associated with a sample or
+survey design error.
+The final statistical measure calculated in the study is the standard error. The standard error of
+the mean provides information about the reliability of the sample based on the likelihood that
+mean values will vary when computed from different samples drawn from the working
+population. If the sample is sufficiently large, the sample averages will form a normal
+distribution that reflects what is expected in the population mean. The standard error decreases as
+the size of the sample increases. The sample here is sufficiently large relatively to the population
+so small standard errors are expected. The estimated standard error is found by taking the square
+root of the variance, so
+
+𝑆𝐸(𝑝̂𝑠 ) = √𝑉(𝑝̂𝑠 )
+
+
+
+                                                  5
+Where:
+   𝑆𝐸(𝑝̂𝑠 ) = the estimated standard error
+   𝑉(𝑝̂𝑠 ) = the estimated variance
+   𝑝̂𝑠 = the estimated response
+
+From this, we can build a 95% confidence interval. For example, the 95% confidence interval
+formula is 𝑝̂𝑠 ± 1.96 ∗ 𝑆𝐸(𝑝̂𝑠 ), where each of the terms has the meaning above and the value
+1.96 is the tabled value from the standard normal distribution for a 95% confidence interval. The
+95% confidence interval means that statistically there is only a 5% chance that the actual value
+falls outside the range.
+The sample design, survey administration and data collection have been completed to minimize
+any potential bias or error. The expertise of NASS in survey techniques and in working with the
+farmer population ensures this quality objective. In addition, the survey response data was
+assessed for validity. Non-response error was minimized with the follow-up phone survey
+because it is not reasonable to expect a 100% survey response. While non-response to specific
+questions did occur in some instances, most are associated with information that was not relevant
+for the respondent or that the respondent did not have readily available.
+
+
+
+
+                                                6
+3.        SURVEY RESULTS
+
+The 3,005 survey responses were queried to create a profile of the farm truck fleet in the
+Northern Plains, a region covering North Dakota and the surrounding states’ adjacent CRDs. In
+addition, information about grain marketing patterns and truck use characteristics associated with
+the farm-generated traffic were generated so farmers, policy makers and resource planners can
+better understand and manage demand associated with this transportation user group. The farm-
+generated demand is that trip segment from field to first delivery point. It does potentially
+include an interim move to on-farm storage that would impact the temporal aspects of the farm
+grain traffic cycle. This farm grain traffic is especially important in the management and
+allocation of rural and local road resources.
+
+3.1       Respondent Profile
+As mentioned previously, this region is heavily involved in production agriculture with three of
+the states dedicating 60% of their land use to crop production. The highest shares were in North
+Dakota and South Dakota where 87% and 88% of the land is in crop production, respectively.
+Montana has about 63% its land area in crop production. Minnesota has the lowest share of its
+land in crop production, at 47%.
+The sample respondent group included a good representation of crops across the region. As
+expected with production patterns, Montana has limited reporting for corn and soybean
+transportation. Responses across commodities and other states are acceptable within the crop-
+geographic production sectors. The limited responses for corn and soybean production in
+Montana will be included in the aggregate figures for the region but the crop-state detail will be
+limited because of the small sample size.
+
+    Table 3.1 Respondents Reporting Crop
+              Production, by State and Commodity
+    State               Wheat       Corn  Soybean
+    Minnesota            38%        71%    57%
+    Montana              80%        13%    <1%
+    North Dakota         70%        55%    27%
+    South Dakota         26%        80%    47%
+          Overall        51%        61%    37%
+    n=3,005
+
+Representation across the Northern Plains is good considering the share of harvested acres
+represented by the respondent group. North Dakota accounted for 39% of the survey
+respondents’ total harvested acres of 2.9 million acres of corn, soybeans and wheat. This is
+approximately 10% of the 29 million total harvested acres in the region for the three crops for
+2013 (USDA 2014a).2
+
+
+
+2
+ All references to harvested acres or bushels for survey responses refer to only corn, soybean and HRS wheat for the
+survey discussion.
+
+                                                         7
+The survey sample should be a reasonable reflection of the population based on the large sample
+size. The stratified response distributions by state and commodity show that 1 in 10 harvested
+acres are represented for North Dakota corn and wheat production, while soybeans is half that
+value (Table 3.2). Soybean production is more geographically concentrated, so transportation
+characteristics likely have less variation relative to wheat and corn which are more widely
+distributed across the states. Production figures for 2013 show that 88% of soybeans were
+produced in the four largest production CRDs, this compares to 77% and 62% of corn and wheat,
+respectively. Among the adjacent states, Montana and South Dakota acres are well-represented
+in the sample. Minnesota is also acceptable, but does have a slightly smaller share so care should
+be given when considering using sample statistics to represent the larger population of adjacent
+CRD acres.
+
+ Table 3.2 Share of Harvested Acres Represented in the Sample Response
+ Crop Reporting Districts                   HRS Wheat              Corn   Soybean
+ Western Minnesota                            12%                   7%      6%
+ Eastern Montana                              21%                  n.a.     n.a.
+ All North Dakota                             11%                   9%      5%
+ Northern South Dakota                        15%                  19%     11%
+ n=3,005; n.a. CRD Harvested Acres not available with USDA query
+
+The respondent farm size averaged 750 harvested acres of corn, soybean and wheat in 2013. The
+harvested acres for the three commodities ranged from 2 to 28,000 acres. A distribution of
+responses across quadrants shows about 22% to 28% of response farms in each of the farm size
+groups; defined as (1) less than 300 harvested acres, (2) 301 to 750 harvested acres, (3) 751 to
+1,500 harvested acres, and (4) 1,501 or more harvested acres (Table 3.3). The distribution across
+the farm group strata shows good representation of each group.
+
+ Table 3.3 Farm Group Characteristics
+                                                        Average
+                                                        Harvested
+ Farm Group                  Count        Percent        Acres
+ 300 acres or fewer           706          26%            156
+ 301 to 750 acres             594          22%            479
+ 751 to 1,500 acres           772          28%           1,057
+ 1,501 acres or more          672          24%           3,079
+ not reported=261
+
+Economies of size in the farm industry have been a key component in the continued evolution of
+this mature industry, especially for the commodity grains that are at the core of this study.
+Average farm size continues to increase (NASS 2014b). The ability of farms to spread costs,
+such as equipment and labor, over more acres is increasingly important with technology-
+enhanced farming and more expensive equipment needed to adopt it. The farm size has also been
+shown to relate positively to truck size, based on the economics of farm truck fleet decisions and
+with what has been observed in the market (Berwick et al. 2003).
+
+
+
+                                                    8
+3.2      Marketing Patterns
+Farm markets vary substantially across respondents because transportation for these major grains
+can simply be a short haul to on-farm storage or a longer haul to an elevator, feedlot, or
+processor facilities. The transportation resources consumed do show some patterns for individual
+commodities. In addition, responses to on-farm storage questions provide some insight into the
+timing of grain deliveries. Overall regional marketing patterns are useful. In addition, insight is
+provided in the market patterns among state and farm group strata. Statistical tests confirm that
+the marketing patterns do vary significantly for all commodities across farm group strata when
+considering the share of production transported directly to market when harvested for wheat
+[F(1,566)=5.13, ρ=<.002], corn [F(1,912)=12.99, ρ=<.001], and soybean [F(1,796)=6.77,
+ρ=<.002] are significant at the 99th percentile based on generalized linear model results.
+Significant variance is also found among states for the wheat [F(1,591)=22.28, ρ=<.001] and
+soybean [F(1,827)=4.97, ρ=<.002] marketing patterns, considering the share delivered directly
+from field to market.3
+
+3.2.1 On-Farm Storage
+
+On-farm storage for corn, soybean, or wheat was confirmed by 83% of the respondent farms.
+The availability of on-farm storage was not answered in 10% of the surveys and was left blank in
+the remaining 7%. Among states, South Dakota had lowest share of farms with on-farm storage
+for corn, soybean, or wheat at 84%. In North Dakota and Montana, 94% of the respondents
+confirmed on-farm storage availability. Minnesota had on-farm storage reported in 84% of
+responses. Average on-farm storage capacity for the three commodities was reported at 86,375
+bushels when weighted by harvested acres.
+
+    Table 3.4 Corn, Soybean and Wheat Storage Capacity, by State
+                                          Storage Ratio,      Average On-
+                                           Bushels per       Farm Storage,
+    Crop Reporting Districts     n       Harvested Acre*        Bushels*
+    Western Minnesota           769             77               156,276
+    Eastern Montana             360             70               103,904
+    All North Dakota            864             63               222,607
+    Northern South Dakota       751             69               374,173
+*Weighted by Harvested Acres
+
+The median on-farm storage capacity was 50,000 bushels with 25% reporting fewer than 20,000
+bushels. A scatterplot illustrates the distribution for the responses with storage of 500,000
+bushels or less (Figure 3.1). The survey had 28 responses from farms with more than a half-
+million bushels of storage. Among the facilities, 11 were in North Dakota, 10 in the northern
+South Dakota CRDs, 6 in the western Minnesota region, and a single location in eastern
+Montana. The higher storage volumes were attributed to the large farms of over 1,500 acres in 26
+of the 28 cases.
+
+
+3
+  Note that in this paper ‘state’ always refers to the group of CRDs surveyed from each respective state in the cases
+of Minnesota, Montana and South Dakota so caution should be used in extrapolating any statewide figures based on
+the survey results for these states.
+
+                                                          9
+                                500,000
+                                450,000
+   Soybean, and Wheat Storage
+    Bushels of on-Farm Corn,
+
+                                400,000
+                                350,000
+                                300,000
+                                250,000
+                                200,000
+                                150,000
+                                100,000
+                                 50,000
+                                     -
+
+Figure 3.1 Scatterplot of Reported On-Farm Storage Capacity, Farms with
+           500,000 Bushels or Less
+The storage capacity density, measured by farm as bushels produced per harvested acre
+(including corn, soybean, and wheat), was inversely related to the farm size (Table 3.5Table).
+The storage capacity volume, however, is substantially greater for the larger farms. Average on-
+farm storage was 329,097 bushels of corn, soybean, and wheat capacity for farms of 1,501 acres
+or more. The smallest farms averaged only 26,252 bushels of capacity for the three commodities.
+
+ Table 3.5 Corn, Soybean and Wheat Storage Capacity, by Farm Group
+                                  Share in   Average Storage     Average On-
+                                   Farm     Ratio, Bushels per Farm Storage,
+ Farm Group                n      Groups     Harvested Acre*       Bushels*
+ 300 acres or fewer       706       26%             151             26,252
+ 301 to 750 acres         594       22%              82             40,003
+ 751 to 1,500 acres       772       28%              73             80,718
+ 1,501 acres or more      672       24%              62            329,097
+*Weighted by Harvested Acres
+
+On-farm storage is concentrated on the larger farms in terms of average capacity. In terms of
+flexibility, however, the smaller farms appear to be more able to adapt when increased on-farm
+storage is needed (Table 3.5). For the smallest farms, the ratio of storage capacity bushels per
+harvested acre was 151. The largest farms have an average of 62 bushels of on-farm storage for
+each harvested acre. The difference in the storage density may be related to expectations for
+yield among commodities. For instance, average corn yield in 2013 was 110 bushels per acre
+compared to 31 and 45 bushels per acre for soybean and wheat, respectively (NASS 2014a).
+Survey responses do support this premise for the larger farms reporting more harvested corn
+acres. Among farms larger than 1,501 acres reporting at least half of their harvested acres were
+corn, the ratio of storage bushels to harvested acres was 75 (n=198) 95% CI [50, 59] compared to
+54 (n=436) 95% CI [69, 81] for farms attributing less than half their harvested acres to corn.
+Understanding farm-based storage capacity is important in discussing and predicting
+transportation scenarios for the industry.
+
+
+
+
+                                               10
+The role of on-farm storage is important in understanding farm-generated crop traffic. On-farm
+storage provides an easily accessible option to delay grain delivery beyond the harvest season. In
+addition to the insight gained from the higher-yield corn stratification of the responses with
+regarding to the density of farm storage capacity, farmers were asked the share of the crop
+production delivered directly to market from the field at harvest time. Responses weighted by
+bushels produced, showed 36% of wheat (n=1,518) 95% CI [32%, 39%] and 32% of corn
+(n=1,835) 95% CI [30%, 36%] was delivered directly to an elevator, feedlot, or processor
+market. The average share of soybeans delivered directly to market from field is substantially
+higher at 66% (n=1,748) 95% CI [63%, 69%]. Among the state strata, the adjacent South Dakota
+farmers reported delivering the largest share of wheat directly to market at harvest at 50%,
+compared to 31%, 33%, and 36% for Minnesota, Montana, and North Dakota, respectively. On
+average, corn share delivered to market at harvest ranged from 32% in South Dakota to 39% in
+Montana. Minnesota farmers reported an average 34% and North Dakota farmers reported 33%.
+All averages are weighted based on respondents’ reported production of the commodity.
+
+A differentiation in the timing for crop delivery can also be recognized when considering the
+farm group strata. Table 3.6 shows that among the farm groups, the larger farms tend to deliver a
+smaller share of their production directly to market at harvest. A larger proportion of soybeans
+are delivered directly to market by farms of all sizes, but the smallest share is for the largest
+farms. With a continued trend toward larger farms, note the storage propensity for larger farms is
+a factor in the farm-generated crop traffic. Operational factors, such as seasonal load regulations,
+may require additional consideration as the industry’s production and marketing practices
+continue to evolve.
+
+    Table 3.6 Crop Delivery from Field to Market, by Farm Group
+                                                              Standard                          95% Confidence
+    Commodity Farm Group                  n       Average      Error4                               Limit
+                 300 acres or fewer      303       45%           3%                             39%       52%
+                 301 to 750 acres        316       43%           3%                             37%       48%
+    Wheat
+                 751 to 1,500 acres      455       39%           2%                             35%       42%
+                 1,501 acres or more     441       33%           3%                             28%       38%
+                 300 acres or fewer      391       47%           3%                             42%       52%
+                 301 to 750 acres        372       49%           2%                             45%       54%
+    Corn
+                 751 to 1,500 acres      553       37%           2%                             33%       40%
+                 1,501 acres or more     514       29%           2%                             24%       33%
+                 300 acres or fewer      313       71%           3%                             65%       78%
+                 301 to 750 acres        375       74%           2%                             69%       78%
+    Soybeans
+                 751 to 1,500 acres      548       70%           2%                             66%       74%
+                 1,501 acres or more     508       62%           2%                             58%       67%
+Note: Averages Weighted by Bushels Produced
+
+
+
+4
+    Standard Error figures are standard error of the mean for all reported survey statistics.
+
+
+
+                                                              11
+3.2.2 Regional Markets
+Farmers were asked to describe their corn, soybean and wheat marketing patterns in 2013. For
+wheat harvested, farmers reported that as of May 1, 2014, about 16% of bushels produced
+remained in on-farm storage with the largest share, 79%, transported to elevators (Table 3.7). A
+small 2% share was hauled to processors. Soybean marketing patterns were similar with regard
+to the share moved to elevators, but processors were a larger receiver, at 9%, of the 2013 crop
+sold at the time of the survey (Table 3.9). Farmers were less likely to use on-farm storage for
+soybeans than for wheat or corn. About half of the corn grown during 2013 was sold to an
+elevator (Table 3.8). Similar to wheat, 17% of the 2013 corn crop was held in on-farm storage on
+May 1, 2014. Feed use accounted for about 14%, with the largest share being used for feed on
+their own farms.
+
+ Table 3.7 Regional Markets for Wheat Produced in 2013
+ Market        Average     Standard Error 95% Confidence Limit
+ Elevator       79%              1%           77%      81%
+ Processor       2%              1%            1%       4%
+ Feed Lot        0%              0%            0%       0%
+ Feed Own        0%              0%            0%       1%
+ Storage        16%              1%           14%      18%
+ Other           2%              0%            1%       3%
+ n=1,521; averages weighted by bushels produced
+
+ Table 3.8 Regional Markets for Corn Produced in 2013
+ Market        Average     Standard Error 95% Confidence Limit
+ Elevator       54%              2%            51%     58%
+ Processor      11%              1%             8%     13%
+ Feed Lot        4%              1%             2%      5%
+ Feed Own       10%              1%             8%     13%
+ Storage        17%              1%            14%     20%
+ Other           4%              2%             0%      8%
+ n=1,821; averages weighted by bushels produced
+
+ Table 3.9 Regional Markets for Soybean Produced in 2013
+ Market        Average     Standard Error 95% Confidence Limit
+ Elevator       79%              1%           77%        82%
+ Processor       9%              2%            6%        13%
+ Feed Lot        0%              0%            0%         1%
+ Feed Own        0%              0%            0%         1%
+ Storage         7%              1%            5%        10%
+ Other           4%              2%            0%         8%
+ n=1,115; averages weighted by bushels produced
+
+
+
+
+                                                  12
+Markets, State Strata. Minnesota farmers in the western CRDs report a smaller share of wheat
+and soybeans delivered to elevators compared to the regional market average (Table 3.10, Table
+3.12). For wheat, a larger share of the 2013 crop was held on-farm at the time of the survey. A
+larger share of corn had been sold to elevators versus the regional average, with less used for
+feed on their own farms (Table 3.11).
+
+ Table 3.10 Regional Markets for Wheat Produced in 2013, Minnesota
+ Market       Average      Standard Error    95% Confidence Limit
+ Elevator       70%              3%           63%           76%
+ Processor       4%              2%            0%            8%
+ Feed Lot        1%              1%            0%            2%
+ Feed Own        0%              0%            0%            0%
+ Storage        23%              4%           16%           30%
+ Other           2%              1%            0%            3%
+ n=319; averages weighted by bushels produced
+
+ Table 3.11 Regional Markets for Corn Produced in 2013, Minnesota
+ Market       Average      Standard Error    95% Confidence Limit
+ Elevator       61%              2%            56%          65%
+ Processor      10%              2%             5%          14%
+ Feed Lot        5%              1%             2%           8%
+ Feed Own        6%              1%             4%           9%
+ Storage        17%              2%            14%          21%
+ Other           1%              0%             0%           1%
+ n=595; averages weighted by bushels produced
+
+ Table 3.12 Regional Markets for Soybean Produced in 2013, Minnesota
+ Market       Average      Standard Error    95% Confidence Limit
+ Elevator       76%              2%           73%           80%
+ Processor       9%              2%            6%           13%
+ Feed Lot        1%              1%            0%            2%
+ Feed Own        0%              0%            0%            0%
+ Storage         8%              1%            5%           10%
+ Other           6%              2%            1%           10%
+ n=678; averages weighted by bushels produced
+
+
+
+
+                                                13
+Montana farmers in the eastern CRDs had sold a larger share of their 2013 crop to elevators by
+May 1, 2014, compared to the regional average (Table 3.13, Table 3.14). They held a smaller
+share in storage than other farmers in North Dakota and adjacent state CRDs. The limited
+response for corn production shows a much larger proportion of the corn grown in Montana is
+marketed to feedlots than in the remainder of the region. Montana farmers sold only about 1 in 5
+bushels of corn to elevators compared to about 1 in 2 for the region on average.
+
+ Table 3.13 Regional Markets for Wheat Produced in 2013, Montana
+ Market       Average      Standard Error 95% Confidence Limit
+ Elevator       83%              2%           79%          87%
+ Processor       3%              2%            0%           7%
+ Feed Lot        0%              0%            0%           0%
+ Feed Own        1%              0%            0%           1%
+ Storage        12%              2%            8%          16%
+ Other           1%              0%            0%           2%
+ n=327; averages weighted by bushels produced
+
+ Table 3.14 Regional Markets for Corn Produced in 2013, Montana
+ Market       Average      Standard Error 95% Confidence Limit
+ Elevator       21%              2%            51%         58%
+ Processor       4%              1%             8%         13%
+ Feed Lot       54%              1%             2%          5%
+ Feed Own       16%              1%             8%         13%
+ Storage         4%              1%            14%         20%
+ Other           2%              2%             0%          8%
+ n=54; averages weighted by bushels produced
+
+
+
+
+                                                14
+North Dakota mirrors the regional averages with regard to wheat, marketing 79% to elevators
+and storing 16% on-farm (Table 3.15). North Dakota farmers were more likely to sell corn to
+elevators and processors compared to the regional average, with a larger share remaining on-
+farm at the time of the survey (Table 3.16). With regard to soybeans, North Dakota sold a larger
+share to elevators compared to the regional average (Table 3.17). This soybean market pattern is
+expected given the longer distances for North Dakota farmers from soybean growing regions to
+processing plants in Minnesota and South Dakota.
+
+ Table 3.15 Regional Markets for Wheat Produced in 2013, North Dakota
+ Market         Average Standard Error        95% Confidence Limit
+ Elevator        79%             1%           77%             82%
+ Processor        2%             1%            0%              3%
+ Feed Lot         0%             0%            0%              0%
+ Feed Own         0%             0%            0%              1%
+ Storage         16%             1%           13%             19%
+ Other            3%             1%            1%              4%
+ n=655; averages weighted by bushels produced
+
+ Table 3.16 Regional Markets for Corn Produced in 2013, North Dakota
+ Market         Average Standard Error         95% Confidence Limit
+ Elevator        59%             2%            55%            64%
+ Processor        9%             2%             5%            13%
+ Feed Lot         2%             1%             0%             3%
+ Feed Own         3%             1%             2%             5%
+ Storage         23%             3%            18%            29%
+ Other            4%             2%             0%             7%
+ n=522; averages weighted by bushels produced
+
+ Table 3.17 Regional Markets for Soybean Produced in 2013, North Dakota
+ Market         Average Standard Error        95% Confidence Limit
+ Elevator        89%             1%           87%             91%
+ Processor        2%             1%            0%              3%
+ Feed Lot         1%             1%            0%              3%
+ Feed Own         0%             0%            0%              0%
+ Storage          6%             1%            3%              9%
+ Other            3%             1%            1%              5%
+ n=527; averages weighted by bushels produced
+
+
+
+
+                                                15
+South Dakota’s northern CRDs marketed a larger share of wheat and soybeans to elevators
+compared to the region on average with both crops at 82% (Table 3.18, Table 3.20). South
+Dakota farmers had the smallest share of each crop held on-farm compared to the region. The
+figures are, however, close to the regional averages. South Dakota farmers sold a relatively
+smaller share of their corn, 49%, to elevators, using a substantially larger share, 16%, for feed on
+their own farms (Table 3.19).
+
+ Table 3.18 Regional Markets for Wheat Produced in 2013, South Dakota
+ Market       Average      Standard Error     95% Confidence Limit
+ Elevator       82%              2%           78%             86%
+ Processor       1%              1%            0%              2%
+ Feed Lot        0%              0%            0%              0%
+ Feed Own        0%              0%            0%              0%
+ Storage        15%              3%           10%             20%
+ Other           2%              1%            0%              4%
+ n=220; averages weighted by bushels produced
+
+ Table 3.19 Regional Markets for Corn Produced in 2013, South Dakota
+ Market       Average      Standard Error      95% Confidence Limit
+ Elevator       49%              3%            43%            55%
+ Processor      12%              2%             8%            16%
+ Feed Lot        3%              1%             1%             5%
+ Feed Own       16%              2%            12%            21%
+ Storage        13%              2%            10%            17%
+ Other           6%              4%             0%            14%
+ n=669; averages weighted by bushels produced
+
+ Table 3.20 Regional Markets for Soybean Produced in 2013, South Dakota
+ Market       Average      Standard Error     95% Confidence Limit
+ Elevator       82%              2%           78%             85%
+ Processor      10%              2%            6%             15%
+ Feed Lot        0%              0%            0%              0%
+ Feed Own        0%              0%            0%              1%
+ Storage         6%              1%            4%              9%
+ Other           2%              1%            0%              3%
+ n=541; averages weighted by bushels produced
+
+
+
+
+                                                 16
+Markets, Farm Group Strata. Farm Group 1, including farms with fewer than 300 acres, held a
+larger share of wheat, at 23%, in storage than the region average. These farm storage practices
+may be related to specialty or small scale milling operations that tend to have limited on-site
+inventory or to individual farmer decisions to hold inventory multiple years. Wheat that graded
+with higher milling quality characteristics has historically garnered a premium during years
+where weather or other factors lead to below average crop quality. The corn market is also
+somewhat different from the region for these farms using corn for feed, 19%, nearly double the
+share for the regional average. These smaller farms also report storing less of their corn and
+soybean crop relative to the regional averages.
+
+ Table 3.21 Regional Markets for Wheat Produced in 2013, Farm Group 1
+ Market       Average      Standard Error      95% Confidence Limit
+ Elevator       72%              2%           68%             77%
+ Processor       1%              0%            0%              2%
+ Feed Lot        0%              0%            0%              1%
+ Feed Own        0%              0%            0%              1%
+ Storage        23%              3%           16%             29%
+ Other           3%              1%            0%              6%
+ n=303; averages weighted by bushels produced
+
+ Table 3.22 Regional Markets for Corn Produced in 2013, Farm Group 1
+ Market       Average      Standard Error       95% Confidence Limit
+ Elevator       56%              2%            52%            60%
+ Processor       3%              1%             1%             6%
+ Feed Lot        9%              2%             6%            13%
+ Feed Own       19%              2%            15%            23%
+ Storage        11%              1%             8%            14%
+ Other           2%              1%             0%             3%
+ n=392; averages weighted by bushels produced
+
+ Table 3.23 Regional Markets for Soybean Produced in 2013, Farm Group 1
+ Market       Average      Standard Error      95% Confidence Limit
+ Elevator       85%              2%           81%             90%
+ Processor       5%              2%            1%              9%
+ Feed Lot        0%              0%            0%              0%
+ Feed Own        0%              0%            0%              1%
+ Storage         7%              3%            1%             12%
+ Other           3%              1%            0%              5%
+ n=314; averages weighted by bushels produced
+
+
+
+
+                                                17
+Farm Group 2, which includes farms sized 301 to 750 harvested acres, was close to the regional
+averages in its wheat marketing. This group did report selling a larger share of each commodity
+to elevators compared to the regional average. With 80% of wheat, 62% of corn and 88% of
+soybeans marketed at the elevator, the shares are 1 percentage point higher for wheat and 9 and 8
+percentage points higher than the region average for corn and soybeans respectively (Table 3.24,
+Table 3.25, Table 3.26).
+
+ Table 3.24 Regional Markets for Wheat Produced in 2013, Farm Group 2
+ Market          Average Standard Error        95% Confidence Limit
+ Elevator         80%            2%           76%             83%
+ Processor         1%            1%            0%              3%
+ Feed Lot          0%            0%            0%              0%
+ Feed Own          0%            0%            0%              1%
+ Storage          16%            2%           12%             20%
+ Other             2%            1%            1%              4%
+ n=313; averages weighted by bushels produced
+
+ Table 3.25 Regional Markets for Corn Produced in 2013, Farm Group 2
+ Market       Average      Standard Error       95% Confidence Limit
+ Elevator        62%             2%            57%             66%
+ Processor        6%             2%             2%              9%
+ Feed Lot         4%             2%             0%              8%
+ Feed Own        15%             2%            10%             19%
+ Storage         13%             2%            10%             17%
+ Other            1%             0%             0%              1%
+ n=372; averages weighted by bushels produced
+
+ Table 3.26 Regional Markets for Soybean Produced in 2013, Farm Group 2
+ Market       Average      Standard Error      95% Confidence Limit
+ Elevator        88%             1%           85%              90%
+ Processor        5%             2%            1%               8%
+ Feed Lot         0%             0%            0%               0%
+ Feed Own         0%             0%            0%               1%
+ Storage          7%             1%            4%              10%
+ Other            0%             0%            0%               1%
+ n=375; averages weighted by bushels produced
+
+
+
+
+                                                18
+Farms between 751 and 1,500 acres comprise the operations in Farm Group 3. This group is
+similar to the regional market average in the distribution of corn, soybeans and wheat. Elevators
+are the primary market for each commodity. Corn has the greatest diversification with regard to
+markets (Table 3.27, Table 3.28, Table 3.29).
+
+ Table 3.27 Regional Markets for Wheat Produced in 2013, Farm Group 3
+ Market       Average      Standard Error      95% Confidence Limit
+ Elevator       76%              1%           73%             79%
+ Processor       3%              1%            1%              5%
+ Feed Lot        0%              0%            0%              1%
+ Feed Own        0%              0%            0%              1%
+ Storage        18%              2%           15%             21%
+ Other           2%              1%            1%              4%
+ n=457; averages weighted by bushels produced
+
+ Table 3.28 Regional Markets for Corn Produced in 2013, Farm Group 3
+ Market       Average      Standard Error       95% Confidence Limit
+ Elevator       57%              2%            53%            60%
+ Processor       9%              1%             6%            11%
+ Feed Lot        3%              1%             2%             4%
+ Feed Own       10%              1%             7%            13%
+ Storage        19%              2%            16%            23%
+ Other           3%              1%             1%             4%
+ n=555; averages weighted by bushels produced
+
+ Table 3.29 Regional Markets for Soybean Produced in 2013, Farm Group 3
+ Market       Average      Standard Error      95% Confidence Limit
+ Elevator       81%              1%           78%              83%
+ Processor       8%              2%            5%              12%
+ Feed Lot        1%              1%            0%               2%
+ Feed Own        0%              0%            0%               0%
+ Storage         7%              1%            5%               8%
+ Other           3%              1%            2%               5%
+ n=550; averages weighted by bushels produced
+
+
+
+
+                                                19
+Farm Group 4 includes the largest operations among the respondent farms, at least 1,501 acres.
+These operations are similar to the regional market distributions. Farm Group 4 sells slightly
+more than the regional average share of its wheat and soybeans to elevators. The average corn
+share sold to elevators is slightly lower while the own feed use is slightly higher. Corn does show
+a greater variability with regard to market distribution, considering the standard errors. Figures
+for each commodity market sales share fall within the regional 95% confidence intervals.
+
+ Table 3.30 Regional Markets for Wheat Produced in 2013, Farm Group 4
+ Market       Average      Standard Error      95% Confidence Limit
+ Elevator       80%              1%           77%             83%
+ Processor       2%              1%            1%              4%
+ Feed Lot        0%              0%            0%              1%
+ Feed Own        0%              0%            0%              1%
+ Storage        15%              2%           12%             18%
+ Other           2%              1%            1%              3%
+ n=441; averages weighted by bushels produced
+
+ Table 3.31 Regional Markets for Corn Produced in 2013, Farm Group 4
+ Market       Average      Standard Error       95% Confidence Limit
+ Elevator       53%              2%            48%            58%
+ Processor      12%              2%             8%            15%
+ Feed Lot        4%              1%             2%             6%
+ Feed Own        9%              2%             6%            13%
+ Storage        17%              2%            14%            21%
+ Other           5%              3%             0%            11%
+ n=516; averages weighted by bushels produced
+
+ Table 3.32 Regional Markets for Soybean Produced in 2013, Farm Group 4
+ Market       Average      Standard Error      95% Confidence Limit
+ Elevator       82%              1%           79%              84%
+ Processor       7%              1%            4%              10%
+ Feed Lot        1%              0%            0%               2%
+ Feed Own        0%              0%            0%               1%
+ Storage         7%              1%            4%               9%
+ Other           4%              1%            1%               6%
+ n=508; averages weighted by bushels produced
+
+
+
+
+                                                20
+3.3        Grain Transportation Vehicle Inventory
+Between 1963 and 2002, the U. S. Department of Transportation sampled private and
+commercial truck registrations in each state to compile a national public database. The database
+offered estimated truck characteristics in a five-year cycle. It was released as the Vehicle
+Inventory and Use Survey (VIUS) and had widespread use by government, academia and
+businesses in assessing policy and investment decisions. The database offered a source to profile
+a state’s vehicle fleet using information such as vehicle registration numbers, model year (or
+fleet age), truck axle configuration, truck body type, and business activity (such as agriculture or
+manufacturing). The survey was discontinued in 2002 because of budget restrictions so the
+information provided here offers insight, missing since 2002, into the region’s grain truck fleet.
+
+The farm-owned grain truck fleet is comprised of five main truck types. The single-axle, tandem-
+axle, tridem-axle, 5-axle semi, and the 7-axle semi or Rocky Mountain Double (RMD). Many
+more types and combinations are used, but not in sufficient quantity for analysis.
+
+The single-axle truck was for decades the industry standard, used
+to deliver grain from farm to elevator. It provided sufficient
+utility for small farms in the Northern Plains. The single-axle
+truck (Figure 3.2) is agile and serves as a multiple use vehicle.
+However the single-axle truck is not efficient for moving grain
+long distances. A survey conducted by the Upper Great Plains
+Transportation Institute in 1984 estimated that the farm truck
+fleet was 80% single-axle trucks (Griffin 1984). That same              Figure 3.2 Single-Axle Truck
+survey found that the average trip to market was 12 miles. A
+study by the Upper Great Plains Transportation Institute in 2000 estimated that 52% of the farm
+fleet was single-axle trucks and 25% were tandems (Tolliver et al. 2005). Only 9% of the fleet
+was 5-axle or other types of semi-trucks. The problem with the single-axle truck is that the truck
+is small and the regulatory weight limit provides for a relatively small payload compared to other
+truck types. This severely limits any size economies for grain truck transport. The federal bridge
+formula5 limits this truck because of its relatively short wheel base. Other factors that reduce the
+desirability of the single-axle farm truck is that it is expensive to buy if purchased new relative to
+its payload. It is also expensive to operate as the fuel economy per mile is equal to or less than
+some larger truck types.
+
+The tandem-axle truck (Figure 3.3) increases payload
+weight by adding an axle. The Federal regulation for the
+interstate system and on most state highways limits the
+tandem-axle truck to 34,000 pounds on that tandem-axle.
+The gasoline powered tandem-axle truck served as a
+transition from the single-axle farm truck to the semi
+widely in use today. The GVW (gross vehicle weight) of                  Figure 3.3 Tandem-axle Truck
+
+
+5
+    W=500[(LN/N-1+12N+36)
+    W=The maximum weight in pounds that can be carried on a group of two or more axles to the nearest 500 pounds
+    L=The spacing in feet between the outer axles of any two or more consecutive axles
+    N=The number of axles being considered
+
+                                                        21
+the tandem-axle truck is 46,000 pounds, depending on the spread of the axles and the width of
+the front tires.
+
+A third truck type represented in the survey is the tridem-
+axle single unit truck (Figure 3.4). This truck provides the
+agility of a single unit truck but adds an axle for increased
+payload. A tridem-axle with the front and rear axle centers
+set at a length of 8 feet can weigh 42,000 pounds
+compared to a tandem-axle at 34,000 pounds. This higher
+weight allows for larger payloads making this truck both
+agile and efficient. The federal bridge formula restricts the   Figure 3.4 Tridem-axle Truck
+tridem to a GVW of 56,000 pounds on the interstate.
+
+Differences exist among tandems and even tridem trucks. Some have gasoline powered engines
+that lack power. Producers have found that a pre-owned over-the-road diesel powered semi-truck
+could be converted economically into a box and hoist truck for farm use. These converted trucks
+are adequately powered, agile and efficient for use as a farm truck. The cost of converting a pre-
+owned semi-tractor into a box and hoist truck is comparable to buying a new single-axle or
+tandem gas-powered truck.
+
+The 5-axle semi is the most commonly used
+truck in the United States (Figure 3.5). The
+truck consists of two groups of tandem-
+axles and a steering axle. The grain trailer of
+a 5-axle semi can be made of either steel or
+aluminum or some combination. The trailer
+is usually a double hopper, which allows for
+gravity-flow unloading out the bottom, or is Figure 3.5 5-Axle Semi-truck
+equipped with a hydraulic cylinder that lifts
+the trailer for gravity flow out the back. The truck is allowed to operate at a GVW of 80,000
+pounds on the interstate system and most state highways if the distance between the extreme
+axles is at least 51 feet. Even though the empty weight of a 5-axle semi is greater than that of any
+previously mentioned straight truck the payload is considerably more. The payload of a 5-axle
+semi is usually more than 52,000 pounds; and depending on the type of tractor and trailer and
+can be higher. Many tractor and trailer types result in the 5-axle semi configuration – the
+payloads, however may vary. A semi with the condo sleeper or a steel trailer adds weight to the
+unit and reduces payload. A tractor called a day-cab or no sleeper semi-tractor, pulling an
+aluminum trailer is the lowest weight 5-
+axle semi providing for the biggest
+payload. These units may weigh as little
+as 22,000 pounds, allowing for up to a
+58,000-pound payload.
+
+The 7-axle semi or Rocky Mountain
+Double (Figure 3.6) is allowed to operate
+in North Dakota, Montana and South           Figure 3.6 7-Axle Semi or RMD (Rocky Mountain
+Dakota at a GVW of 105,500 pounds if                    Double).
+
+                                                 22
+from the front axle to the extreme back axle is at least 78 feet. This truck is not allowed on the
+Interstate System at more than 80,000 pounds. The RMD is not allowed to operate on Minnesota
+highways. The payload of the RMD depends on the unit. A day-cab tractor with aluminum
+trailers may allow for a 75,000-pound payload.
+
+
+3.3.1 Farm Truck Ownership
+The most commonly owned truck in the four-state Northern Plains region is the 5-axle semi.
+Responses show that the 5-axle semi comprises about 39% of all trucks reported followed by the
+tandem-axle truck with over 23% and then the single-axle with 18% (Table 3.33). The tridem
+and 7-axle semi-trucks were least owned among producers representing 8% and 3%,
+respectively.
+
+  Table 3.33 Regional Total Trucks Reported
+  Single-axle            1,226      18.3%
+  Tandem-axle            1,568      23.4%
+  Tridem-axle             542        8.1%
+  5-axle Semi            2,587      38.6%
+  7-axle Semi             209        3.1%
+  Other Truck Types       566        8.5%
+  n=3,005
+
+Looking at the truck types by state there is some variation (Table 3.34). The 5-axle semi is
+similar at about 40% of the truck fleet in Minnesota, North Dakota, and South Dakota but only
+makes up about 24% of the fleet in Montana. In Minnesota, North Dakota, and South Dakota, the
+tandem truck is the second most popular representing about 23% of the fleet. According to
+respondents, the single-axle truck makes up 34% of the fleet in Montana and the tandem-axle is
+second at 27.6%. The 5-axle semi is third at 23.8%. In the other states, the single-axle is fourth-
+most reported with 12.1% in Minnesota, 18.7% in North Dakota, and 14.4% in South Dakota.
+
+  Table 3.34 Truck Type Owned, by State
+                                                            North       South
+                                 Minnesota Montana         Dakota      Dakota
+  Single-axle                       12.1%   34.1%          18.7%       14.4%
+  Tandem-axle                       23.1%   27.6%          22.4%       23.0%
+  Tridem-axle                       10.5%    2.6%          10.5%        4.3%
+  5-axle Semi                       40.4%   23.8%          40.6%       42.3%
+  7-axle Semi                        1.7%    3.6%           3.3%        4.2%
+  Other Truck Types                 12.3%    8.2%           4.4%       11.8%
+  n=3,005
+
+
+
+
+                                                23
+Examining fleet truck count data does not tell the whole story because traffic is ultimately a key
+factor. Truck miles or truck use by state is a better measure of farm truck activity. The 5-axle
+semi is the most heavily used truck in all states surveyed, based on truck miles reported. The 5-
+axle semi accounts for 63% of the miles in Minnesota followed by South Dakota, North Dakota,
+and Montana with 57.3%, 52.2%, and 42.4% respectively.
+
+ Table 3.35 Truck Annual Mileage Share in State, by Truck Type
+                                                                      North        South
+                                    Minnesota Montana                Dakota       Dakota
+ Single-axle                            3.3%    9.6%                  4.9%         4.1%
+ Tandem-axle*                           9.9%   16.7%                 11.2%        10.6%
+ Tridem-axle                            9.9%    3.3%                 10.2%         3.9%
+ 5-axle Semi                           63.0%   42.4%                 52.2%        57.3%
+ 7-axle Semi                            8.5%   11.3%                 10.1%        16.7%
+ Other Truck Types                      5.3%   16.8%                 11.4%         9.2%
+ n=3,005
+ *Tandem-axle is the only truck type with significant different mileage among states at the
+ 99th percentile.
+
+
+The 5-axle semi is the truck of choice on larger farms (Table 3.36). The 5-axle semi makes up
+more than half of the fleet among farms with 1,501 acres or more and 37.7% of farms with 751
+acres or more. The tandem-axle truck is second most owned among the larger farms while the
+single-axle truck is most owned among farms with 300 acres or fewer.
+
+ Table 3.36 Truck Fleet Owned, by Farm Size
+                                     Farm Group
+                              1         2                          3              4
+                            300 Acres or    301 Acres      751 Acres      1,501 or
+ Truck Type                      Fewer         to 750        to 1,500   More Acres
+ Single-axle                     37.4%        25.9%          16.8%           7.0%
+ Tandem-axle                     23.6%        31.5%          27.5%          16.5%
+ Tridem-axle                      3.9%         6.8%          10.5%           8.6%
+ 5-axle Semi                     19.6%        24.8%          37.8%          54.4%
+ 7-axle Semi                      1.8%         1.7%           2.3%           4.9%
+ Other Truck Types               13.8%         9.3%           5.1%           8.6%
+ n=2,744
+
+
+
+
+                                                        24
+Producers reported that the 5-axle semi is used most by all farm groups (Table 3.37). Although
+single-axle trucks are most often owned by farmers with 300 acres or less, the 5-axle semi is
+most heavily used for hauling grain to market. The tandem-axle is second in use among all farm
+groups except those farms with 1,501 acres or more. These largest farms reported using the
+tridem truck more frequently, in annual truck miles, than the tandem-axle truck. All farm sizes
+report that the 7-axle semi or the RMD is used more than the tridem.
+
+ Table 3.37 Annual Truck Miles, by Truck Type and Farm Group
+                                          Farm Group
+ Truck Type                   1          2          3         4
+ Single-axle*             15%          8%         4%         2%
+ Tandem-axle              14%         18%        14%         7%
+ Tridem-axle                4%         5%         9%         8%
+ 5-axle Semi              55%         40%        56%        58%
+ 7-axle Semi*             12%          8%        11%        13%
+ Other Truck Types*         5%        20%         7%        11%
+ n=2,744
+ *Not significant at the 99th percentile for single-axle, 7-axle semi or other truck type.
+
+The 7-axle truck is reported to have the most annual miles per unit at 16,920 miles (Table
+3.38Table). This level of mileage, which is 2.4 times greater than the 5-axle average annual
+mileage, may explain this fleet investment decision as typified by heavier use in longer hauls of
+the producer’s grain or in likely custom hauling activity. The 7-axle is also reportedly used more
+for custom hauling than any of the other truck types. Single-axle trucks reportedly have the least
+average annual miles at 1,186 miles. The order of truck types and use follows the order of
+efficiency among truck types. The truck type with the largest payload is most appropriate for
+hauling loads the longest distances. Therefore larger farms with large-payload trucks may have
+more flexibility to efficiently haul past the first option of delivery to maximize revenue.
+
+ Table 3.38 Regional Average Annual Miles by Truck Type
+                                     Average       Standard
+                            n   Annual Miles          Error                                  95% Confidence Interval
+ Single-axle              731           1,186            95                                         999       1,374
+ Tandem-axle              918           2,172           102                                       1,972       2,372
+ Tridem-axle              342           3,768           268                                       3,241       4,294
+ 5-axle Semi            1,353           6,954           324                                       6,318       7,590
+ 7-axle Semi              119          16,920         2,662                                      11,650      22,191
+ Other Truck Types        265           6,680           883                                       4,942       8,419
+
+
+
+
+                                                                 25
+3.3.2 Farm Truck Use
+Producers reported the use of their trucks based on hauling their own grain, custom hauling for
+others, and other uses. Other uses included hauling crop inputs, feed for livestock, and other
+needs around the farm. The 5-axle semi was reported to be used 89.1% of the time for hauling
+the producers’ own grain. The tridem, tandem and single-axle also were used for hauling owner
+grain at 83.6%, 81.7% and 65.3% respectively (Table 3.39).
+
+ Table 3.39 Regional Truck Average Annual Use for Hauling Own Grain, by Truck Type
+                                    Haul Own Grain
+                                    Share in Annual      Standard       95% Confidence
+                              n                 Use         Error               Interval
+ Single-axle                722               65.3%         1.7%      62.0%      68.5%
+ Tandem-axle                939               81.7%         1.1%      79.5%      84.0%
+ Tridem-axle                349               83.6%         1.6%      80.4%      86.8%
+ 5-axle Semi              1,407               89.1%         0.7%      87.9%      90.5%
+ 7-axle Semi                128               80.7%         3.0%      74.9%      86.6%
+ Other Truck Types          285               80.8%         1.9%      77.1%      84.5%
+
+Producers reported the use of their trucks for custom hauling for others and, except for the 7-axle
+semi, this was a small percentage (Table 3.40). The 7-axle was reportedly used 9.2% of the time
+in custom hauling. Producers reported using their 5-axle semis for custom hauling 2.4% of the
+time.
+
+ Table 3.40 Regional Truck Average Annual Custom Use, by Truck Type
+                                      Custom Haul
+                                    Share in Annual     Standard    95% Confidence
+                               n               Use         Error           Interval
+ Single-axle                722               0.8%         0.3%      0.2%     1.5%
+ Tandem-axle                939               1.6%         0.3%      0.9%     2.3%
+ Tridem-axle                349               1.6%         0.6%      0.5%     2.7%
+ 5-axle Semi               1408               2.4%         0.3%      1.7%     3.0%
+ 7-axle Semi                128               9.2%         2.3%      4.6% 13.8%
+ Other Truck Types          285               2.2%         0.7%      0.7%     3.6%
+
+
+
+
+                                                26
+Respondents reported using their single-axle trucks 33.9% of the time for uses other than hauling
+their own grain or custom hauling. This truck is agile and handy for hauling small loads around
+the farm. The tandem and tridem were reported to be used for other uses 16.7% and 14.8% of the
+time respectively. The 5-axle and 7-axle reported 8.4% and 10.1% for other uses. Other uses
+include hauling agricultural inputs such as seed and fertilizer and for other uses around the farm
+(Table 3.41).
+
+ Table 3.41 Regional Truck Mileage Other Use
+                                    Other Haul Share           Standard       95% Confidence
+                                n     in Annual Use               Error              Interval
+ Single-axle                  722             33.9%               1.7%      30.6%     37.1%
+ Tandem-axle                  939             16.7%               1.1%      14.6%     18.8%
+ Tridem-axle                  349             14.8%               1.6%      11.7%     17.9%
+ 5-axle Semi                1,407              8.4%               0.6%       7.3%       9.6%
+ 7-axle Semi                  128             10.1%               2.2%       5.8%     14.4%
+ Other Truck Types            285             16.8%               1.8%       1.3%     20.3%
+
+
+3.3.3 Farm Truck Fleet Current and Future Investments
+The type and number of trucks owned in 2014, as reported by respondents, is listed in Table. For
+respondents reporting ownership of common truck types, an average 1.7 single-axle and 1.7
+tandem-axle trucks were included in their fleet. The average farm ownership was highest among
+the 5-axle semi, at an average 1.9 per farm. A relatively small number of producers, 127,
+reported owning 7-axle RMDs. With average number per farm at 1.7, indicating that many of
+these producers own more than 1.
+
+ Table 3.42 Regional Number of Trucks Owned in 2014
+                                      Number of
+                                         Trucks    Standard                 95% Confidence
+                               n        Owned         Error                        Interval
+ Single-axle                 744            1.7         0.0                  1.6        1.7
+ Tandem-axle                 941            1.7         0.0                  1.6        1.7
+ Tridem-axle                 350            1.6         0.1                  1.5        1.7
+ 5-axle Semi               1,401            1.9         0.0                  1.8        1.9
+ 7-axle Semi                 127            1.7         0.1                  1.5        1.8
+ Other Truck Types           285            2.0         0.1                  1.8        2.2
+
+
+
+
+                                                27
+Farm operators estimate they will own fewer single-axle farm trucks in 2018 than they own in
+2014 (Table 3.43). The trend also is true of the tandem-axle truck. They plan to increase the
+number of 5-axle semi-trucks by about 7%. The average number of tandem and tridem trucks
+will remain relatively stable.
+
+ Table 3.43 Regional Trucks to be Owned in 2018
+                               Average Number of
+                                     Trucks to be            Standard          95% Confidence
+                           n       Owned in 2018                Error                 Interval
+ Single-axle             716                  1.5                 0.1           1.3        1.6
+ Tandem-axle             910                  1.6                 0.0           1.5        1.6
+ Tridem-axle             331                  1.6                 0.1           1.4        1.7
+ 5-axle Semi           1,359                  2.0                 0.1           1.9        2.1
+ 7-axle Semi             120                  1.8                 0.1           1.6        2.0
+ Other Truck Types       273                  0.1                 0.0           0.0        0.1
+
+The number of trucks leased in the regional farm fleet is a small (Table 3.44). Farmers lease
+equipment for a couple reasons. The first is that leasing is an alternative to bank financing.
+Second, lease payments are tax deductible. The recent tax advantage of the Section 179
+depreciation schedule allows producers to deduct the purchase price of equipment in a single
+year, with some limits. This provision gives ownership an advantage over leasing (Internal
+Revenue Service 2015). Producers have clearly chosen ownership over leasing.
+
+ Table 3.44 Regional Trucks Leased in 2014
+                                         Average
+                                       Number of            Standard      95% Confidence
+                                n Trucks Leased                Error             Interval
+ Single-axle                  585            0.0                 0.0        0.0       0.0
+ Tandem-axle                  753            0.0                 0.0        0.0       0.0
+ Tridem-axle                  247            0.0                 0.0        0.0       0.1
+ 5-axle Semi                1,059            0.1                 0.0        0.0       0.1
+ 7-axle Semi                   78            0.0                 0.0        0.0       0.1
+ Other Truck Types            249            0.0                 0.0        0.0       0.1
+
+
+
+
+                                                28
+The number of trucks leased in 2014 is a very small percentage of the truck fleet and that is
+projected to continue into 2018 based on respondent truck fleet investment plans. The economic
+conditions and tax laws provide no advantage at the present time for leasing over owning.
+Leasing becomes more attractive when it is difficult to finance equipment and tax laws provide a
+tax savings for leasing.
+
+ Table 3.45 Regional Trucks to be Leased in 2018
+                               Average Number of
+                               Trucks to be Leased           Standard          95% Confidence
+                           n               in 2018              Error                 Interval
+ Single-axle             580                    0.0               0.0          0.0         0.0
+ Tandem-axle             751                    0.0               0.0          0.0         0.0
+ Tridem-axle             245                    0.0               0.0          0.0         0.0
+ 5-axle Semi           1,048                    0.0               0.0          0.0         0.1
+ 7-axle Semi              77                    0.1               0.0          0.0         0.1
+ Other Truck Types       244                    0.1               0.0          0.0         0.1
+
+3.4    Farm to Market Trips
+Maturation in agriculture has been typified by farm consolidation and elevator industry
+rationalization as firms seek to adopt new technologies and gain efficiencies while competing
+with a rather homogeneous product in a global grain market. It is reasonable to expect an
+increase in the average distance for farm-generated grain movements because farm size and
+distance between elevators industries have increased over recent decades. In addition, production
+pattern changes and policy incentives have created opportunities for local processing investments
+in industries such as ethanol and biofuels. On average, major crops were hauled 26.8 miles to the
+first choice delivery point and 41.7 miles to the second choice in the Great Plains region for
+marketing the 2013 crop (Table 3.46). About 1 in 5 miles was on unpaved roads for the first
+choice delivery point. Only about 2 miles of the average trip is on interstates. The largest share
+of the trip is on state roads, with 1 in 2 miles on state roads. Respondents reported that 41% of
+their average delivery miles to each the first and second choice delivery points is on local roads.
+
+
+
+
+                                                29
+ Table 3.46 Regional Market Road Type Miles for 2013 Grain Delivery
+      Road Type            Average Miles Standard Error    95% Confidence Limit
+ First Choice Delivery Point
+      Interstate                 2.2           0.5           1.3        3.2
+      State 4-Lane Paved         1.0           0.2           0.7        1.3
+      State 2-Lane Paved        12.5           0.5          11.4       13.6
+      Local Paved                5.9           0.3           5.3        6.6
+      Local Unpaved              5.1           0.4           4.4        5.9
+      Total                     26.8
+ Second Choice Delivery Point
+      Interstate                 2.7           0.5           1.7        3.8
+      State 4-Lane Paved         2.6           0.7           0.0        4.0
+      State 2-Lane Paved        19.1           1.3          16.6       21.7
+      Local Paved               11.5           2.4           6.8       16.2
+      Local Unpaved              5.8           0.6           4.7        6.9
+      Total                     41.7
+ n=4,937; averages weighted by harvested acres
+
+
+3.4.1 Road Use in Farm Grain Delivery
+Figure 3.7 provides a summary of the road distances traveled to first choice delivery point for
+wheat, corn and soybean crops in the Northern Plains region for marketing the 2013 crop. These
+distances are weighted by the bushels produced for each respective crop. The second choice
+delivery points are 16 to 22 miles farther than the first choice delivery points. Respondents
+reported an average length of haul for wheat of 32.5 miles, of which 6.8 miles, or 21%, was on
+unpaved roads. These figures are weighted based on the wheat bushels reportedly produced. In
+2000, the average delivery for wheat movements with a semi-truck was on 25.2 miles paved and
+7.2 unpaved road miles, respectively (Tolliver et al. 2005). Comparatively, the average farm
+delivery in the early 1980’s was about 12 miles, as noted in the truck fleet discussion.
+
+           35
+           30
+           25
+           20                                          Unpaved
+   Miles
+
+
+
+
+           15                                          Paved
+           10                                          Interstate
+
+            5
+            0
+                Wheat           Corn         Soybean
+Figure 3.7 Regional Road Use for the First Choice Delivery Point
+
+                                                  30
+Wheat has the longest average trip to the first point delivery choice at 30.0 miles. About 25% of
+the distance is on unpaved roads (Table 3.47). The share of unpaved roads in the average corn
+trip of 24.3 miles is 20% and in the average soybean trip of 25.7 miles is 20% (Table 3.48, Table
+3.49). Considering the road group, interstates are lightly used in the delivery of grains to their
+first choice delivery point, accounting for only 1 to 2 miles in a crop delivery trip. State 2-lane
+and 4-lane paved roads account for 50%, 50%, and 49% of the average trip distance for wheat,
+corn, and soybeans, respectively. Local roads make up the balance, comprising 43%, 43%, and
+45% of the average trip distance for wheat, corn, and soybeans respectively. The distance to the
+second choice delivery point is farther for each commodity. Thus second choice deliveries tend
+to include a smaller share of travel on unpaved roads, with a similar allocation between state and
+local roads.
+
+ Table 3.47 Regional Market Road Type Miles for 2013 Wheat Delivery
+      Road Type            Average Miles Standard Error   95% Confidence Limit
+ First Choice Delivery Point
+      Interstate                 2.1           0.4          1.4        2.8
+      State 4-Lane Paved         0.8           0.3          0.3        1.4
+      State 2-Lane Paved        14.2           1.1         12.0       16.4
+      Local Paved                5.2           0.6          4.0        6.5
+      Local Unpaved              7.6           1.7          4.2       11.0
+      Total                     30.0
+ Second Choice Delivery Point
+      Interstate                 3.8           0.9          2.1        5.5
+      State 4-Lane Paved         6.7           3.9          0.0       14.4
+      State 2-Lane Paved        21.0           3.0         15.0       26.9
+      Local Paved               13.9           4.7          4.6       23.1
+      Local Unpaved              7.4           1.4          4.7       10.2
+      Total                     52.8
+ n=1,438; averages weighted by bushels produced
+
+
+
+
+                                                  31
+Table 3.48 Regional Market Road Type Miles for 2013 Corn Delivery
+     Road Type            Average Miles Standard Error    95% Confidence Limit
+First Choice Delivery Point
+     Interstate                 1.9           0.6              0.8          3.0
+     State 4-Lane Paved         1.0           0.2              0.7          1.4
+     State 2-Lane Paved        11.0           0.8              9.5         12.6
+     Local Paved                5.6           0.5              4.7          6.5
+     Local Unpaved              4.7           0.5              3.8          5.7
+     Total                     24.3
+Second Choice Delivery Point
+     Interstate                 3.1           1.6           0.0        6.2
+     State 4-Lane Paved         1.4           0.5           0.0        2.4
+     State 2-Lane Paved        18.6           2.3          14.2       23.1
+     Local Paved               13.6           6.5           0.9       26.4
+     Local Unpaved              3.9           0.6           2.8        5.0
+     Total                     40.7
+n=1,438; averages weighted by bushels produced
+
+
+
+Table 3.49 Regional Market Road Type Miles for 2013 Soybean Delivery
+     Road Type            Average Miles Standard Error   95% Confidence Limit
+First Choice Delivery Point
+     Interstate                 1.3           0.2          0.9        1.8
+     State 4-Lane Paved         0.8           0.2          0.5        1.1
+     State 2-Lane Paved        11.0           0.8          9.4       12.5
+     Local Paved                6.5           0.8          4.9        8.1
+     Local Unpaved              4.2           0.3          3.6        4.8
+     Total                     23.8
+Second Choice Delivery Point
+     Interstate                 1.9           0.7          0.5        3.3
+     State 4-Lane Paved         1.5           0.7          0.0        2.8
+     State 2-Lane Paved        17.2           2.4         12.5       21.9
+     Local Paved               14.1           6.2          1.9       26.3
+     Local Unpaved              6.1           1.1          3.8        8.3
+     Total                     40.7
+n=1,438; averages weighted by bushels produced
+
+
+
+
+                                                 32
+3.4.2 Road Use in Farm Delivery, by State and Farm Group
+
+Means tests using a generalized linear model show statistically significant differences among the
+state and farm group strata in the total miles to the 1st Choice Delivery Point. Among states, the
+difference is statistically significant for wheat [F(1,505)=6.94, ρ=<.001] and corn
+[F(1,771)=4.58, ρ=<.001]. The difference is statistically significant for soybeans [F(1,705)=5.23,
+ρ=<.01] among the farm groups.
+
+Montana had the longest average wheat trip to the first choice delivery point at 47.7 miles,
+considerably farther than producers in the other surveyed states. The trip distance was similar
+among Minnesota, North Dakota and South Dakota respondents at 25.1, 24.5 and 27.8 miles,
+respectively (Figure 3.8). Montana had the highest share of unpaved roads in the trips reported
+for wheat with slightly more than 31% of miles on gravel. Minnesota reported the smallest share
+of unpaved miles at 13%. North Dakota farmers traveled unpaved roads for 1 in 4 miles and
+South Dakota farmers on 1 in 5 miles for wheat delivered to the first choice delivery point. With
+regard to state or local road use, South Dakota reported the heaviest local road use as a share of
+delivered miles. Local roads accounted for 45% of the wheat delivery trip miles in South Dakota.
+The shares in Minnesota, Montana and North Dakota were 27%, 35%, and 40%, respectively.
+Additional detail about the road type in wheat delivery is provided in Figure 3.8, Table 3.50,
+Table 3.51Table, Table 3.52, and Table 3.53.
+
+           60
+
+           50
+
+           40
+                                                         Unpaved
+   Miles
+
+
+
+
+           30
+                                                         Paved
+           20                                            Interstate
+           10
+
+            0
+                MN      MT        ND         SD
+Figure 3.8 Road Type for Wheat Delivery, by State
+
+
+
+
+                                                33
+Table 3.50 Wheat Market Road Type Miles for 2013 Grain Delivery, Minnesota
+     Road Type            Average Miles Standard Error   95% Confidence Limit
+First Choice Delivery Point
+     Interstate                 0.9          0.6           0.0          2.1
+     State 4-Lane Paved         1.6          0.5           0.6          2.7
+     State 2-Lane Paved        12.2          2.9           6.6         17.9
+     Local Paved                7.0          1.0           4.9          9.0
+     Local Unpaved              3.4          0.9           1.6          5.1
+     Total                     25.1
+n=306; averages weighted by bushels produced
+
+
+
+Table 3.51 Wheat Market Road Type Miles for 2013 Grain Delivery, Montana
+     Road Type            Average Miles Standard Error   95% Confidence Limit
+First Choice Delivery Point
+     Interstate                 4.7          1.3           2.0          7.3
+     State 4-Lane Paved         0.2          0.1           0.0          0.4
+     State 2-Lane Paved        24.1          2.9          18.3         29.9
+     Local Paved                3.9          1.1           1.8          6.0
+     Local Unpaved             15.0          7.4           0.4         29.5
+     Total                     47.7
+n=306; averages weighted by bushels produced
+
+
+
+Table 3.52 Wheat Market Road Type Miles for 2013 Grain Delivery, North Dakota
+     Road Type            Average Miles Standard Error   95% Confidence Limit
+First Choice Delivery Point
+     Interstate                 1.6          0.3           1.0           2.3
+     State 4-Lane Paved         1.0          0.5           0.0           2.0
+     State 2-Lane Paved        11.2          1.4           8.5          13.8
+     Local Paved                4.5          0.8           2.9           6.1
+     Local Unpaved              6.2          0.8           4.5           7.8
+     Total                     24.5
+n=628; averages weighted by bushels produced
+
+
+
+
+                                               34
+ Table 3.53 Wheat Market Road Type Miles for 2013 Grain Delivery, South Dakota
+      Road Type            Average Miles Standard Error   95% Confidence Limit
+ First Choice Delivery Point
+      Interstate                 0.9          0.5           0.0           1.8
+      State 4-Lane Paved         0.4          0.2           0.0           0.7
+      State 2-Lane Paved        11.0          1.7           7.6          14.4
+      Local Paved               10.1          4.0           2.3          17.9
+      Local Unpaved              5.5          0.8           3.9           7.1
+      Total                     27.8
+ n=202; averages weighted by bushels produced
+
+South Dakota had the longest average corn trip to the first choice delivery point at 26.7 miles.
+The trip distances for Minnesota, Montana, and North Dakota were 17.5, 18.9, and 22.9 miles,
+respectively. Montana had the highest share of unpaved roads in the trips reported for wheat with
+slightly more than 1 in 4 miles on gravel. With regard to state or local road use, Montana had the
+heaviest use of local roads, accounting for 52% of the average trip miles for corn delivery. North
+Dakota was second in dependence on local roads, with 47% of average wheat trip miles on the
+local road system. Minnesota and South Dakota reported 43% and 42%, respectively, of the trip
+miles for corn to the first choice delivery point were on the local system. Additional detail about
+the road type in corn delivery is provided in Figure 3.9, Table 3.54, Table 3.55, Table 3.56, and
+Table 3.57.
+
+           30
+
+
+
+           20
+                                                         Unpaved
+   Miles
+
+
+
+
+                                                         Paved
+           10                                            Interstate
+
+
+            0
+                MN        MT         ND         SD
+Figure 3.9 Road Type for Corn Delivery, by State
+
+
+
+
+                                                 35
+Table 3.54 Corn Market Road Type Miles for 2013 Grain Delivery, Minnesota
+     Road Type            Average Miles Standard Error    95% Confidence Limit
+First Choice Delivery Point
+     Interstate                 0.9          0.4             0.0           1.7
+     State 4-Lane Paved         0.7          0.2             0.3           1.2
+     State 2-Lane Paved         9.1          1.3             6.6          11.6
+     Local Paved                6.4          0.8             4.8           7.9
+     Local Unpaved              3.2          0.4             2.3           4.1
+     Total                     20.3
+n=545; averages weighted by bushels produced
+
+
+
+Table 3.55 Corn Market Road Type Miles for 2013 Grain Delivery, Montana
+     Road Type            Average Miles Standard Error    95% Confidence Limit
+First Choice Delivery Point
+     Interstate                 6.2           3.6           -1.1        13.5
+     State 4-Lane Paved         0.0           0.0            0.0         0.1
+     State 2-Lane Paved        20.5          11.5           -2.7        43.8
+     Local Paved               15.0           9.6           -4.4        34.4
+     Local Unpaved             15.3           8.3           -1.6        32.1
+     Total                     57.0
+n=40; averages weighted by bushels produced
+
+
+
+Table 3.56 Corn Market Road Type Miles for 2013 Grain Delivery, North Dakota
+     Road Type            Average Miles Standard Error    95% Confidence Limit
+First Choice Delivery Point
+     Interstate                 4.1          1.9             0.3          7.9
+     State 4-Lane Paved         1.6          0.4             0.8          2.4
+     State 2-Lane Paved        12.5          2.0             8.6         16.4
+     Local Paved                4.6          1.0             2.7          6.4
+     Local Unpaved              5.0          0.7             3.7          6.3
+     Total                     27.8
+n=522; averages weighted by bushels produced
+
+
+
+
+                                               36
+ Table 3.57 Corn Market Road Type Miles for 2013 Grain Delivery, South Dakota
+      Road Type            Average Miles Standard Error    95% Confidence Limit
+ First Choice Delivery Point
+      Interstate                 1.2          0.4             0.3          2.0
+      State 4-Lane Paved         0.9          0.3             0.3          1.4
+      State 2-Lane Paved        11.4          1.1             9.2         13.5
+      Local Paved                5.6          0.7             4.3          7.0
+      Local Unpaved              5.6          1.0             3.5          7.6
+      Total                     24.6
+ n=618; averages weighted by bushels produced
+
+The average delivery distances for soybeans to the first choice delivery point are significantly
+different across the farm groups, ranging from 16.8 to 24.0 miles. The distances show a positive
+relationship with larger farms typified by longer average trips (Figure 3.10). Farm Group 3
+reports the greatest share of local road use, with an average soybean trip at 55%. Farm Group 2
+reports that 29% of its average 16.8 trip miles are on unpaved surfaces. Farm Groups 3 and 4
+report the smallest unpaved mileage shares of 17%. Farm Group 1 reports that 4.4 of 17.8 miles,
+or 25%, of the average trip on unpaved roads. Farm Group 1 was similar in local road use, with
+about 49% of average delivery miles on local roads. Group 4 attributed the smallest share of
+miles to the first delivery point, 44%, to local roads. Additional farm group road use in soybean
+marketing is provided in Figure 3.10, Table 3.58, Table 3.59, Table 3.60, and Table 3.61.
+
+           30
+           25
+           20
+   Miles
+
+
+
+
+           15                                            Unpaved
+           10                                            Paved
+            5                                            Interstate
+            0
+                1          2        3           4
+                           Farm Group
+
+Figure 3.10 Road Type for Soybean Delivery, by Farm Group
+
+
+
+
+                                                    37
+Table 3.58 Soybean Market Road Type Miles for 2013 Grain Delivery, Farm Group 1
+     Road Type            Average Miles Standard Error   95% Confidence Limit
+First Choice Delivery Point
+     Interstate                 0.9          0.4          0.1            1.7
+     State 4-Lane Paved         0.4          0.2          0.0            0.7
+     State 2-Lane Paved         8.2          2.7          2.9           13.5
+     Local Paved                4.0          0.4          3.2            4.7
+     Local Unpaved              4.4          1.8          0.9            7.8
+     Total                     17.8
+n=285; averages weighted by bushels produced
+
+
+
+Table 3.59 Soybean Market Road Type Miles for 2013 Grain Delivery, Farm Group 2
+     Road Type            Average Miles Standard Error   95% Confidence Limit
+First Choice Delivery Point
+     Interstate                 0.9          0.3          0.2           1.5
+     State 4-Lane Paved         0.3          0.1          0.1           0.5
+     State 2-Lane Paved         6.6          1.1          4.5           8.6
+     Local Paved                4.2          0.4          3.5           4.9
+     Local Unpaved              4.8          1.7          1.4           8.2
+     Total                     16.8
+n=356; averages weighted by bushels produced
+
+
+
+Table 3.60 Soybean Market Road Type Miles for 2013 Grain Delivery, Farm Group 3
+     Road Type            Average Miles Standard Error   95% Confidence Limit
+First Choice Delivery Point
+     Interstate                 1.1          0.3          0.5            1.7
+     State 4-Lane Paved         0.5          0.2          0.2            0.8
+     State 2-Lane Paved         9.1          1.2          6.8           11.4
+     Local Paved                9.1          2.6          4.0           14.2
+     Local Unpaved              4.1          0.5          3.2            5.0
+     Total                     24.0
+n=525; averages weighted by bushels produced
+
+
+
+
+                                               38
+ Table 3.61 Soybean Market Road Type Miles for 2013 Grain Delivery, Farm Group 4
+      Road Type            Average Miles Standard Error   95% Confidence Limit
+ First Choice Delivery Point
+      Interstate                 1.4          0.4           0.7           2.2
+      State 4-Lane Paved         0.9          0.3           0.4           1.5
+      State 2-Lane Paved        12.5          1.1          10.3          14.6
+      Local Paved                5.8          0.8           4.3           7.4
+      Local Unpaved              4.1          0.4           3.4           4.9
+      Total                     24.8
+ n=495; averages weighted by bushels produced
+
+The variation of trip distances to the second choice delivery points was substantially greater,
+considering the coefficient of variation. Therefore, the strata differences were not investigated
+since confidence in the findings would not be acceptable. The earlier regional summary of the
+second choice delivery points does provide some insight into the delivery point trip distances and
+road types for wheat, corn, and soybeans.
+
+3.5     Truck Type Characteristics, Trips from Field to On-Farm
+        Storage or Market
+Farmers were asked to describe their farm truck fleet use specific to wheat, corn, and soybean
+movements. The high use of the 5-axle semi in farm-to-market trips in the region is first
+discussed in the farm truck fleet. Other commonly reported truck types were the single-axle and
+tandem trucks. Number of trucks in the fleet, as discussed earlier, does not provide a good metric
+for understanding the actual use of these trucks in grain marketing. For example, single-axle
+trucks represent 18% of the farm truck fleet but account for only 5% of the annual miles traveled
+for the fleet. Therefore, understanding the annual miles traveled as well as the typical truck type
+trip for farmers in the region is useful for planning and operational analysis. The specification
+here for the grain fleet is to define the individual truck types used for the three major crops
+during the 2013 harvest season. Key descriptors were defined as bushels per load, loaded weight,
+empty weight, and one-way distance to delivery point.
+
+3.5.1 Regional Truck Type Characteristics
+
+The average loaded weight shows the expected trend across commodities, larger trucks are
+associated with heavier loaded weights (Figure 3.11 and Table 3.63). The average loaded weight
+for a single-axle truck ranges from 28,340 pounds for wheat to 30,169 pounds for corn. The fleet
+average for the single-axle truck is 28,772 pounds (Table 3.62). The 5-axle semi, which is
+attributed with the over half of the annual farm truck miles, ranges from 79,142 pounds for
+soybeans to 80,320 pounds for wheat. Overall, the average loaded weight for a 5-axle semi is
+79,747 pound. The average loaded weight for the tandem truck is 39% less at 49,744 pounds.
+
+
+
+
+                                                39
+ Table 3.62 Farm Truck Fleet Truck Trip Distance and Loaded Weights
+                  Average        Standard      Average       Standard
+ Truck Types      Distance         Error    Loaded Weight      Error
+ Single-axle        12.9            0.7         28,722          516
+ Tandem             16.9            1.0         49,744          548
+ Tridem             16.5            1.0         61,331          776
+ 5-Axle Semi        23.7            0.9         79,747          145
+ 7-Axle Semi        43.6            6.2         91,029        2,323
+ Averages weighted by harvested acres
+
+The commodity-based differences in trip distance and loaded weight were not significant for the
+for the single, tridem or 7-axle trucks. Average loaded weight for the tandem [F(1,142)=4.45,
+ρ=0.02] and 5-axle semi-trucks [F(2,602)=4.91, ρ=<.01] did vary significantly among
+commodities. Commodity-based trip distance differences within the truck types were only
+significant for the tandem truck [F(1,263)=10.95, ρ=<.001].
+
+                            100,000
+                             90,000
+   Average Weight, Pounds
+
+
+
+
+                             80,000
+                             70,000
+                             60,000
+                                                                                                   Wheat
+                             50,000
+                                                                                                   Corn
+                             40,000                                                                Soybean
+                             30,000
+                             20,000
+                             10,000
+                                 0
+                                      Single Axle   Tandem   Tridem Axle 5-Axle Semi 7-Axle Semi
+Figure 31.11 Truck Type Average Loaded Weight, By Commodity
+
+
+
+
+                                                                 40
+ Table 3.63 Average Loaded Weight, by Commodity
+                       Wheat                    Corn                               Soybean
+                             Standard                Standard                                Standard
+ Truck Type      n    Mean     Error      n    Mean    Error                 n    Mean         Error
+ Single-axle   217 28,340       881     141 30,169    1,762                159    29,340      1,076
+ Tandem        407 50,421       829     362 52,328    1,886                364    49,323      1,011
+ Tridem-axle   183 63,361      1,799    159 61,496    1,758                181    60,520        980
+ 5-Axle Semi 741 80,320         213     929 79,750      269                871    79,142        305
+ 7-Axle Semi    64   92,634    2,493     68   89,015  3,095                 66    88,438      2,874
+ Other         125 85,920      1,985    139 93,783    7,769                137    87,591      5,917
+ Averages weighted by bushels produced
+
+
+Part of this difference may be in the differences in the empty truck weight. An empty 5-axle semi
+weighs 25,984 to 26,994 pounds on average. In comparison, the empty tandem truck weighs an
+average of 18,500 to 18,949 pounds. Additional details for the empty weights are presented in
+Table 3.64.
+
+ Table 3.64 Average Empty Weight, by Commodity
+                       Wheat                    Corn                               Soybean
+                             Standard                Standard                                Standard
+ Truck Type      n   Mean      Error      n    Mean    Error                 n    Mean         Error
+ Single-axle   224 10,462      271      143 11,521      457                164    10,878        373
+ Tandem        416 18,659      303      357 18,949      403                356    18,500        326
+ Tridem-axle   185 24,024      591      160 22,576      624                181    23,024        326
+ 5-Axle Semi 733 26,994        208      913 26,164      169                856    25,984        157
+ 7-Axle Semi    62   31,553    608       68   28,900  1,374                 67    29,529      1,142
+ Other         120 29,576      641      135 29,604    2,510                139    28,359      1,802
+Averages weighted by bushels produced
+
+The average bushels per load ranged from 324 bushels for a single-axle truck carrying wheat to
+1,092 bushels for a 7-axle truck loaded with corn, considering the capacity for the common truck
+types (Table 3.65). Using the combination of the loaded weights, empty weights, and bushels per
+load, a reasonableness test was conducted by estimating the pounds per bushel across the
+commodities and truck types. All bushel weights fall in a range between 51 and 60 pounds which
+is acceptable since commonly used crop bushel weights are 60 pounds for wheat and soybeans
+and 56 pounds for corn.
+
+
+
+
+                                               41
+ Table 3.65 Truck Type Average Bushels per Load, by Commodity
+                       Wheat                       Corn                              Soybean
+                              Standard                  Standard                               Standard
+ Truck Type      n    Mean      Error      n     Mean     Error                n     Mean        Error
+ Single-axle   253     324        6      169      366       14               183      331         10
+ Tandem        451     547       10      404      581       26               397      532         10
+ Tridem-axle   193     674       21      171      661       20               192      635          9
+ 5-Axle Semi 755       885        5      949      930        5               890      885          4
+ 7-Axle Semi    67    1,101      34       71     1,092      23                65     1,036        24
+ Other         128     940       20      156     1,096     104               153      982         79
+ Averages weighted by bushels produced
+
+
+The economies of the heavier loads are captured as trip distance increases. The positive
+relationship between the loaded truck weight and trip distance is illustrated in Figure 3.12. The
+longest average truck trip was reported for wheat hauled in a 7-axle semi-truck at 43.6 miles and
+the shortest was 12.5 miles for corn or soybeans moved in single-axle trucks. Wheat has the
+longest average trip within each of the truck types. The relatively large standard error for the 7-
+axle semi across all commodities does show less certainty with regard to the typical trip distance
+associated with the truck (Table 3.66).
+
+           50
+           45
+           40
+           35
+   Miles
+
+
+
+
+           30
+                                                                                        Wheat
+           25
+                                                                                        Corn
+           20                                                                           Soybean
+           15
+           10
+            5
+            0
+                Single Axle   Tandem     Tridem Axle 5-Axle Semi 7-Axle Semi
+
+Figure 3.12 Truck Type Trip Distance, by Commodity
+
+
+
+
+                                                42
+ Table 3.66 Truck Type Average Trip Distance, by Commodity
+                       Wheat                       Corn                                Soybean
+                                   Standard                       Standard                       Standard
+ Truck Type         n     Mean       Error        n     Mean        Error       n      Mean        Error
+ Single-axle      253     13.8        1.2       169     12.5         1.3      190      12.5         1.6
+ Tandem           448     21.1        2.5       394     15.6         1.3      403      21.6         8.2
+ Tridem-axle      194     20.6        2.6       164     15.1         1.7      190      28.4        13.5
+ 5-Axle Semi      761     25.4        1.4       946     22.0         1.0      893      23.1         2.5
+ 7-Axle Semi       68     43.6        7.0        73     36.9         7.2       65      30.5         4.2
+ Other            132     30.7        4.2       156     30.0         3.9      158      23.3         2.8
+ Averages weighted by bushels produced
+
+
+3.5.2 Truck Type Characteristics, by Farm and State Strata
+
+It is important to consider the farm group and state strata for the truck trip descriptors to identify
+differences that should be considered as a way to calibrate application of the survey findings in
+case studies or other sub-region analysis. To simplify analysis and presentation of differences,
+only the 5-axle semi-truck farm trip load weights and trip distances were analyzed with regard to
+the size and geographic strata. In addition, due to limited observations for corn and soybean
+shipments, Montana farm truck trips are omitted in this analysis to minimize potential sample
+size bias in the means tests. Among the three major commodities in the survey, wheat shows the
+least uniformity across the region with significant differences in the loaded weight for farm
+group [F(763)=4.21, ρ=0.01] and state [F(1,142)=4.45, ρ=0.02], as well as trip distance for farm
+group [F(786)=3.16, ρ=0.02] and state [F(798)=14.06, p<.001]. Corn is characterized by
+significantly different loaded weights for farm group [F(947)=3.66, ρ=0.01] and state
+[F(957)=4.51, ρ=0.01], and by distance among the states [F(979)=7.23, p<.001]. Soybean farm
+truck trips do not vary significantly for either the farm group or state strata. Regarding the loaded
+weights, Montana allows 20% overload coming out of the field at harvest. North Dakota allows
+10% overload out of the field at harvest with permit. South Dakota allows a 10% overload from
+field to farm and a 5% overload from farm to market for agricultural loads in the state, compared
+to the normal allowed weights for trucks.
+
+ Table 3.67 Wheat Trip 5-Axle Loaded Weight, by Farm Group
+                                     Standard
+ Farm Group           N    Mean        Error     95% Confidence Limit
+ 300 acres or fewer   65 78,141       1,254       75,637     80,646
+ 301 to 750 acres    111 80,220        505        79,219     81,220
+ 751 to 1,500 acres  251 79,361        387        78,599     80,122
+ 1,501 acres or more 337 80,444        289        79,875     81,013
+
+
+
+
+                                                 43
+Table 3.68 Wheat Trip 5-Axle Average Distance, by Farm Group
+                                    Standard
+Farm Group           N    Mean        Error      95% Confidence Limit
+300 acres or fewer   67    36.6        4.4         27.8       45.5
+301 to 750 acres    118    29.9        3.6         22.7       37.1
+751 to 1,500 acres  255    24.6        2.0         20.7       28.4
+1,501 acres or more 347    24.7        1.4         22.0       27.4
+
+Table 3.69 Wheat Trip 5-Axle Loaded Weight, by State
+                                   Standard
+State            N       Mean        Error     95% Confidence Limit
+Minnesota      143       79,103      434        78,244     79,961
+Montana        128       82,683      503        81,688     83,678
+North Dakota   374       79,868      279        79,319     80,417
+South Dakota   119       80,745      811        79,138     82,351
+
+Table 3.70 Wheat Trip 5-Axle Average Distance, by State
+                                   Standard
+State            N       Mean        Error      95% Confidence Limit
+Minnesota       149       25.5        3.5          18.7      32.3
+Montana         136       39.0        2.8          33.4      44.6
+North Dakota    379       21.7        1.5          18.8      24.6
+South Dakota    123       24.8        1.8          21.2      28.3
+
+Table 3.71 Corn Trip 5-Axle Loaded Weight, by Farm Group
+                                      Standard
+Farm Group              N    Mean       Error      95% Confidence Limit
+300 acres or fewer      64   76,355     1,305       73,747     78,963
+301 to 750 acres       135 79,255        808        77,656     80,853
+751 to 1,500 acres     340 79,157        367        78,435     79,879
+1,501 acres or more    397 80,042        284        79,484     80,599
+
+
+
+
+                                          44
+ Table 3.72 Corn Trip 5-Axle Loaded Weight, by State
+                                    Standard
+ State            N        Mean       Error      95% Confidence Limit
+ Minnesota       304      79,426      236         78,962     79,890
+ North Dakota    332      80,424      301         79,832     81,015
+ South Dakota    300      79,177      625         77,948     80,406
+
+
+ Table 3.73 Corn Trip 5-Axle Average Distance, by State
+                                     Standard
+ State            N        Mean        Error      95% Confidence Limit
+ Minnesota       311       20.7         2.1         16.5       24.8
+ North Dakota    338       25.5         1.9         21.8       29.2
+ South Dakota    307       23.7         1.7         20.3       27.1
+
+
+
+3.6    Truck Fleet Inspection
+A single question was included in the study to gauge truck fleet adherence to truck maintenance
+and safety. Farmers were asked if they had any grain trucks inspected by their Department of
+Transportation (DOT) in 2013. The inspections performed by the state patrols in each state
+would also fall within the DOT inspections. Overall, 34% of the 2,760 farm operators who
+responded to the question reported to have had at least one truck inspected. A significant
+difference in inspection activity was found at the 99th percentile among states (=165.49,
+p<.001, n=2,760) and farm groups (=170.01, p<.001, n=2,700).
+
+Minnesota had the largest share reporting a farm truck inspection with 1 in 2 farms having a
+truck inspected (Figure 3.14). Montana had the lowest share with about 1 in 5 farms reporting an
+inspection. Among the farm groups, the largest farms were most likely to report a DOT
+inspection with about 1 in 2 having a truck inspected (Figure 3.13). The smallest farms were
+least likely to have a truck inspected with 17% reporting an inspection. The differences may be
+related to regulatory policies in the individual states as well as local practices with regard to
+safety and enforcement.
+
+
+
+
+                                               45
+                               60%                                                               60%
+   Share with DOT Inspection                                                                           51%
+
+
+
+
+                                                                     Share with DOT Inspection
+                                                        49%
+                               50%                                                               50%
+                                                 40%
+                               40%                                                               40%                     33%
+                                           31%
+                               30%                                                               30%               26%
+                               20%   17%                                                                     19%
+                                                                                                 20%
+                               10%                                                               10%
+                               0%                                                                0%
+                                      1     2     3      4                                             MN    MT     ND   SD
+                                           Farm Group                                                          State
+
+Figure 3.13 State Agency Truck Inspection,                         Figure 3.14 State Agency Truck Inspection,
+             by Farm Group                                                      by State
+
+The propensities for farm truck inspections by state and farm group are insinuated in farm truck
+inspections reported in the region (Table 3.74). Minnesota had the highest inspection levels
+across all farm groups with the likelihood increasing with farm size. Among the largest farms,
+Minnesota and South Dakota had the largest shares of farms with DOT inspections at 75% and
+54%, respectively.
+
+ Table 3.74 DOT Truck Inspection Reported, by State and Farm Group
+                                                  North      South
+                     Minnesota    Montana        Dakota     Dakota
+ Farm Group                      Share Reporting Inspection
+ 300 acres or fewer    28%          13%            13%        11%
+ 301 to 750 acres      56%          11%            19%        28%
+ 751 to 1,500 acres    59%          23%            25%        46%
+ 1,501 acres or more   75%          35%            36%        54%
+
+
+
+
+                                                              46
+4.     SUMMARY
+
+Agriculture is a large part of the economy in the Northern Plains region of North Dakota,
+northern South Dakota, western Minnesota and eastern Montana. For North Dakota, agriculture
+generated 14.5% of its gross state product and an even higher proportion in South Dakota at
+15.3%. Agriculture in Montana and Minnesota were about half of that rate at 7.4% and 5.0%
+respectively. Nationally, agriculture makes up 1.8% of the economy (U.S. Department of
+Agriculture 2014a). While the economies of these states have become more diversified, the
+increasing magnitude of agricultural products as a transport demand component and economic
+generator is evident. For example, U.S. Department of Agriculture figures show that in 1940
+North Dakota produced approximately 9.5 million tons of grain which was transported about 10
+miles to local elevator facilities (Ming and Wilson 1983). These early grain movements
+generated about 95 million farm truck ton-miles in freight demand (National Agricultural
+Statistics Service 2014). This compares to 800 million bushels, or 30 million tons, of grain
+moving approximately 30 miles to subterminal elevator facilities and local agricultural
+processors in 2010, resulting in an estimated 900 million farm truck ton-miles (Tolliver et al.
+2005).
+
+The objective of this study was to provide information about farm truck inventory and grain
+marketing patterns in the Northern Plains. There is no other source for this information and this
+study should be unique and complementary to other farm-to-market information and national
+commodity flow publications. Farmers may use this information for investment and productivity
+assessments. Local and regional planners and policy makers can use the information in
+calibrating travel demand and freight flow models for investment and asset management choices.
+The survey of farm operators in this Northern Plains region was conducted to gather information
+about transportation of crops, the inventory of the farmer owned truck fleet, and on-farm storage
+capacity. Survey design and implementation was a successful collaboration of the Upper Great
+Plains Transportation Institute (UGPTI) at North Dakota State University and the North Dakota
+Office of the Agricultural Statistics Service (NDASS) and the National Agricultural Statistics
+Service (NASS) of the U.S. Department of Agriculture.
+
+The survey was mailed to a sample of farmers in the NASS contact database and followed-up
+with a phone survey of non-respondent farmers. A stratified non-probability quota sample was
+used to select the farmers from the population for the survey. The number of surveys collected
+was sufficiently large so generalizations could be made about the larger population from the
+survey sample. The survey collected data for a representative sample of corn, wheat, and
+soybean farms in North Dakota and the adjacent crop reporting districts (CRDs) from Montana,
+South Dakota, and Minnesota. The main descriptive statistics calculated to describe the farm
+grain fleet and farm-generated grain traffic are related to frequency, central tendency, and
+dispersion. In addition, some means tests are presented to investigate potential differences in
+grain farm truck fleet and marketing characteristics among the state CRD groups and different
+size farms.
+
+Average on-farm storage capacity for the three commodities was 86,375 bushels when weighted
+by harvested acres. The median on-farm storage capacity was 50,000 bushels with 25% reporting
+fewer than 20,000 bushels. The storage capacity density, measured by farm as bushels produced
+per harvested acre (including corn, soybean and wheat), was inversely related to the farm size
+
+                                               47
+Storage capacity volume, however, is substantially greater for the larger farms. Average on-farm
+storage was 329,097 bushels of corn, soybean and wheat capacity for farms of 1,501 acres or
+more. The smallest farms averaged only 26,252 bushels of capacity for the three commodities.
+The on-farm storage is concentrated on the larger farms in terms of average capacity. In terms of
+flexibility, however, the smaller farms appear to be more able to adapt when increased on-farm
+storage is needed. For the smallest farms, the ratio of storage capacity bushels per harvested acre
+was 151 where the largest farms have an average of 62 bushels of on-farm storage for each
+harvested acre. The difference in the storage density may be related to expectations for yield
+among commodities
+
+On-farm storage provides an easily accessible option for delaying grain delivery beyond the
+harvest season. Farmers were also asked to identify the share of the crop delivered directly to
+market from the field at harvest time. Responses weighted by bushels produced showed 36% of
+wheat (n=1,518) 95% CI [32%, 39%] and 32% of corn (n=1,835) 95% CI [30%, 36%] was
+delivered directly to market. The average share of soybeans delivered directly to market from
+field is substantially higher at 66% (n=1,748) 95% CI [63%, 69%]. Among the state strata, the
+adjacent South Dakota farmers reported delivering the largest share of wheat directly to market
+at 50%, compared to 31%, 33% and 36% for Minnesota, Montana, and North Dakota,
+respectively. On average, corn share delivered to market at harvest ranged from 32% in South
+Dakota to 39% in Montana. Minnesota farmers reported an average 34% and North Dakota
+farmers reported 33%.
+
+The most owned and operated truck in the four-state area reported by survey respondents is the
+5-axle semi. The 5-axle semi accounted for more than 38% of all trucks reported followed by the
+tandem-axle truck with more than 23% and then the single-axle with 18%. The tridem and 7-axle
+semi were least owned among producers representing 8% and 3% respectively.
+
+Comparing data from this survey with historical data shows a trend towards ownership and use
+of larger trucks by farmers. In a survey and report by the Upper Great Plains Transportation
+Institute in 1989, it was estimated that 80% of the farm truck fleet was single-axle trucks. That
+same survey found that the average trip to market was 12 miles. A study by the Upper Great
+Plains Transportation Institute in 2005 estimated that 52% of the farm fleet in the year 2000 was
+single-axle trucks and 25% were tandems. Only 9% of the fleet was 5-axle or other types of
+semis.
+
+In the current survey, producers reported that the 5-axle semi is used most by all farm groups.
+Even though more single-axle trucks are owned by farmers with 300 acres or less, the 5-axle
+semi is used more for hauling to market. The tandem gets second most use by all farm groups
+except those farmers with 1,501 acres or more who report using the tridem more than the
+tandem.
+
+The 5-axle semi was reported to be used 89.1% of the time by producers hauling their own grain,
+followed by the tridem, tandem and single-axle with 83.6%, 81.7%, and 65.3%, respectively.
+Farmers estimate that single-axle and tandem-axle truck ownership will decline in the future
+while 5-axle and 7-axle semi ownership will increase. Ownership of tridem-axle trucks is
+expected to remain constant.
+
+
+                                                48
+In 2000, the average delivery for wheat movements with a semi-truck was on 25.2 miles paved
+and 7.2 unpaved road miles, respectively (Tolliver et al. 2005). Comparatively, the average farm
+delivery in the early 1980’s was about 12 miles, as noted in the truck fleet discussion.
+
+It is reasonable to expect an increase in the average distance for farm-generated grain movements
+because farm size and distance between elevators has increased over time. In addition,
+production pattern changes and policy incentives have created opportunities for local processing
+investments in industries such as ethanol and biofuels. On average, the major crops were hauled
+26.8 miles to the first choice delivery point and 41.7 miles to the second choice in the Northern
+Plains region in marketing the 2013 crop. About 1 in 5 miles was on unpaved roads for the first
+choice point. Only about 2 miles of the average trip is attributed to interstates. The largest share
+of the trip is on state roads, with 1 in 2 miles on state roads. Respondents reported that 41% of
+their average delivery miles to each the first and second choice points is on local roads.
+In comparing the trip distances to the Tolliver study, note that even though there has been
+rationalization in the elevator industry, the number of large shuttle elevators has more than
+doubled since 2005. This provides more options to farmers and perhaps shorter distance to the
+first or second delivery choice for some than was available in 2005 hauling to shuttle facilities.
+Montana had the longest average wheat trip to the first choice delivery point at 47.7 miles. The
+trip distance for Minnesota, North Dakota, and South Dakota farmers was considerably less
+compared to Montana, at 25.1, 24.5 and 27.8 miles respectively. Montana had the highest share
+of unpaved roads in the trips reported for wheat with slightly more than 31% of miles on gravel.
+Minnesota reported the smallest share of unpaved miles at 13%. North Dakota farmers traveled
+unpaved roads for 1 in 4 miles and South Dakota 1 in 5 miles for wheat delivered to the first
+choice point. With regard to state or local road use, South Dakota reported the heaviest local road
+use as a share of delivered miles. Local roads were attributed with 45% of the wheat delivery trip
+miles in South Dakota. The shares in Minnesota, Montana and North Dakota were 27%, 35%,
+and 40%, respectively.
+
+South Dakota had the longest average corn trip to the first choice delivery point at 26.7 miles.
+The trip distances for Minnesota, Montana, and North Dakota were 17.5, 18.9, and 22.9 miles,
+respectively. Montana had the highest share of unpaved roads in the trips reported for wheat with
+slightly more than 1 in 4 miles on gravel. With regard to state or local road use, Montana had the
+heaviest use of local roads as they accounted for 52% of the average trip miles for corn delivery.
+North Dakota farmers were second in dependence on local roads, attributing 47% of average
+wheat trip miles to the local road system. Minnesota and South Dakota reported 43% and 42%,
+respectively, of the trip miles were on local roads for delivering corn to the first choice delivery
+point.
+
+The average delivery distances for soybeans to the first choice delivery point are significantly
+different across the farm groups, ranging from 16.8 to 24.0 miles. The distances show a positive
+relationship with larger farms having longer average trips. Farm group 2 reports 29% of its
+average 16.8 trip miles are on unpaved surfaces. Farm groups 3 and 4 report the smallest
+unpaved mileage shares of 17%. Farm group 1 reports that 4.4 of 17.8 miles, or 25%, of the
+average trip is on unpaved roads. The use of local roads in soybean marketing was greatest for
+farm groups 2 and 3, at 54% and 50% of the delivery miles to the first choice point. Farm group
+1 was similar in local road use, with about 49% of average delivery miles on local roads. Group
+4 attributed the smallest share of miles to the first choice delivery point, 44%, to local roads.
+
+                                                 49
+The average loaded weight shows the expected trend across commodities; larger trucks are
+associated with heavier loaded weights. The average loaded weight for a single-axle truck ranges
+from 28,340 pounds for wheat to 30,169 pounds for corn. The fleet average for single-axle trucks
+is 28,772 pounds. The 5-axle semi, which is attributed with more than half of the annual farm
+truck miles, ranges in loaded weight from 79,142 pounds for soybeans to 80,320 pounds for
+wheat. Overall, the average loaded weight for a 5-axle semi is 79,747 pounds. The average
+loaded weight for the tandem truck is 39% less at 49,744 pounds.
+
+Farmers were asked if they had any grain trucks inspected by their Department of Transportation
+(DOT) in 2013. Inspections performed by the state patrols in each state would also fall within the
+DOT inspections. Overall, 34% of the 2,760 farm operators who responded to the question
+reported to have had at least one truck inspected.
+
+Minnesota had the largest share reporting a farm truck inspection with 1 in 2 farms having a
+truck inspected. Montana had the lowest share with about 1 in 5 farms reporting an inspection.
+Among the farm groups, the largest farms were most likely to report a DOT inspection with
+about 1 in 2 having a truck inspected. The smallest farms were least likely to have a truck
+inspected with 17% reporting an inspection. The differences may be related to regulatory policies
+in the individual states as well as local practices with regard to safety. Minnesota had the highest
+inspection levels across all farm groups with the likelihood increasing with farm size. Among the
+largest farms, Minnesota and South Dakota had the largest shares of farms with DOT inspections
+at 75% and 54%, respectively.
+
+
+
+
+                                                50
+REFERENCES
+
+Qasmi, Bashir A., Yonas Hamda, and Scott W. Fausti, 2009, Impacts of Dramatic Increase in
+Corn Based Ethanol Production on Grain Production and Marketing Patterns in South Dakota,
+South Dakota State University, Brookings.
+Baumel, C. Phillip, Jean-Philppe Gervias, H. Hommes, and C. O’Riley, 1996, The Iowa Grain
+Flow Survey: Where and How Iowa Grain Producers and Country Elevators Ship Corn and
+Soybeans, Iowa State University.
+Berwick, Mark and Mohammad Farooq, 2003, Truck Costing Model for Transportation
+Managers, North Dakota State University, Upper Great Plains Transportation Institute, Fargo,
+MPC03-152.
+Donnelly, Rick, 2010, Best Practices for Incorporating Commodity Flow Survey and Related
+Data into MPO and Statewide Planning Processes, prepared by Parsons Brinckerhoff, Inc.,
+Albuquerque, New Mexico as requested by American Association of State Highway and
+Transportation Officials, Standing Committee on Planning. NCHRP-08-36-65.
+Griffin, Gene C., William W. Wilson, and Kenneth Casavant, 1984, Characteristics and Costs of
+Operation of North Dakota’s Farm Trucks, Upper Great Plains Transportation Institute, North
+Dakota State University, DP-51.
+Internal Revenue Service, 2015, accessed online at www.irs.gov/publications/p225/ch07.html
+Ming, Dennis and William W. Wilson, 1983, The Evolving Country Grain Marketing System in
+North Dakota, Upper Great Plains Transportation Institute, Fargo, Report No. 49.
+U.S. Department of Commerce, 2015, Regional Data, Bureau of Economic Analysis, Accessed
+online at http://www.bea.gov/.
+Tolliver, Denver, Mark Berwick, and Kimberly Vachal, 2005, Farm-to-Market Transportation
+Patterns and Truck Use in the Northern Plains, North Dakota State University, Upper Great
+Plains Transportation Institute, Fargo, DP-167.
+U.S. Department of Transportation, 2010, Bureau of Transportation Statistics, Commodity Flow
+Survey, Accessed online at www.bts.gov/help/commodity_flow_survey.html.
+U.S. Department of Agriculture, 2014a, National Agricultural Statistics Service, Research and
+Development Division, Quick Stats, accessed online at http://www.nass.usda.gov/Quick_Stats/.
+U.S. Department of Agriculture, 2014b, National Agricultural Statistics Service, Census of
+Agriculture, accessed online at http://agcensus.usda.gov/Publications/2012/.
+
+
+
+
+                                               51
+

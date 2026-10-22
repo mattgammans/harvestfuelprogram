@@ -1,0 +1,9 @@
+crop,yield,yield_unit,price,price_unit,wasde_page,note
+wheat,48.1,bu/harvested acre,6.30,$/bu,11,U.S. Wheat Supply and Use; 2026/27 Proj. Oct
+corn,181.2,bu/harvested acre,4.70,$/bu,12,U.S. Feed Grain and Corn Supply and Use; 2026/27 Proj. Oct
+sorghum,55.7,bu/acre,4.50,$/bu,13,U.S. Sorghum Barley and Oats; 2026/27 Proj. Oct
+barley,72.1,bu/acre,5.70,$/bu,13,U.S. Sorghum Barley and Oats; 2026/27 Proj. Oct
+oats,75.3,bu/acre,3.35,$/bu,13,U.S. Sorghum Barley and Oats; 2026/27 Proj. Oct
+rice,76.68,cwt/harvested acre,15.20,$/cwt,14,U.S. Rice Supply and Use (all classes); yield 7668 lb/acre
+soybeans,53.1,bu/harvested acre,12.00,$/bu,15,U.S. Soybeans and Products; 2026/27 Proj. Oct
+cotton,790,lb/harvested acre,0.77,$/lb,17,U.S. Cotton Supply and Use; upland farm price 77.0 cents/lb

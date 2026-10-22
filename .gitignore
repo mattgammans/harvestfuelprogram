@@ -1,0 +1,8 @@
+# Environments / caches
+.venv/
+__pycache__/
+*.pyc
+
+# OS / Office cruft
+.DS_Store
+~$*

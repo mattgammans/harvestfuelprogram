@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>ND Grain Industry Data (Grain Trax) | UGPTI (Upper Great Plains Transportation Institute)</title>        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="resource-type" content="document">
+        <meta name="content-language" content="en-US">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <script src="https://www.ugpti.org/inc/function_outputClassNames.js"></script>
+        <script src="https://www.ugpti.org/inc/function_hasClass.js"></script>
+        <script src="https://www.ugpti.org/inc/responsive-menu-helpers.js"></script>
+        <script>
+        //INITIALIZE VARIABLES
+        var navMenus     = [];    //menus processed by activateMenu()
+        var navMenuTimer = "";    //timer used by menus processed by activateMenu()
+        var menuIcons    = {
+              menuOpen:       ""
+            , expandOption:   ""
+            , collapseOption: ""
+        };
+
+        //WHEN DOM LOADS
+        window.addEventListener('load', function() {
+            //IF ABLE TO GET NAVIGATION MENU
+            var navMenu = getNavMenu("mainNav");
+            if(navMenu != null) {
+                //STORE MENU
+                navMenus.push(navMenu);
+
+                //INITIALIZE MENU BASED ON BROWSER WINDOW
+                if(window.innerWidth <= 700) {
+                    switchMenu_clickMode(navMenus[0]);  //collapse menu for smaller screens
+                } else {
+                    switchMenu_hoverMode(navMenus[0]);  //default hover mode
+                }
+
+                //CREATE LISTENER FOR WHEN BROWSER WINDOW SIZE CHANGES
+                window.addEventListener('resize', function() {
+                    if(window.innerWidth <= 700) {                                                  //if window is 700 pixels or smaller
+                        if(navMenus[0].menuMode != 'click') { switchMenu_clickMode(navMenus[0]); }      //if not already, switch to click mode
+                    } else if(window.innerWidth > 700) {                                            //else...if window is larger than 700 pixels
+                        if(navMenus[0].menuMode == 'click') { switchMenu_hoverMode(navMenus[0]); }      //if not already, switch to hover mode
+                    }
+                });
+            }
+        });
+
+
+        //INITIALIZE GLOBAL SEARCH FEATURE (WHEN DOM LOADS)
+        window.addEventListener('load', function() {
+            const globalSearch = document.getElementById('globalSearch');
+            const searchOpen   = document.getElementById('globalSearchOpen');
+            const searchClose  = document.getElementById('globalSearchClose');
+            const toolOps      = document.getElementById('toolOps');
+
+
+            function focusSearchInput() {
+                const input = document.querySelector('#globalSearch input[type="text"]');
+                if(input) {
+                    input.focus();
+                    return true;
+                }
+                return false;
+            }
+
+            function focusWhenReady() {
+                let   attempts    = 0;
+                const maxAttempts = 20;
+                const interval    = setInterval(() => {
+                    if(focusSearchInput() || attempts >= maxAttempts) {
+                        clearInterval(interval);
+                    }
+                    attempts++;
+                }, 50);
+            }
+
+
+            function showSearch() {
+                globalSearch.classList.remove('inactive');
+                globalSearch.setAttribute('aria-hidden', 'false');
+                searchOpen.setAttribute('aria-expanded', 'true');
+                toolOps.classList.add('inactive');     //hide search toggle, and other tools
+                focusWhenReady();                      //place focus in search field, if able
+            }
+
+            function hideSearch() {
+                globalSearch.classList.add('inactive');
+                globalSearch.setAttribute('aria-hidden', 'true');
+                searchOpen.setAttribute('aria-expanded', 'false');
+                toolOps.classList.remove('inactive');  //show search toggle, and other tools
+                searchOpen.focus();                    //return focus to search toggle for keyboard users
+            }
+
+
+            searchOpen.addEventListener('click', showSearch);
+            searchClose.addEventListener('click', hideSearch);
+        });
+        </script>
+
+        <link rel="stylesheet" href="https://use.typekit.net/zng2xlc.css">        <link rel="stylesheet" href="https://www.ugpti.org/inc/style_main.css?d=20260926">
+        <link rel="stylesheet" href="https://www.ugpti.org/inc/style_print.css?d=20251015" media="print">
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-GXJRNRND7D"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-GXJRNRND7D');
+        </script>
+        </head>
+
+<body>
+        <header>
+            <div class="logoWrapper">
+                <div class="logo"><a href="https://www.ugpti.org/" aria-label="Upper Great Plains Transportation Institute (UGPTI)"><svg version="1.1" x="0px" y="0px" viewBox="0 0 430 35">
+	<g>
+		<g class="ndsuLogo">
+			<path fill-rule="evenodd" clip-rule="evenodd" d="M84.118,1.997c0.423,0,0.845,0,1.268,0c-0.082,3.594-0.018,7.649-0.049,10.868 c-0.488,0-0.975,0-1.463,0c-0.73-2.4-1.436-4.822-2.875-6.628c-1.416-1.776-3.317-3.245-6.434-3.022 c-2.84,0.204-5.11,2.457-4.727,5.995c0.035,0.325,0.247,0.97,0.439,1.315c1.161,2.093,3.562,2.972,6.141,3.801 c2.549,0.82,5.098,1.557,7.018,2.924c2.066,1.473,3.474,3.46,3.461,6.53c-0.021,4.389-3.042,7.377-6.142,8.772 c-1.103,0.494-2.487,0.775-4.095,0.682c-2.418-0.143-4.004-0.873-5.652-1.803c-0.479-0.271-1.055-0.759-1.755-0.731 c-1.575,0.064-1.272,2.282-3.558,1.755c-0.08-3.688-0.1-7.438-0.098-11.21c0.459-0.109,1.119-0.018,1.658-0.047 c1.016,4.131,2.357,7.254,5.507,9.161c0.89,0.54,2.16,1.104,3.655,1.219c4.454,0.342,7.601-3.194,6.334-7.262 c-1.564-5.032-7.866-4.569-12.329-7.018c-1.476-0.81-2.692-1.971-3.46-3.558c-0.719-1.485-1.268-3.649-0.633-5.799 c0.545-1.854,2.03-3.793,3.557-4.776c1.235-0.795,3.105-1.499,4.874-1.56c2.474-0.083,4.401,0.787,5.994,1.707 c0.44,0.253,0.828,0.87,1.511,0.828C83.313,4.078,83.409,2.538,84.118,1.997z"/>
+			<path fill-rule="evenodd" clip-rule="evenodd" d="M2.925,2.046c2.504-0.003,5.35,0.009,7.798,0 c5.815,7.359,11.249,15.1,16.959,22.563c0.088-2.484,0.049-5.44,0.049-8.431c0-2.953,0.153-5.965,0-8.479 c-0.163-2.693-1.708-3.965-4.63-3.948c0.03-0.539-0.062-1.199,0.049-1.657c3.66-0.038,7.176,0.068,10.819,0.049 c0.11,0.458,0.019,1.118,0.048,1.657c-2.231,0.072-4.077,0.856-4.289,3.021c-0.194,1.986,0,4.24,0,6.482c0,6.245,0,13.44,0,19.445 c-0.718-0.029-1.554,0.059-2.193-0.049C21.595,24.816,15.803,16.784,9.797,8.966c-0.08,4.118-0.049,9.924-0.049,14.766 c0,2.053-0.285,4.334,0.438,5.557c0.818,1.379,2.408,1.621,4.435,1.803c-0.01,0.558,0.045,1.181-0.097,1.608 c-4.018-0.033-7.586,0.082-11.599,0.049c-0.11-0.443-0.019-1.086-0.049-1.608c2.171-0.118,4.395-0.671,4.679-2.826 c0.118-0.895,0-1.864,0-2.827c0-5.406,0-11.143,0-16.667c0-0.961,0.179-2.021,0.049-2.729C7.508,5.568,6.812,4.826,6.385,4.532 c-0.917-0.634-2.358-0.668-3.558-0.78c-0.028-0.667,0.062-1.079,0-1.56C2.826,2.108,2.864,2.066,2.925,2.046z"/>
+			<path fill-rule="evenodd" clip-rule="evenodd" d="M35.188,2.144c7.443,0.31,15.724-0.887,20.907,1.462 c2.437,1.104,4.529,3.02,5.995,5.214c1.536,2.302,2.338,5.199,2.338,8.821c0,6.997-3.475,11.584-8.431,13.84 c-2.739,1.248-6.089,1.268-9.942,1.268c-3.728,0-7.312-0.074-11.014-0.049c-0.08-0.43-0.08-1.182,0-1.608 c1.8-0.098,3.537-0.087,4.045-1.607c0.414-1.238,0.195-3.735,0.195-5.654c0-3.681,0.018-8.005,0.048-11.404 c0.018-1.844,0.119-3.733-0.048-5.653c-0.114-1.296-0.745-2.39-1.804-2.729C36.81,3.83,35.667,3.836,35.14,3.8 c-0.085-0.436-0.037-1.003-0.049-1.511C35.132,2.25,35.12,2.156,35.188,2.144z M44.399,5.311c-0.318,0.662-0.292,1.808-0.292,2.827 c0,6.467,0,12.209,0,18.714c0,1.082-0.062,2.209,0.244,2.875c0.502,1.095,1.852,1.294,3.266,1.414 c3.256,0.274,6.103-0.27,7.895-1.804c1.199-1.025,1.986-2.408,2.485-4.046c0.994-3.248,0.959-8.289,0.634-12.085 c-0.187-2.18-0.591-3.762-1.413-5.166c-1.592-2.718-4.429-4.313-9.016-4.094C46.471,4.029,45.059,3.938,44.399,5.311z"/>
+			<path fill-rule="evenodd" clip-rule="evenodd" d="M117.842,2.083c0.028,0.431-0.019,1.13,0,1.706 c-1.949,0.088-3.489,0.427-4.045,1.852c-0.341,0.873-0.244,2.174-0.244,3.313c0,3.538,0.001,7.07,0,10.576 c0,2.331,0.262,4.953-0.193,6.871c-1.241,5.224-7.01,8.058-13.842,6.628c-3.629-0.76-6.867-2.798-7.943-6.141 c-0.462-1.433-0.439-3.248-0.439-5.116c0-3.714-0.049-7.125-0.049-10.966c0-0.88,0.045-1.81,0-2.778 c-0.089-1.936-0.104-3.521-1.607-4.045c-0.838-0.292-1.784-0.098-2.777-0.292c-0.01-0.636-0.014-0.979,0-1.608 c4.482,0,8.967,0,13.45,0c-0.01,0.767,0.001,1.05-0.048,1.706C98.1,3.746,96.522,3.881,95.96,5.203 c-0.258,0.607-0.175,1.563-0.146,2.339c0.097,2.555-0.011,5.605,0,7.797c0.009,1.79,0.024,3.622,0.05,5.215 c0.029,1.844-0.139,3.547,0.097,5.214c0.583,4.108,4.456,6.4,9.162,5.605c2.927-0.497,5.28-2.348,6.142-4.972 c0.492-1.502,0.341-3.345,0.341-5.166c-0.001-3.627-0.05-7.276-0.05-10.575c0-2.733,0.17-5.434-1.754-6.433 c-0.795-0.414-1.796-0.299-2.973-0.488c0-0.552,0-1.104,0-1.657C110.542,2.139,114.518,1.964,117.842,2.083z"/>
+		</g>
+		<g class="ugptiText">
+			<path d="M127.519,10.289V2.107h1.04v8.082c0,3.301,1.781,5.201,4.741,5.201c2.841,0,4.661-1.72,4.661-5.101V2.107h1.04v8.062 c0,4.021-2.341,6.162-5.741,6.162C129.899,16.33,127.519,14.209,127.519,10.289z"/>
+			<path d="M142.639,2.107h5.081c3.081,0,5.201,1.58,5.201,4.281v0.04c0,2.941-2.54,4.461-5.462,4.461h-3.78v5.221h-1.04V2.107z M147.52,9.929c2.601,0,4.361-1.36,4.361-3.441v-0.04c0-2.22-1.721-3.381-4.241-3.381h-3.961v6.862H147.52z"/>
+			<path d="M155.699,2.107h5.081c3.08,0,5.201,1.58,5.201,4.281v0.04c0,2.941-2.541,4.461-5.461,4.461h-3.781v5.221h-1.04V2.107z M160.58,9.929c2.601,0,4.36-1.36,4.36-3.441v-0.04c0-2.22-1.72-3.381-4.24-3.381h-3.961v6.862H160.58z"/>
+			<path d="M168.758,2.107h9.963v0.96h-8.922v5.501h8.021v0.96h-8.021v5.621h9.021v0.96h-10.063V2.107z"/>
+			<path d="M181.858,2.107h5.882c1.72,0,3.101,0.54,3.94,1.38c0.66,0.66,1.061,1.6,1.061,2.601v0.04c0,2.34-1.74,3.681-4.101,4 l4.62,5.981h-1.319l-4.462-5.801h-0.039h-4.541v5.801h-1.041V2.107z M187.62,9.369c2.341,0,4.081-1.181,4.081-3.201v-0.04 c0-1.88-1.48-3.061-4.021-3.061h-4.78v6.302H187.62z"/>
+			<path d="M201.098,9.148v-0.04c0-3.781,2.741-7.242,6.922-7.242c2.28,0,3.721,0.68,5.121,1.84l-0.681,0.78 c-1.1-0.96-2.38-1.68-4.5-1.68c-3.401,0-5.781,2.88-5.781,6.261v0.04c0,3.621,2.26,6.321,6.001,6.321c1.78,0,3.44-0.74,4.461-1.6 V9.809h-4.681v-0.96h5.681v5.401c-1.26,1.12-3.221,2.101-5.501,2.101C203.719,16.35,201.098,13.089,201.098,9.148z"/>
+			<path d="M217.098,2.107h5.882c1.72,0,3.101,0.54,3.94,1.38c0.66,0.66,1.061,1.6,1.061,2.601v0.04c0,2.34-1.74,3.681-4.101,4 l4.62,5.981h-1.319l-4.462-5.801h-0.039h-4.541v5.801h-1.041V2.107z M222.86,9.369c2.341,0,4.081-1.181,4.081-3.201v-0.04 c0-1.88-1.48-3.061-4.021-3.061h-4.78v6.302H222.86z"/>
+			<path d="M231.257,2.107h9.963v0.96h-8.922v5.501h8.021v0.96h-8.021v5.621h9.021v0.96h-10.063V2.107z"/>
+			<path d="M249.679,2.007h1l6.521,14.103h-1.14l-1.78-3.921h-8.262l-1.781,3.921h-1.08L249.679,2.007z M253.84,11.249l-3.681-8.102 l-3.701,8.102H253.84z"/>
+			<path d="M263.739,3.067h-4.881v-0.96h10.803v0.96h-4.881V16.11h-1.041V3.067z"/>
+			<path d="M278.218,2.107h5.081c3.081,0,5.201,1.58,5.201,4.281v0.04c0,2.941-2.54,4.461-5.461,4.461h-3.78v5.221h-1.041V2.107z M283.1,9.929c2.601,0,4.36-1.36,4.36-3.441v-0.04c0-2.22-1.721-3.381-4.241-3.381h-3.96v6.862H283.1z"/>
+			<path d="M291.278,2.107h1.041v13.042h8.222v0.96h-9.263V2.107z"/>
+			<path d="M308.679,2.007h1l6.521,14.103h-1.14l-1.78-3.921h-8.262l-1.781,3.921h-1.08L308.679,2.007z M312.84,11.249l-3.681-8.102 l-3.701,8.102H312.84z"/>
+			<path d="M318.999,2.107h1.04V16.11h-1.04V2.107z"/>
+			<path d="M324.038,2.107h0.98l9.662,12.183V2.107h1V16.11h-0.78l-9.861-12.443V16.11h-1.001V2.107z"/>
+			<path d="M338.638,14.069l0.68-0.78c1.54,1.42,2.961,2.081,5.021,2.081c2.1,0,3.54-1.18,3.54-2.781v-0.04 c0-1.48-0.78-2.341-3.961-2.981c-3.36-0.68-4.721-1.82-4.721-3.941v-0.04c0-2.08,1.9-3.681,4.501-3.681 c2.041,0,3.381,0.56,4.801,1.701l-0.66,0.82c-1.32-1.14-2.641-1.58-4.181-1.58c-2.061,0-3.421,1.18-3.421,2.641v0.04 c0,1.48,0.761,2.38,4.081,3.061c3.241,0.66,4.602,1.82,4.602,3.861v0.04c0,2.26-1.94,3.821-4.642,3.821 C342.039,16.31,340.318,15.57,338.638,14.069z"/>
+			<path d="M131.62,19.567h-4.881v-0.96h10.803v0.96h-4.881V32.61h-1.041V19.567z"/>
+			<path d="M140.399,18.607h5.882c1.72,0,3.101,0.539,3.94,1.38c0.66,0.66,1.061,1.601,1.061,2.601v0.04c0,2.34-1.74,3.681-4.102,4 l4.621,5.982h-1.32l-4.461-5.802h-0.039h-4.541v5.802h-1.041V18.607z M146.161,25.868c2.34,0,4.08-1.18,4.08-3.2v-0.04 c0-1.881-1.479-3.061-4.02-3.061h-4.781v6.301H146.161z"/>
+			<path d="M159.879,18.507h1.001l6.521,14.104h-1.141l-1.78-3.922h-8.262l-1.78,3.922h-1.08L159.879,18.507z M164.042,27.749 l-3.682-8.103l-3.701,8.103H164.042z"/>
+			<path d="M170.059,18.607h0.98l9.662,12.183V18.607h1V32.61h-0.78l-9.862-12.443V32.61h-1V18.607z"/>
+			<path d="M184.659,30.569l0.68-0.78c1.54,1.421,2.961,2.081,5.021,2.081c2.1,0,3.54-1.181,3.54-2.781V29.05 c0-1.48-0.78-2.342-3.961-2.981c-3.36-0.681-4.721-1.82-4.721-3.941v-0.039c0-2.08,1.9-3.682,4.501-3.682 c2.041,0,3.381,0.561,4.801,1.701l-0.66,0.819c-1.32-1.14-2.641-1.58-4.181-1.58c-2.061,0-3.421,1.181-3.421,2.642v0.039 c0,1.48,0.761,2.381,4.081,3.062c3.241,0.66,4.602,1.82,4.602,3.86v0.04c0,2.26-1.94,3.82-4.642,3.82 C188.059,32.81,186.338,32.069,184.659,30.569z"/>
+			<path d="M198.058,18.607h5.081c3.081,0,5.201,1.58,5.201,4.28v0.04c0,2.94-2.54,4.461-5.461,4.461h-3.78v5.222h-1.041V18.607z M202.94,26.429c2.601,0,4.36-1.36,4.36-3.44v-0.041c0-2.22-1.721-3.38-4.241-3.38h-3.96v6.861H202.94z"/>
+			<path d="M210.499,25.648v-0.04c0-3.82,2.821-7.241,7.062-7.241c4.241,0,7.021,3.38,7.021,7.201c0.021,0.021,0.021,0.021,0,0.04 c0,3.82-2.82,7.242-7.062,7.242C213.28,32.851,210.499,29.47,210.499,25.648z M223.501,25.648v-0.04 c0-3.461-2.521-6.301-5.981-6.301c-3.46,0-5.94,2.8-5.94,6.261v0.04c0,3.461,2.521,6.301,5.98,6.301 C221.021,31.909,223.501,29.108,223.501,25.648z"/>
+			<path d="M227.819,18.607h5.882c1.72,0,3.101,0.539,3.94,1.38c0.66,0.66,1.061,1.601,1.061,2.601v0.04c0,2.34-1.74,3.681-4.101,4 l4.62,5.982h-1.319l-4.462-5.802h-0.039h-4.541v5.802h-1.041V18.607z M233.581,25.868c2.341,0,4.081-1.18,4.081-3.2v-0.04 c0-1.881-1.48-3.061-4.021-3.061h-4.78v6.301H233.581z"/>
+			<path d="M245.859,19.567h-4.881v-0.96h10.803v0.96H246.9V32.61h-1.041V19.567z"/>
+			<path d="M259.959,18.507h1l6.521,14.104h-1.14l-1.78-3.922h-8.262l-1.781,3.922h-1.08L259.959,18.507z M264.121,27.749 l-3.681-8.103l-3.701,8.103H264.121z"/>
+			<path d="M274.019,19.567h-4.881v-0.96h10.803v0.96h-4.881V32.61h-1.041V19.567z"/>
+			<path d="M282.939,18.607h1.04V32.61h-1.04V18.607z"/>
+			<path d="M287.358,25.648v-0.04c0-3.82,2.821-7.241,7.062-7.241c4.241,0,7.021,3.38,7.021,7.201c0.021,0.021,0.021,0.021,0,0.04 c0,3.82-2.82,7.242-7.062,7.242C290.139,32.851,287.358,29.47,287.358,25.648z M300.361,25.648v-0.04 c0-3.461-2.521-6.301-5.981-6.301c-3.46,0-5.94,2.8-5.94,6.261v0.04c0,3.461,2.521,6.301,5.98,6.301 C297.88,31.909,300.361,29.108,300.361,25.648z"/>
+			<path d="M304.677,18.607h0.98l9.662,12.183V18.607h1V32.61h-0.78l-9.861-12.443V32.61h-1.001V18.607z"/>
+			<path d="M326.018,18.607h1.04V32.61h-1.04V18.607z"/>
+			<path d="M331.057,18.607h0.98L341.7,30.79V18.607h1V32.61h-0.78l-9.861-12.443V32.61h-1.001V18.607z"/>
+			<path d="M345.658,30.569l0.68-0.78c1.54,1.421,2.961,2.081,5.021,2.081c2.1,0,3.54-1.181,3.54-2.781V29.05 c0-1.48-0.78-2.342-3.961-2.981c-3.36-0.681-4.721-1.82-4.721-3.941v-0.039c0-2.08,1.9-3.682,4.501-3.682 c2.041,0,3.381,0.561,4.801,1.701l-0.66,0.819c-1.32-1.14-2.641-1.58-4.181-1.58c-2.061,0-3.421,1.181-3.421,2.642v0.039 c0,1.48,0.761,2.381,4.081,3.062c3.241,0.66,4.602,1.82,4.602,3.86v0.04c0,2.26-1.94,3.82-4.642,3.82 C349.058,32.81,347.337,32.069,345.658,30.569z"/>
+			<path d="M362.937,19.567h-4.881v-0.96h10.803v0.96h-4.881V32.61h-1.041V19.567z"/>
+			<path d="M371.857,18.607h1.04V32.61h-1.04V18.607z"/>
+			<path d="M380.777,19.567h-4.881v-0.96h10.803v0.96h-4.881V32.61h-1.041V19.567z"/>
+			<path d="M389.336,26.788v-8.181h1.04v8.081c0,3.301,1.78,5.201,4.741,5.201c2.841,0,4.661-1.721,4.661-5.102v-8.181h1.04v8.062 c0,4.021-2.341,6.161-5.741,6.161C391.717,32.83,389.336,30.71,389.336,26.788z"/>
+			<path d="M408.337,19.567h-4.881v-0.96h10.803v0.96h-4.881V32.61h-1.041V19.567z"/>
+			<path d="M417.116,18.607h9.963v0.96h-8.922v5.501h8.021v0.96h-8.021v5.621h9.021v0.961h-10.063V18.607z"/>
+		</g>
+	</g>
+</svg></a></div>
+            </div><!-- logoWrapper -->
+            <div class="programName"><a href="https://www.ugpti.org/">Upper Great Plains Transportation Institute</a></div>
+            <nav id="mainNav" aria-label="Main navigation">
+                <div class="wrapper">
+                    <ul><li><a href="https://www.ugpti.org/programs/"><span>browse by</span> Program</a><ul style='z-index:100;'><li><a href="https://www.atacenter.org/">Advanced Traffic Analysis Center (ATAC)</a></li><li><a href="https://www.ctips.org/">Center for Transformative Infrastructure Preservation and Sustainability (CTIPS)</a></li><li><a href="https://www.ugpti.org/outreach/cvsc/">Commercial Vehicle Safety Center (CVSC)</a></li><li><a href="https://www.ugpti.org/dotsc/">DOT Support Center (DOTSC)</a></li><li><a href="https://www.mountain-plains.org/">Mountain-Plains Consortium (MPC)</a></li><li><a href="https://www.ndltap.org/">North Dakota Local Technical Assistance Program (NDLTAP)</a></li><li><a href="https://www.northernttap.org/">Northern Tribal Technical Assistance Program (Northern TTAP)</a></li><li><a href="https://www.ugpti.org/rtssc/">Rural Transportation Safety and Security Center (RTSSC)</a></li><li><a href="https://www.ugpti.org/smartse/">Surface Mobility Applications and Real-time Simulation environments (SMARTSe)</a></li><li><a href="https://www.translearning.org/">Transportation Learning Network (TLN)</a></li></ul></li><li><a href="https://www.ugpti.org/about/">About Us</a><ul style='z-index:110;'><li><a href="https://www.ugpti.org/about/">About UGPTI</a></li><li><a href="https://www.ugpti.org/about/staff/">Staff Directory</a></li><li><a href="https://www.ugpti.org/awards/">Annual Awards Banquet</a></li><li><a href="https://www.ugpti.org/about/news/">News</a></li><li><a href="https://www.ugpti.org/about/annrpt/">Biennial Highlights</a></li><li><a href="https://www.ugpti.org/about/logos/">UGPTI Logos</a></li><li><a href="https://www.ugpti.org/about/council.php">Advisory Council</a></li><li><a href="https://www.ugpti.org/contact/">Contact UGPTI</a></li></ul></li><li class="current"><a href="https://www.ugpti.org/resources/">Resources</a><ul style='z-index:120;'><li><a href="https://www.ugpti.org/resources/reports/">Research Reports</a></li><li><a href="https://www.ugpti.org/resources/grit/">Geographic Roadway Inventory Tool (GRIT)</a></li><li class="current"><a href="https://www.ugpti.org/resources/grain/">Grain Industry Data (Grain Trax)</a></li><li><a href="https://www.ugpti.org/resources/proceedings/">Event Proceedings</a></li><li><a href="https://www.ugpti.org/resources/presentations/">Staff Presentations</a></li><li><a href="https://www.ugpti.org/resources/other.php">More Resources<span style="font-style:italic; font-size:80%;"> (e.g., Surface Selection Tool, Dry Bean Stock Reports)</span></a></li></ul></li><li><a href="https://www.ugpti.org/research/">Research</a><ul style='z-index:130;'><li><a href="https://www.ugpti.org/research/">Browse by Topic</a></li><li><a href="https://www.ugpti.org/resources/reports/">Research Reports</a></li></ul></li><li><a href="https://www.ugpti.org/education/">Education</a><ul style='z-index:140;'><li><a href="https://www.ugpti.org/education/">Transportation, Logistics and Finance Department</a></li><li><a href="https://www.ugpti.org/education/scholarships.php">Scholarship Opportunities</a></li><li><a href="https://www.ctips.org/awards/">CTIPS Student of the Year</a></li></ul></li><li><a href="https://www.ugpti.org/outreach/">Training &amp; Outreach</a><ul style='z-index:150;'><li><a href="https://www.ugpti.org/outreach/">Upcoming Events</a></li><li><a href="https://www.ugpti.org/resources/proceedings/">Event Proceedings</a></li></ul></li></ul>                    <div id="ugptiTools">
+                        <p>More from UGPTI</p>
+                        <script async src="https://cse.google.com/cse.js?cx=009378755565245065816:vnl3sheb2oa"></script>
+                        <div id="globalSearch" class="inactive">
+                            <div class="gcse-searchbox-only"></div>
+                            <button id="globalSearchClose" type="button" aria-label="Close search">×</button>
+                        </div>
+                        <div id="toolOps">
+                            <div><button id="globalSearchOpen" type="button" aria-expanded="false" aria-controls="globalSearch"><svg width="13" height="13" viewBox="0 0 13 13">
+    <path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path>
+</svg><span>Search</span></button></div>
+                            <div><a href="https://www.ugpti.org/sitemap.php"><svg id="svg_sitemap" width="20" height="20" viewBox="0 0 20 20">
+    <g class="boxes"><path d="m3.94,8.78v2.44H1.5v-2.44h2.44m1.5-1.5H0v5.44h5.44v-5.44h0Z"/><path d="m18.5,1.5v2.44h-2.44V1.5h2.44m1.5-1.5h-5.44v5.44h5.44V0h0Z"/><path d="m18.5,8.78v2.44h-2.44v-2.44h2.44m1.5-1.5h-5.44v5.44h5.44v-5.44h0Z"/><path d="m18.5,16.06v2.44h-2.44v-2.44h2.44m1.5-1.5h-5.44v5.44h5.44v-5.44h0Z"/></g>
+    <polygon class="connectors" points="15 2 11 2 10 2 10 3 10 9.5 5 9.5 5 10.5 10 10.5 10 17 10 18 11 18 15 18 15 17 11 17 11 10.5 15 10.5 15 9.5 11 9.5 11 3 15 3 15 2 15 2"/>
+</svg><span>Site Map</span></a></div>
+                            <div><a href="https://www.ugpti.org/contact/follow.php"><svg id="svg_checkbox" width="20" height="20" viewBox="0 0 20 20">
+    <g class="box"><path d="m14,6v11H3V6h11m3-3H0v17h17V3h0Z"/></g>
+    <path class="check" d="m4,9c1,0,2-1,3-2,1,3,2,4,2,4C13,6,13,2,20,0c-5,4-8,11-9,15-1,1-3,2-3,2,0-2-2-6-4-8Z"/>
+</svg><span>Follow Us</span></a></div>
+                        </div>
+                    </div><!-- ugptiTools -->
+                </div><!-- wrapper -->
+            </nav>
+            <div class="headerImage" style="background-image:url(https://www.ugpti.org/images/headerGraphics/UGPTI_collage2.jpg);"></div>
+        </header>
+        <div id="pgWrapper">
+            <div class="wrapper">
+                <main id="mainContent" class="clearAfter">
+                    <h1>North Dakota Grain Industry Data (Grain Trax)</h1><p>In cooperation with the North Dakota Department of Agriculture, the information used in the reports below is compiled from approximately 300 North Dakota elevators. For more information, please email <a href="mailto:kimberly.vachal@ndsu.edu">kimberly.vachal@ndsu.edu</a> or call (701)231-6425.</p>
+<div class="layout_split">
+    <div>
+        <h2 style="margin-bottom:0;">Monthly Grain &amp; Oilseed Reports</h2>
+        <p style="margin-top:2px;">Updated: <b>August 21, 2026</b></p>
+        <p>The following reports will be updated after each month end.</p>
+        <ul class="double">
+            <li><b><a href="/resources/grain/downloads/Monthly_NDGraphs.pdf">ND Graphs<span class="addInfo"> (<span class="nowrap">PDF, 424 KB</span>)</span></a></b> – These graphs show monthly rail shipments by railroad, by commodity (HRS, Durum, Barley, Sunflowers, and Corn), total truck shipments, total rail shipments, and all grain &amp; oilseed shipments.</li>
+            <li><b><a href="/resources/grain/downloads/Monthly_NDTables.pdf">ND Tables<span class="addInfo"> (<span class="nowrap">PDF, 292 KB</span>)</span></a></b> – These tables show market shares, modal shares, and destinations of grain &amp; oilseed shipments originating from North Dakota elevators.</li>
+        </ul>
+    </div>
+    <div>
+        <h2>Grain Movement Dashboard</h2>
+        <p>Explore interactive grain and oilseed transportation data through maps, charts, and visual analytics.</p>
+        <p><a href="https://www.arcgis.com/apps/dashboards/79d6cf10b61c4e0789ba14b3b7dd7350" target="_blank" rel="noopener">View the Grain Movement <span class="nowrap">Dashboard<span class="extIcon" aria-hidden="true"><svg width="1em" height="1em" viewBox="0 0 80 40" focusable="false">
+    <path d="M48 26c-1.1 0-2 0.9-2 2v26H10V18h26c1.1 0 2-0.9 2-2s-0.9-2-2-2H8c-1.1 0-2 0.9-2 2v40c0 1.1 0.9 2 2 2h40c1.1 0 2-0.9 2-2V28C50 26.9 49.1 26 48 26z"></path>
+    <path d="M56 6H44c-1.1 0-2 0.9-2 2s0.9 2 2 2h7.2L30.6 30.6c-0.8 0.8-0.8 2 0 2.8C31 33.8 31.5 34 32 34s1-0.2 1.4-0.6L54 12.8V20c0 1.1 0.9 2 2 2s2-0.9 2-2V8C58 6.9 57.1 6 56 6z"></path>
+</svg></span></span><span class="addInfo"><span class="hide-visually">(opens in a new tab)</span></span></a></p>
+    </div>
+</div><!-- layout_split -->
+
+
+<div class="layout_split">
+    <div>
+        <h2>Annual Grain &amp; Oilseed Reports</h2>
+        <ul>
+            <li><a href="/resources/grain/downloads/elev-survey-results-2026-nd.pdf">North Dakota Elevators Transportation Activities and Service, 2026 Survey<span class="addInfo"> (<span class="nowrap">PDF, 720 KB</span>)</span></a></li>
+            <li><a href="/resources/grain/reports.php?view=grain-and-oilseed">North Dakota Grain and Oilseed Transportation Statistics</a></li>
+            <li><a href="/resources/grain/reports.php?view=elevator-marketing-report">Annual North Dakota Elevator Marketing Reports</a></li>
+        </ul>
+    </div>
+    <div>
+        <h2>Agriculture Shipment Briefs</h2>
+        <ul>
+            <li><a href="/resources/grain/downloads/brief_Durum2025.pdf">Durum, 2025<span class="addInfo"> (<span class="nowrap">PDF, 686 KB</span>)</span></a></li>
+            <li><a href="/resources/grain/downloads/brief_HRSW2025.pdf">Hard Red Spring Wheat, 2025<span class="addInfo"> (<span class="nowrap">PDF, 881 KB</span>)</span></a></li>
+        </ul>
+    </div>
+</div><!-- layout_split -->
+
+
+<h2>Directory of ND Grain Trucking Companies</h2>
+<ul>
+    <li><a href="/resources/grain/downloads/DirectoryZip_NDGrain.pdf">Sorted by region<span class="addInfo"> (<span class="nowrap">PDF, 74 KB</span>)</span></a></li>
+    <li><a href="/resources/grain/downloads/DirectoryABC_NDGrain.pdf">Sorted by company<span class="addInfo"> (<span class="nowrap">PDF, 66 KB</span>)</span></a></li>
+</ul>
+
+
+<h2>Related Links</h2>
+<ul>
+    <li><a href="https://www.ndda.nd.gov/divisions/grain-livestock-licensing/grain-inspection" target="_blank" rel="noopener">Grain Forms – ND Dept. of <span class="nowrap">Ag<span class="extIcon" aria-hidden="true"><svg width="1em" height="1em" viewBox="0 0 80 40" focusable="false">
+    <path d="M48 26c-1.1 0-2 0.9-2 2v26H10V18h26c1.1 0 2-0.9 2-2s-0.9-2-2-2H8c-1.1 0-2 0.9-2 2v40c0 1.1 0.9 2 2 2h40c1.1 0 2-0.9 2-2V28C50 26.9 49.1 26 48 26z"></path>
+    <path d="M56 6H44c-1.1 0-2 0.9-2 2s0.9 2 2 2h7.2L30.6 30.6c-0.8 0.8-0.8 2 0 2.8C31 33.8 31.5 34 32 34s1-0.2 1.4-0.6L54 12.8V20c0 1.1 0.9 2 2 2s2-0.9 2-2V8C58 6.9 57.1 6 56 6z"></path>
+</svg></span></span><span class="addInfo"><span class="hide-visually">(opens in a new tab)</span></span></a></li>
+</ul>
+
+
+<h2>Disclaimer</h2>
+<p>The information provided on this site is for education purposes. While every effort is made to ensure information reliability and integrity, North Dakota State University, Upper Great Plains Transportation Institute disclaims warranties, express or implied, including any warranty of fitness for a particular purpose, as to the accuracy or reliability of data or information and assumes no responsibility for their use. Thank you.</p>
+                </main>
+                <footer>
+                            <div class="footerLinks"><a href="/">Home</a><span> | </span><a href="/contact/">Contact Us</a><span> | </span><a href="/policy/title-vi.php">Notice of Title VI Program Rights</a></div>
+        <address>Upper Great Plains Transportation Institute (UGPTI)<br>NDSU Dept 2880<span> &bull; </span>P.O. Box 6050<span> &bull; </span>Fargo, ND 58108-6050<br>(701)231-7767<span> &bull; </span><a href="mailto:ndsu.ugpti@ndsu.edu">ndsu.ugpti@ndsu.edu</a></address>
+                            <div class="copyright">© 2026 Upper Great Plains Transportation Institute — a research and education center at <a href="https://www.ndsu.edu/" target="_blank" rel="noopener">North Dakota State <span class="nowrap">University<span class="extIcon" aria-hidden="true"><svg width="1em" height="1em" viewBox="0 0 80 40" focusable="false">
+    <path d="M48 26c-1.1 0-2 0.9-2 2v26H10V18h26c1.1 0 2-0.9 2-2s-0.9-2-2-2H8c-1.1 0-2 0.9-2 2v40c0 1.1 0.9 2 2 2h40c1.1 0 2-0.9 2-2V28C50 26.9 49.1 26 48 26z"></path>
+    <path d="M56 6H44c-1.1 0-2 0.9-2 2s0.9 2 2 2h7.2L30.6 30.6c-0.8 0.8-0.8 2 0 2.8C31 33.8 31.5 34 32 34s1-0.2 1.4-0.6L54 12.8V20c0 1.1 0.9 2 2 2s2-0.9 2-2V8C58 6.9 57.1 6 56 6z"></path>
+</svg></span></span><span class="addInfo"><span class="hide-visually">(opens in a new tab)</span></span></a>.</div>
+                </footer>
+            </div><!-- wrapper -->
+        </div><!-- pgWrapper -->
+        </body>
+</html>

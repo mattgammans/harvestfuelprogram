@@ -1,0 +1,21 @@
+state,name,group,start,end,end_kind,note,verified,source
+US,Federal,federal,2026-10-05,2026-12-31,fixed,"Tax on highway use of dyed diesel deferred (EO 14435); IRS penalty relief from Oct 1",2026-10-16,https://www.whitehouse.gov/wp-content/uploads/2026/10/eo-14435.pdf
+OH,Ohio,tax_suspended,2026-10-04,2027-01-02,fixed,"Diesel tax cut from 47¢ to $0.0001/gal",tracker 2026-10-06,https://startbusinessbystate.com/fuel-tax-holiday-dyed-diesel-by-state/
+GA,Georgia,tax_suspended,2026-09-29,2026-11-05,fixed,"Motor fuel excise suspended; extended from Oct 29; dyed-diesel penalties also waived",2026-10-16,https://www.wtoc.com/2026/10/06/gov-kemp-extends-georgia-gas-tax-suspension-november/
+MO,Missouri,dyed_everyone,2026-09-30,2026-12-31,fixed,"EO 26-19 ag-only from Sep 30; EO 26-20 opened to all vehicles Oct 9",2026-10-16,https://governor.mo.gov/press-releases/archive/governor-kehoe-expands-executive-order-providing-transportation-cost-relief
+TX,Texas,dyed_everyone,2026-09-28,2026-10-28,renewable,"Disaster proclamation lapses after 30 days unless renewed (Gov't Code 418.014); Comptroller says 20¢ state tax still owed",2026-10-16,https://comptroller.texas.gov/taxes/fuels/diesel.php
+MS,Mississippi,dyed_everyone,2026-10-06,,open,"Highway enforcement of dyed-diesel ban halted",2026-10-16,https://mississippitoday.org/2026/10/06/reeves-waives-diesel-tax-enforcement-after-trump-order/
+MI,Michigan,dyed_farm,2026-10-12,2026-12-31,fixed,"EO 2026-15; farm and wood-harvester plates; for-hire excluded",2026-10-16,https://www.michiganfarmnews.com/about/news-media/gov-whitmer-signs-waiver-granting-dyed-diesel-tax-relief-remainder-2026
+IA,Iowa,dyed_farm,2026-10-05,2027-02-04,fixed,"Trucks hauling listed farm commodities",2026-10-16,https://iowadot.gov/media/15970/download
+AR,Arkansas,dyed_farm,2026-09-30,2026-10-30,fixed,"EO 26-15; farmers and loggers",tracker 2026-10-06,https://startbusinessbystate.com/fuel-tax-holiday-dyed-diesel-by-state/
+IN,Indiana,dyed_farm,2026-09-30,2026-11-04,fixed,"Farmers and timber harvesters",tracker 2026-10-06,https://startbusinessbystate.com/fuel-tax-holiday-dyed-diesel-by-state/
+NE,Nebraska,dyed_farm,2026-09-24,2026-12-23,fixed,"EO 26-21; vehicles hauling Nebraska ag products",tracker 2026-10-06,https://startbusinessbystate.com/fuel-tax-holiday-dyed-diesel-by-state/
+ND,North Dakota,dyed_farm,2026-09-29,2026-11-30,fixed,"Licensed ag vehicles; dyed diesel still taxed 4¢",tracker 2026-10-06,https://startbusinessbystate.com/fuel-tax-holiday-dyed-diesel-by-state/
+TN,Tennessee,dyed_farm,2026-10-06,2026-10-31,fixed,"Farmers and timber",2026-10-16,https://www.wsmv.com/2026/10/06/tennessee-governor-suspends-dyed-diesel-restrictions-heels-president-trumps-order-heres-what-that-means/
+AL,Alabama,dyed_farm,2026-09-24,2027-01-22,estimated,"120-day enforcement pause; end date is a count, not in the order",tracker 2026-10-06,https://startbusinessbystate.com/fuel-tax-holiday-dyed-diesel-by-state/
+OK,Oklahoma,dyed_farm,2026-09-28,2027-01-26,estimated,"120-day enforcement pause for farm vehicles; end date is a count",tracker 2026-10-06,https://startbusinessbystate.com/fuel-tax-holiday-dyed-diesel-by-state/
+NC,North Carolina,dyed_farm,2026-09-30,2026-12-31,fixed,"Penalty relief for farmers",tracker 2026-10-06,https://startbusinessbystate.com/fuel-tax-holiday-dyed-diesel-by-state/
+LA,Louisiana,dyed_farm,2026-09-23,2026-10-22,fixed,"Class 2 and 5 vehicles; 20¢ state excise still owed",2026-10-16,https://gov.louisiana.gov/news/5178
+IL,Illinois,dyed_farm,2026-10-06,2026-12-31,fixed,"Ag use of bulk-storage dyed diesel; also froze July rate increase",2026-10-16,https://www.farmweeknow.com/profitability/pritzker-issues-order-on-dyed-diesel-fuel/article_13af2765-d891-434b-abee-033194b0fc9d.html
+KY,Kentucky,other,2026-07-01,,open,"Gas and diesel rates frozen at FY2025-26 levels",tracker 2026-10-06,https://startbusinessbystate.com/fuel-tax-holiday-dyed-diesel-by-state/
+UT,Utah,other,2026-07-01,2026-12-31,fixed,"Gasoline-only tax cut; diesel unchanged",tracker 2026-10-06,https://startbusinessbystate.com/fuel-tax-holiday-dyed-diesel-by-state/

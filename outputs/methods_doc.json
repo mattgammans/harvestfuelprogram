@@ -1,0 +1,439 @@
+{
+ "date": "October 2, 2026",
+ "rows": [
+  {
+   "group": "Policy and prices",
+   "input": "ND tax, clear diesel / dyed diesel",
+   "value": "23\u00a2 / 4\u00a2 per gal (difference 19\u00a2)",
+   "kind": "Sourced",
+   "source": "NDCC 57-43.2-02, -03",
+   "url": "https://ndlegis.gov/cencode/t57c43-2.pdf"
+  },
+  {
+   "group": "Policy and prices",
+   "input": "Federal diesel tax (not relieved)",
+   "value": "24.4\u00a2 per gal",
+   "kind": "Sourced",
+   "source": "Governor's release 9/29/2026; 26 U.S.C. 4081; IRS IR-2024-265 precedent",
+   "url": "https://www.governor.nd.gov/news/armstrong-declares-diesel-emergency-takes-action-provide-relief-fuel-costs-agricultural"
+  },
+  {
+   "group": "Policy and prices",
+   "input": "Window covered by the order",
+   "value": "Sept. 29\u2013Nov. 30, 2026 (63 days)",
+   "kind": "Sourced",
+   "source": "Executive Order 2026-08",
+   "url": "https://www.governor.nd.gov/sites/default/files/documents/Executive%20Order%202026-08%20Diesel%20emergency.pdf"
+  },
+  {
+   "group": "Policy and prices",
+   "input": "Midwest retail diesel, fall 2025 average / Sept. 28, 2026",
+   "value": "$3.74 / $6.53 (rise $2.79)",
+   "kind": "Sourced",
+   "source": "EIA weekly retail diesel, PADD 2",
+   "url": "https://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_R20_W.xls"
+  },
+  {
+   "group": "Crops",
+   "input": "2026 production forecasts",
+   "value": "Corn 578.5M bu; soybeans 203.7M bu; sugarbeets 5.90M t; dry beans 7.04M cwt",
+   "kind": "Sourced",
+   "source": "NASS Crop Production, Sept. 11 and Aug. 12, 2026",
+   "url": "https://esmis.nal.usda.gov/sites/default/release-files/796056/crop0926.pdf"
+  },
+  {
+   "group": "Crops",
+   "input": "Sunflower and potatoes (no 2026 forecast yet)",
+   "value": "Sunflower 1,088M lb \u00d7 2026/2025 acres (0.605/0.575M); potatoes 24.84M cwt (2025)",
+   "kind": "Sourced (proxy year)",
+   "source": "NASS Crop Production 2025 Summary; NASS Acreage, June 2026",
+   "url": "https://esmis.nal.usda.gov/publication/crop-production-annual-summary"
+  },
+  {
+   "group": "Crops",
+   "input": "Share harvested by Sept. 27, 2026",
+   "value": "Corn 8%; soybeans 22%; sugarbeets 25%; sunflower 3%",
+   "kind": "Sourced",
+   "source": "NASS Crop Progress, Sept. 28, 2026",
+   "url": "https://esmis.nal.usda.gov/sites/default/release-files/796082/prog3926.pdf"
+  },
+  {
+   "group": "Crops",
+   "input": "Share of remaining harvest done by Nov. 30",
+   "value": "Corn 92% (73%\u201397%); soybeans 99%; beets 99%",
+   "kind": "Calculated",
+   "source": "NASS Crop Progress 2016\u20132025, ND late-November values (median; 10th\u201390th percentile)",
+   "url": "https://esmis.nal.usda.gov/publication/crop-progress"
+  },
+  {
+   "group": "Crops",
+   "input": "Dry beans and potatoes harvested after Sept. 29",
+   "value": "Dry beans 40%; potatoes 36%",
+   "kind": "Calculated",
+   "source": "NASS Usual Planting and Harvesting Dates (2010), ND; interpolated between the 5/15/85/95% dates",
+   "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/fcdate10.pdf"
+  },
+  {
+   "group": "Crops",
+   "input": "Share of crop off the farm by Dec. 1",
+   "value": "Corn 37% (33%\u201340%); soybeans 60% (52%\u201368%)",
+   "kind": "Calculated",
+   "source": "1 \u2212 Dec. 1 on-farm stocks \u00f7 (production \u00d7 share harvested), 2024 and 2025; NASS Grain Stocks and Crop Production",
+   "url": "https://esmis.nal.usda.gov/publication/grain-stocks"
+  },
+  {
+   "group": "Crops",
+   "input": "Share hauled straight from field at harvest",
+   "value": "Corn 33%; soybeans 66%",
+   "kind": "Sourced",
+   "source": "UGPTI DP-284 (Vachal 2015), p. 11 (soybean value is regional)",
+   "url": "https://www.ugpti.org/resources/reports/downloads/dp-284.pdf"
+  },
+  {
+   "group": "Crops",
+   "input": "On-farm wheat and barley stocks, Sept. 1, 2026; Sept.\u2013Dec. decline",
+   "value": "Wheat 165M bu, barley 18.5M bu; wheat fell 22\u201324% Sept. 1\u2013Dec. 1 in 2024\u201325",
+   "kind": "Sourced",
+   "source": "NASS Grain Stocks (Sept. 2024, 2025, 2026; Jan. 2025, 2026)",
+   "url": "https://esmis.nal.usda.gov/publication/grain-stocks"
+  },
+  {
+   "group": "Hauling",
+   "input": "One-way miles to elevator or plant",
+   "value": "27.8 (21.7\u201341.7)",
+   "kind": "Sourced",
+   "source": "UGPTI DP-284: ND corn trip (T3.56); ND semi wheat trip (T3.70, low); regional second-choice point (T3.46, high)",
+   "url": "https://www.ugpti.org/resources/reports/downloads/dp-284.pdf"
+  },
+  {
+   "group": "Hauling",
+   "input": "Tons per load (fleet-weighted)",
+   "value": "21.5 (19.8\u201326.0)",
+   "kind": "Calculated",
+   "source": "Bushels per load by truck type (DP-284 T3.65) \u00d7 share of ND grain each type hauls (UGPTI 2024 Infrastructure Needs, T12)",
+   "url": "https://www.ugpti.org/resources/reports/downloads/2024-10-infrastructure-needs.pdf"
+  },
+  {
+   "group": "Hauling",
+   "input": "Fuel economy, loaded / empty (mpg)",
+   "value": "5.1 (4.4\u20136.2) / 6.2 (5.8\u20137.6)",
+   "kind": "Sourced",
+   "source": "ORNL Transportation Energy Data Book Ed. 40, Tables 5.1, 5.2, 5.12",
+   "url": "https://tedb.ornl.gov/"
+  },
+  {
+   "group": "Hauling",
+   "input": "Sugarbeet one-way miles to receiving station",
+   "value": "11.0 (8.6\u201312.3)",
+   "kind": "Calculated",
+   "source": "Land area of 6 RRV counties (7,899 sq mi, Census Gazetteer) \u00f7 15 ND receiving sites (American Crystal 12, Minn-Dak 3); mean trip \u2154 radius \u00d7 4/\u03c0",
+   "url": "https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html"
+  },
+  {
+   "group": "Hauling",
+   "input": "Field-to-bin one-way miles",
+   "value": "2.0 (1.4\u20132.8)",
+   "kind": "Calculated + bound",
+   "source": "Acre-weighted farm size 2,797 ac (Census Table 9); cropland 49% of ND land; farm operates 50% of nearby cropland (bound 25\u2013100%)",
+   "url": "https://www.nass.usda.gov/Publications/AgCensus/2022/Full_Report/Volume_1,_Chapter_1_State_Level/North_Dakota/"
+  },
+  {
+   "group": "Calves and fertilizer",
+   "input": "Calves shipped in window",
+   "value": "860,000 calf crop \u00d7 50% (bound 0\u2013100%)",
+   "kind": "Sourced + bound",
+   "source": "NASS Cattle, Jan. 2026; no monthly shipment data published",
+   "url": null
+  },
+  {
+   "group": "Calves and fertilizer",
+   "input": "Calves per load; trip length",
+   "value": "80 head; 80-mile round trip",
+   "kind": "Sourced / calculated",
+   "source": "OSU Beef Team (pot load ~80 head of 500-lb calves); ND land \u00f7 10 licensed cattle auctions (NDDA)",
+   "url": "https://www.ndda.nd.gov/sites/www/files/documents/files/Livestock%20Auction%20Markets.pdf"
+  },
+  {
+   "group": "Calves and fertilizer",
+   "input": "Fall anhydrous ammonia hauled",
+   "value": "396k t NH3 \u00d7 50% fall (bound 0\u2013100%); 2.1-t nurse tanks; 56-mi round trip; 7.6 mpg",
+   "kind": "Calculated + bound",
+   "source": "Corn acres \u00d7 146 lb N/ac (USDA ERS) \u00f7 82% N; NDSU bars fall NH3 before Oct. 1",
+   "url": "https://www.ers.usda.gov/data-products/fertilizer-use-and-price"
+  },
+  {
+   "group": "Switching",
+   "input": "Heavy farm trucks fueled from own tanks",
+   "value": "53% (49%\u201355%)",
+   "kind": "Sourced (proxy)",
+   "source": "2021 VIUS microdata, Class 6\u20138 diesel farm trucks (n\u22482,300); ND-only 64%, Northern Plains 47%",
+   "url": "https://www.census.gov/programs-surveys/vius.html"
+  },
+  {
+   "group": "Switching",
+   "input": "Hauls not crossing into MN/SD",
+   "value": "96.5% (94.8%\u201397.3%)",
+   "kind": "Calculated",
+   "source": "26% of ND cropland in border counties (Census Table 8) \u00d7 share of delivery circle across the line",
+   "url": "https://www.nass.usda.gov/Publications/AgCensus/2022/Full_Report/Volume_1,_Chapter_2_County_Level/North_Dakota/"
+  },
+  {
+   "group": "Switching",
+   "input": "Farmers willing to take federal penalty risk",
+   "value": "100%",
+   "kind": "Assumption",
+   "source": "Upper bound; no IRS relief as of Oct. 2, 2026 (penalty \u2265 $1,000 or $10/gal)",
+   "url": "https://www.law.cornell.edu/uscode/text/26/6715"
+  },
+  {
+   "group": "Switching",
+   "input": "Farm pickups",
+   "value": "Excluded",
+   "kind": "Scope choice",
+   "source": "VIUS diesel farm pickup sample too thin (effective n \u2248 12); biases totals down",
+   "url": null
+  },
+  {
+   "group": "Context",
+   "input": "Harvest fuel per acre (combine + grain cart)",
+   "value": "Corn/beets 3.44; soybeans/sunflower/dry beans 3.48 gal/ac",
+   "kind": "Sourced",
+   "source": "UMN Machinery Cost Estimates, July 2024",
+   "url": "https://wlazarus.cfans.umn.edu/"
+  },
+  {
+   "group": "Context",
+   "input": "Fall tillage and fall anhydrous field fuel",
+   "value": "4.70M intensive-till ac \u00d7 0.7 gal \u00d7 50%; corn ac \u00d7 0.55 gal \u00d7 50%",
+   "kind": "Sourced + bound",
+   "source": "Census Table 47; UMN; ISU PM 709; fall shares bounded 0\u2013100%",
+   "url": "https://www.extension.iastate.edu/agdm/crops/html/a3-27.html"
+  },
+  {
+   "group": "Context",
+   "input": "Annual ND farm diesel",
+   "value": "133M gal (113M gal\u2013195M gal)",
+   "kind": "Calculated",
+   "source": "ERS 2025 ND diesel expense $359.8M \u00f7 $3.19/gal (low); EIA farm distillate 2016\u201320 (avg) and 2020 (high)",
+   "url": "https://www.ers.usda.gov/data-products/farm-income-and-wealth-statistics/"
+  },
+  {
+   "group": "Context",
+   "input": "ND farms; harvested cropland",
+   "value": "25,068 farms; 21.8M acres",
+   "kind": "Sourced",
+   "source": "2022 Census of Agriculture, Table 1",
+   "url": "https://www.nass.usda.gov/Publications/AgCensus/2022/Full_Report/Volume_1,_Chapter_1_State_Level/North_Dakota/"
+  },
+  {
+   "group": "Context",
+   "input": "Highway Tax Distribution Fund split",
+   "value": "State 60%; counties 35% (27% of that to cities); townships 3.4%; transit 1.6%",
+   "kind": "Sourced",
+   "source": "NDCC 54-27-19",
+   "url": "https://ndlegis.gov/cencode/t54c27.pdf"
+  },
+  {
+   "group": "Context",
+   "input": "ND taxable highway diesel, Oct.\u2013Nov. (+2 Sept. days)",
+   "value": "59.3 million gal",
+   "kind": "Sourced",
+   "source": "FHWA Highway Statistics 2024, Table MF-33SF",
+   "url": "https://www.fhwa.dot.gov/policyinformation/statistics/2024/"
+  }
+ ],
+ "steps": [
+  {
+   "title": "Step 1. Value per gallon",
+   "lines": [
+    "Savings per gallon = ND clear tax \u2212 ND dyed tax = 23\u00a2 \u2212 4\u00a2 = 19\u00a2.",
+    "The 24.4\u00a2 federal tax is not relieved, so it is not counted. Federal revenue forgone = $0.",
+    "Price rise = $6.53 \u2212 $3.74 = $2.79/gal; 19\u00a2 \u00f7 $2.79 = 6.8% of the rise on a covered gallon."
+   ]
+  },
+  {
+   "title": "Step 2. Tons harvested inside the window",
+   "lines": [
+    "Tons in window = production (tons) \u00d7 share not yet harvested on Sept. 27 \u00d7 share of the remainder done by Nov. 30.",
+    "Corn: 16.20M t \u00d7 0.92 \u00d7 0.924 = 13.77 million t.",
+    "Soybeans: 6.11M t \u00d7 0.78 \u00d7 0.994 = 4.74 million t.",
+    "Sugarbeets: 5.90M t \u00d7 0.75 \u00d7 0.987 = 4.36 million t.",
+    "Sunflower, dry beans, potatoes (other fall crops) = 1.09 million t."
+   ]
+  },
+  {
+   "title": "Step 3. Fuel per ton hauled",
+   "lines": [
+    "Gallons per ton = (one-way miles \u00f7 loaded mpg + one-way miles \u00f7 empty mpg) \u00f7 tons per load.",
+    "To elevator/plant: (27.8 \u00f7 5.1 + 27.8 \u00f7 6.2) \u00f7 21.48 = 0.463 gal/t.",
+    "Sugarbeets to station: (11.0 \u00f7 5.1 + 11.0 \u00f7 6.2) \u00f7 21.48 = 0.183 gal/t.",
+    "Field to bin: (2.01 \u00f7 5.1 + 2.01 \u00f7 6.2) \u00f7 19.80 = 0.036 gal/t."
+   ]
+  },
+  {
+   "title": "Step 4. Category A: hauling the fall harvest = 5.09 million gal",
+   "lines": [
+    "Tons to market = corn 13.77 million \u00d7 0.367 + soybeans 4.74 million \u00d7 0.597 + other fall crops at the pooled share = 8.35 million t.",
+    "To market: 8.35 million t \u00d7 0.463 = 3.86 million gal.",
+    "Sugarbeets: 4.36 million t \u00d7 0.183 = 0.80 million gal.",
+    "Into bins: tons not hauled straight from the field (corn 67%, soybeans 40%) = 11.79 million t \u00d7 0.036 = 0.43 million gal.",
+    "Total A = 5.09 million gal."
+   ]
+  },
+  {
+   "title": "Step 5. Category B: calves and fertilizer = 0.76 million gal",
+   "lines": [
+    "Calves: 860,000 \u00d7 50% \u00f7 80 head per load \u00d7 80 mi \u00f7 6.2 mpg = 0.069 million gal.",
+    "Anhydrous: 4.45M ac \u00d7 146 lb N \u00f7 0.82 \u00f7 2,000 = 396k t \u00d7 50% \u00f7 2.1 t per tank \u00d7 55.6 mi \u00f7 7.6 mpg = 0.690 million gal."
+   ]
+  },
+  {
+   "title": "Step 6. Category C: selling stored wheat and barley = 0.39 million gal",
+   "lines": [
+    "Sept. 1\u2013Dec. 1 decline in ND on-farm stocks: wheat 22.1% (2024), 24.0% (2025); barley 6.1% (2024), 33.3% (2025).",
+    "Each year's rates \u00d7 2026 Sept. 1 stocks (wheat 165M bu at 60 lb, barley 18.5M bu at 48 lb) \u00d7 63/91 days, averaged over the two years = 0.85 million t.",
+    "0.85 million t \u00d7 0.463 gal/t = 0.39 million gal."
+   ]
+  },
+  {
+   "title": "Step 7. Eligible on-road truck gallons = 6.24 million",
+   "lines": [
+    "A + B + C = 5.09 million + 0.76 million + 0.39 million = 6.24 million gal. Farm pickups are excluded."
+   ]
+  },
+  {
+   "title": "Step 8. Gallons switched to dyed fuel = 3.18 million",
+   "lines": [
+    "Share switching = fueled from farm tanks 0.528 \u00d7 staying in ND 0.965 \u00d7 willing to take federal risk 1.00 = 0.509.",
+    "Switched = 6.24 million \u00d7 0.509 = 3.18 million gal.",
+    "Federal risk: the governor's order covers state penalties only. Until the IRS grants relief, a truck caught with dyed fuel on a public road faces a federal penalty of $1,000 or $10 a gallon, whichever is greater. Assuming every farmer accepts that risk makes this an upper bound on this factor."
+   ]
+  },
+  {
+   "title": "Step 9. State revenue forgone = $0.60 million",
+   "lines": [
+    "3.18 million gal \u00d7 $0.19 = $0.604 million.",
+    "Split (NDCC 54-27-19): state highway fund $362K; counties $154K; cities $57K; townships $21K; public transit $10K."
+   ]
+  },
+  {
+   "title": "Step 10. Context",
+   "lines": [
+    "Fall farm diesel = harvest field work 34.3 million + fall tillage 1.6 million + fall anhydrous 1.2 million + on-road 6.2 million = 43.4 million gal (33% of annual).",
+    "Harvest field work by crop: corn 13.0 million; sugarbeets 0.5 million; soybeans 18.3 million; sunflower 1.9 million; dry beans 0.6 million.",
+    "Extra cost from price rise = 43.4 million \u00d7 $2.79 = $121 million; relief \u00f7 extra cost = 0.50%.",
+    "Per farm = $603,546 \u00f7 25,068 = $24. Per fall-crop acre = 5.3\u00a2. Per bushel of corn and soybeans harvested in window = 0.093\u00a2."
+   ]
+  },
+  {
+   "title": "Step 11. Example farm (1,000 ac corn + 1,000 ac soybeans)",
+   "lines": [
+    "Bushels = 1,000 \u00d7 130 + 1,000 \u00d7 30 = 160,000. Same shares and fuel per ton as Steps 2\u20134.",
+    "On-road truck fuel = 803 gal; savings = 803 \u00d7 $0.19 = $153.",
+    "Fall field fuel = 1,000 \u00d7 3.44 \u00d7 0.85 + 1,000 \u00d7 3.48 \u00d7 0.775 = 5,621 gal.",
+    "Higher fall diesel bill = (803 + 5,621) \u00d7 $2.79 = $17,893."
+   ]
+  },
+  {
+   "title": "Step 12. Range and cross-check",
+   "lines": [
+    "Each input is moved to its low and high value one at a time. The log changes in switched gallons are combined in quadrature (inputs treated as independent): 2.3 million\u20134.5 million gal, $0.44\u20130.85 million. All inputs at their extremes together: $0.20\u20131.25 million.",
+    "Fleet cross-check: 26,227 non-pickup farm trucks \u00d7 UGPTI annual miles by type \u00f7 ORNL mpg = 18.4 million gal/yr \u00d7 33% of the year's crop tonnage moved in window = 6.1 million gal, vs. 5.1 million gal bottom-up for the same hauls."
+   ]
+  }
+ ],
+ "summary": [
+  [
+   "Hauling the fall harvest",
+   "5.09 million",
+   "51%",
+   "2.59 million",
+   "$492K"
+  ],
+  [
+   "Calves and fertilizer",
+   "0.76 million",
+   "51%",
+   "0.39 million",
+   "$73K"
+  ],
+  [
+   "Selling stored wheat and barley",
+   "0.39 million",
+   "51%",
+   "0.20 million",
+   "$38K"
+  ],
+  [
+   "Total",
+   "6.24 million",
+   "51%",
+   "3.18 million",
+   "$0.60M"
+  ]
+ ],
+ "sens": [
+  {
+   "input": "oneway_miles_to_market",
+   "low": 2.7013695596552165,
+   "high": 4.259360188528645,
+   "swing": 49.04652349371124
+  },
+  {
+   "input": "other_ag_hauling_gal",
+   "low": 2.7901109027430024,
+   "high": 3.5630025001802212,
+   "swing": 24.331112902269062
+  },
+  {
+   "input": "payload_tons_market",
+   "low": 3.3944031450548744,
+   "high": 2.7259689275847565,
+   "swing": 21.042728976396198
+  },
+  {
+   "input": "mpg_loaded",
+   "low": 3.4201021825135958,
+   "high": 2.9049529852653904,
+   "swing": 16.217220269078535
+  },
+  {
+   "input": "onhand_share_trucks",
+   "low": 2.9289183159784065,
+   "high": 3.2998796401557287,
+   "swing": 11.678095467543002
+  },
+  {
+   "input": "done_by_nov30_corn",
+   "low": 2.9005984151025546,
+   "high": 3.241687604422826,
+   "swing": 10.737701901034171
+  },
+  {
+   "input": "mpg_empty",
+   "low": 3.263401776859777,
+   "high": 2.944588934279672,
+   "swing": 10.03642851498327
+  },
+  {
+   "input": "offfarm_by_dec1_corn",
+   "low": 3.0644346181030757,
+   "high": 3.288678784820148,
+   "swing": 7.0593472049119015
+  },
+  {
+   "input": "offfarm_by_dec1_soybeans",
+   "low": 3.088489312487206,
+   "high": 3.2663294924774027,
+   "swing": 5.598520558703327
+  },
+  {
+   "input": "oneway_miles_field_to_bin",
+   "low": 3.11265395029302,
+   "high": 3.266928838837187,
+   "swing": 4.856670383789491
+  }
+ ],
+ "central_gal": 3176556.7014616113,
+ "revenue": 603545.7732777062
+}

@@ -1,0 +1,233 @@
+{
+ "rows": [
+  {
+   "crop": "corn",
+   "production_mbu": 578.5,
+   "tons": 16198000.0,
+   "share": 0.4331542545373146,
+   "share_by_year": {
+    "2024": 0.4007670182166826,
+    "2025": 0.4655414908579466
+   },
+   "hauled_tons": 7016232.614995422,
+   "oneway_miles": 27.8,
+   "tons_per_load": 21.4779432,
+   "gal_per_ton": 0.4175326218147309,
+   "gallons": 2929505.999001064,
+   "savings": 556606.1398102022
+  },
+  {
+   "crop": "soybeans",
+   "production_mbu": 203.7,
+   "tons": 6111000.0,
+   "share": 0.6047113083503415,
+   "share_by_year": {
+    "2024": 0.6783715012722646,
+    "2025": 0.5310511154284183
+   },
+   "hauled_tons": 3695390.805328937,
+   "oneway_miles": 27.8,
+   "tons_per_load": 21.725457,
+   "gal_per_ton": 0.41277575590165355,
+   "gallons": 1525367.7330216721,
+   "savings": 289819.8692741177
+  },
+  {
+   "crop": "wheat",
+   "production_mbu": 282.44,
+   "tons": 8473200.0,
+   "share": 0.10097502985485765,
+   "share_by_year": {
+    "2024": 0.09211093833057803,
+    "2025": 0.10983912137913726
+   },
+   "hauled_tons": 855581.6229661799,
+   "oneway_miles": 24.5,
+   "tons_per_load": 21.970053,
+   "gal_per_ton": 0.3597272071419952,
+   "gallons": 307775.98771163943,
+   "savings": 58477.437665211495
+  }
+ ],
+ "total_gallons": 4762649.719734375,
+ "total_savings": 904903.4467495313,
+ "if_only_onhand_trucks": 477789.01988375257,
+ "haul_sensitivity": {
+  "21.7": 712493.7406777185,
+  "41.7": 1369169.9993668604
+ },
+ "sources": {
+  "P1": "NASS Crop Production, Sept. 11, 2026 (corn, soybeans; nass_crop0926.txt) and Aug. 12, 2026 (spring wheat, durum; nass_crop0826.txt)",
+  "P2": "NASS Grain Stocks: Sept. 30, 2024 & 2025; Jan. 2025 & Jan. 12, 2026 (src2_grst*.txt); NASS Crop Production 2025 Summary, Jan. 12, 2026 (src2_cropan26.txt)",
+  "P3": "UGPTI DP-284 (Vachal 2015), ND corn Table 3.56 (also used for soybeans; no ND soybean table) and ND wheat Table 3.52",
+  "P4": "UGPTI DP-284 Table 3.65 (bushels per load) weighted by UGPTI Infrastructure Needs 2024 Table 12 (share of ND grain by truck type)",
+  "P5": "ORNL Transportation Energy Data Book Ed. 40, Table 5.2: Class 7-8 combination trucks, 2020 average"
+ },
+ "mpg": 6.2,
+ "per_farm": 36.09795144205885,
+ "per_acre_three_crops": 0.054381216751774715,
+ "per_bushel_hauled_cents": 0.22494434409042544,
+ "hauled_bushels": {
+  "corn": 250579736.24983647,
+  "soybeans": 123179693.51096456,
+  "wheat": 28519387.432205994
+ },
+ "relief_share_of_price_rise": 0.06821772224615827,
+ "price_rise": 2.7851999999999997,
+ "split": {
+  "state highway fund": 542942.0680497187,
+  "counties": 231202.83064450524,
+  "cities": 85513.37571783071,
+  "townships": 30766.71718948407,
+  "public transit": 14478.455147992501
+ },
+ "example_farm": {
+  "bushels": 160000.0,
+  "onroad_gal": 882.9651054976308,
+  "savings": 167.76337004454984,
+  "field_gal_harvest": 6920.0,
+  "fall_diesel_increase": 21732.818411832
+ },
+ "fall_fuel_gal": 43699849.71973438,
+ "fall_fuel_shock": 121712821.43940417,
+ "share_of_fall_fuel_shock": 0.007434742174636431,
+ "holiday_cost": 13641008.958,
+ "taxable_hwy_gal": 59308734.6,
+ "per_acre_payment_cents": 4.146259950537087,
+ "sensitivity": [
+  {
+   "input": "Share hauled off-farm (2024-only vs. 2025-only stocks)",
+   "low": 893455.2946377015,
+   "high": 916351.5988613614
+  },
+  {
+   "input": "Haul distance (21.7 mi ND semi wheat trip to 41.7 mi second-choice point, DP-284)",
+   "low": 712493.7406777184,
+   "high": 1369169.9993668601
+  },
+  {
+   "input": "Tons per load (all 5-axle semis to truck-count weighted fleet)",
+   "low": 744637.0424050996,
+   "high": 990773.0460525146
+  },
+  {
+   "input": "Fuel economy (6.2 to 5.1 mpg; ORNL T5.2 and T5.12)",
+   "low": 904903.4467495313,
+   "high": 1100078.6999700188
+  },
+  {
+   "input": "Take-up (only trucks fueled from farm tanks, 53%, VIUS; vs. all)",
+   "low": 477789.01988375257,
+   "high": 904903.4467495313
+  }
+ ],
+ "share_detail": [
+  {
+   "crop": "corn",
+   "year": 2024,
+   "production": 542.36,
+   "stocks": "Dec. 1: 325.0",
+   "left": 217.36,
+   "pct_raw": 0.40076701821668265,
+   "share": 0.40076701821668265
+  },
+  {
+   "crop": "corn",
+   "year": 2025,
+   "production": 711.0,
+   "stocks": "Dec. 1: 380.0",
+   "left": 331.0,
+   "pct_raw": 0.46554149085794655,
+   "share": 0.46554149085794655
+  },
+  {
+   "crop": "corn",
+   "year": "Average",
+   "share": 0.4331542545373146
+  },
+  {
+   "crop": "soybeans",
+   "year": 2024,
+   "production": 245.625,
+   "stocks": "Dec. 1: 79.0",
+   "left": 166.625,
+   "pct_raw": 0.6783715012722646,
+   "share": 0.6783715012722646
+  },
+  {
+   "crop": "soybeans",
+   "year": 2025,
+   "production": 223.905,
+   "stocks": "Dec. 1: 105.0",
+   "left": 118.905,
+   "pct_raw": 0.5310511154284183,
+   "share": 0.5310511154284183
+  },
+  {
+   "crop": "soybeans",
+   "year": "Average",
+   "share": 0.6047113083503415
+  },
+  {
+   "crop": "wheat",
+   "year": 2024,
+   "production": 368.285,
+   "stocks": "Sept. 1: 222.0 \u2192 Dec. 1: 173.0",
+   "left": 49.0,
+   "pct_raw": 0.13304913314416822,
+   "share": 0.09211093833057801
+  },
+  {
+   "crop": "wheat",
+   "year": 2025,
+   "production": 334.055,
+   "stocks": "Sept. 1: 221.0 \u2192 Dec. 1: 168.0",
+   "left": 53.0,
+   "pct_raw": 0.1586565086587538,
+   "share": 0.10983912137913726
+  },
+  {
+   "crop": "wheat",
+   "year": "Average",
+   "share": 0.10097502985485765
+  }
+ ],
+ "haul_curve": [
+  {
+   "miles": 10,
+   "savings": 328338.12934457074
+  },
+  {
+   "miles": 15,
+   "savings": 492507.1940168562
+  },
+  {
+   "miles": 20,
+   "savings": 656676.2586891415
+  },
+  {
+   "miles": 25,
+   "savings": 820845.3233614269
+  },
+  {
+   "miles": 30,
+   "savings": 985014.3880337124
+  },
+  {
+   "miles": 35,
+   "savings": 1149183.4527059975
+  },
+  {
+   "miles": 40,
+   "savings": 1313352.517378283
+  },
+  {
+   "miles": 45,
+   "savings": 1477521.5820505684
+  },
+  {
+   "miles": 50,
+   "savings": 1641690.6467228539
+  }
+ ]
+}

@@ -1,0 +1,582 @@
+EC1654
+
+
+
+
+                                                                                                                February 2026
+
+
+
+
+Projected 2026 Crop Budgets
+
+                                                             North Central
+                                                             North Dakota
+                                                             Ron Haugen, Farm Management Specialist
+
+
+This region consists of eight counties: Benson, Bottineau,
+McHenry, McLean, Pierce, Renville, Rolette and Ward.
+
+
+
+
+The 2026 crop budgets provide an estimate of                           by replacing the machinery investment and land
+revenues and costs for selected crops. Each set                        charge cost items with your per acre interest and
+of budgets are developed for a multi-county                            rental expense of machinery and land, and real estate
+region. There is considerable variation in soil type                   tax if land is owned.
+and productivity, weather conditions, as well as
+                                                                       The budget can be used for long run decisions if the
+management and production practices within each
+                                                                       revenues and costs are realistic for several years.
+region. Therefore, THESE BUDGETS ARE ONLY
+                                                                       (Crop prices, direct costs, and the land charge are
+INTENDED TO BE USED AS A GUIDE. EVERY
+                                                                       best estimates for only the 2026 crop year, but
+INDIVIDUAL IS HIGHLY ENCOURAGED TO
+                                                                       crop yields are historic averages and machinery
+DEVELOP THEIR OWN BUDGETS!
+                                                                       ownership costs are an average for the total length
+The profitability budget accounts for full economic                    of ownership). If the budget shows a high return to
+opportunity costs for land and machinery investment,                   labor and management, and is representative for
+regardless of farm operator equity position. The                       several years, increased acreage and corresponding
+bottom line is the return to labor and management.                     investment should be considered. However, if long-run
+This is the expected “payment” to the producer for                     returns to labor and management are unsatisfactory,
+the labor and managerial efforts required by the crop                  the best decision may be to exit the crop enterprise
+enterprise. Each individual must make the decision                     and employ the machinery and land investment, and
+whether it is sufficient.                                              labor and management, in a different enterprise or
+                                                                       investment.
+The budget can be changed to conform to the more
+common definition of accounting profit (return to                      For short-run planning decisions you can omit the
+unpaid labor and management and the owner equity)                      indirect costs if the land and machinery required to
+                                                                       produce the different enterprises are in place. Simply
+                                                                       compare the crop enterprises by calculating return
+                                                                       over direct costs. Labor requirements and risk should
+                                                                       also be considered. Insurance is not available for
+                                                                       some crops.
+
+
+North Dakota State University, Fargo, ND
+The budget can be used to estimate cashflow by                    Seed Prices:
+making a few modifications. Machinery depreciation                  Spring Wheat          13.00/bu
+should be omitted and the machinery investment                      Durum                 15.00/bu
+number replaced with your per acre principal and                    Barley                10.00/bu
+interest payment on machinery debt. For owned land,                 Corn GM                3.00/thou.kern.
+the land charge should be replaced with your per acre               Soybean GM              .34/thou.kern.
+                                                                    Dry Bean               1.00/thou.kern.
+real estate tax and principal and interest payment on
+                                                                    Oil Sunflower          1.70/thou.kern.
+land debt.
+                                                                    Conf. Sunflower        3.00/thou.kern.
+The current farm program continues the Price Loss                   Canola                15.00/lb
+Coverage (PLC) and Agricultural Risk Coverage                       Flax                  22.00/bu
+(ARC) support programs. PLC and ARC payments                        Field Pea             18.00/bu
+have been omitted from the budgets because those                    Oat                    8.00/bu
+                                                                    Lentil                  .30/lb
+payments, if any, are tied to historic farm program
+                                                                    Mustard                 .98/lb
+base acres, not to current crop selection or production.
+                                                                    Buckwheat               .52/lb
+                                                                    Millet                  .60/lb
+                                                                    Winter Wheat          11.00/bu
+Primary Assumptions:                                                Rye                    8.00/bu
+Crops are planted on dryland recrop ground. Costs of              Fuel Prices:
+moving crop to local market/storage are included.                   Diesel     2.55/gal
+The budgets for the South West, North West, South                   Gasoline 2.50/gal
+Central and North Central regions typically represent             Lubrication Charge: 15% of fuel cost
+production systems where soil disturbance only
+occurs at seeding.                                                Crop Insurance: Revenue Protection used for all
+                                                                    wheat, barley, soybean, corn, canola, sunflower,
+Market Price: Best estimates of NDSU Extension                      field pea, dry bean and lentil with a 75% coverage
+  economists. The greater of projected market price                 level and enterprise units. APH insurance was
+  and marketing loan rate is used.                                  used for other crops for which 70% coverage and
+Market Yields: Average yield for the 7-year period                  optional units were assumed.
+  2018-2024, after the low and high yield years are               Miscellaneous: Soil testing, machinery rent and
+  removed. Yields for safflower, yellow mustard,                    custom work.
+  buckwheat, millet, rye and chickpea are from NDSU
+  Extension agronomists and industry sources.                     Operating Interest: Direct costs charged 7.0%
+                                                                    interest for 6-month period.
+Fertilizer: Cost of fertilizer applied, based on soil test,
+  to meet yield goal. N fertilizer can be reduced if              Misc. Overhead: Machinery housing and insurance
+  previous crop was soybean, dry bean, field pea                    at .5% and .85%, respectively, of average
+  or lentil.                                                        machinery investment (also, liability insurance
+                                                                    and license fees of trucks). In addition, $5.00
+Fertilizer prices:                                                  per acre is assumed for general farm utilities,
+  Nitrogen         - .58/lb                                         farm publications, meetings, dues, income tax
+  Phosphorus - .68/lb                                               preparation, legal fees, etc.
+  Potassium        - .38/lb
+                                                                  Land Charge: Average cash rent.
+                                                                  Machinery Investment: 4.0% real interest rate,
+                                                                    over the years of machine ownership, is charged
+                                                                    on average machinery investment. The real, or
+                                                                    inflation adjusted, rate is the commercial rate
+                                                                    minus the inflation rate. Ave. mach. investment =
+                                                                    (Purchase price + Disposal price)/2
+                                                                  Depreciation: (Purchase price - disposal price /
+                                                                    years ownership)
+
+
+
+                                                              2
+                                         Spring Wheat                               Durum
+                                          Per Acre         Your Figures      Per Acre       Your Figures
+
+Market Yield                                    53         ____________              54    ____________
+Market Price                                  5.70         ____________            6.70*   ____________
+
+MARKET REVENUE                              302.10         ____________           361.8    ____________
+
+DIRECT COSTS
+   -Seed                                     22.10      ____________              30.00     ____________
+   -Herbicides                               29.30      ____________              29.30     ____________
+   -Fungicides**                             10.50      ____________              18.50     ____________
+   -Insecticides***                           0.00      ____________               0.00     ____________
+   -Fertilizer                               99.28      ____________             101.55     ____________
+   -Crop Insurance                            6.30      ____________               7.90     ____________
+   -Fuel & Lubrication                       15.96      ____________              16.01     ____________
+   -Repairs                                  25.21      ____________              25.24     ____________
+   -Drying                                    0.00      ____________               0.00     ____________
+   -Miscellaneous                             2.00      ____________               2.00     ____________
+   -Operating Interest                        7.37      ____________               8.07     ____________
+                                         ========      ============          ========      ============
+SUM OF LISTED DIRECT COSTS                  218.02      ____________            238.57      ____________
+
+INDIRECT (FIXED) COSTS
+   -Misc. Overhead                           10.75      ____________             10.77      ____________
+   -Machinery Depreciation                   29.69      ____________             29.76      ____________
+   -Machinery Investment                     15.38      ____________             15.41      ____________
+   -Land Charge                              57.00      ____________             57.00      ____________
+                                         ========      ============           =======      ============
+SUM OF LISTED INDIRECT COSTS                112.82      ____________            112.94      ____________
+
+SUM OF ALL LISTED COSTS                     330.84         ____________         351.51     ____________
+
+RETURN TO LABOR & MANAGEMENT                (28.74)        ____________          10.29     ____________
+
+LISTED COSTS PER BUDGET UNIT                  (bu) :                              (bu) :
+   -Direct Costs                               4.11        ____________            4.42    ____________
+   -Indirect Costs                             2.13        ____________            2.09    ____________
+   -Total Costs                                6.24        ____________            6.51    ____________
+
+Wheat notes:
+*Durum price is for milling quality. There is risk of lower quality and lower price.
+**Includes seed treatment, an early season foliar fungicide, and a late season fungicide. Prothioconazole,
+metconazole or pydiflumetofen containing products are highly recommended when conditions are favorable for
+fusarium head blight (scab).
+***Cereal grain aphid insecticide would cost about $4. Wheat midge insecticide would cost about $6.
+
+
+
+
+                                                       3
+                                          Malting Barley                           Corn Grain
+                                           Per Acre        Your Figures         Per Acre        Your Figures
+
+Market Yield                                        76    ____________                111     ____________
+Market Price                                      4.96*   ____________               3.75     ____________
+
+MARKET REVENUE                                 376.96     ____________             416.25     ____________
+
+DIRECT COSTS
+   -Seed                                        16.00    ____________              87.00*      ____________
+   -Herbicides                                  27.90    ____________              31.60       ____________
+   -Fungicides                                  18.50** ____________                0.00       ____________
+   -Insecticides                                 0.00    ____________               0.00       ____________
+   -Fertilizer                                  86.64    ____________             108.52       ____________
+   -Crop Insurance                               4.90    ____________               9.20       ____________
+   -Fuel & Lubrication                          17.15    ____________              22.97       ____________
+   -Repairs                                     25.76    ____________              31.49       ____________
+   -Drying                                       0.00    ____________              22.20       ____________
+   -Miscellaneous                                2.00    ____________               2.00       ____________
+   -Operating Interest                           6.96    ____________              11.02       ____________
+                                            ========    ============           ========       ============
+SUM OF LISTED DIRECT COSTS                     205.81    ____________             326.00       ____________
+
+INDIRECT (FIXED) COSTS
+   -Misc. Overhead                               11.18     ____________             13.95      ____________
+   -Machinery Depreciation                      31.20      ____________             47.72      ____________
+   -Machinery Investment                        15.96      ____________             23.28      ____________
+   -Land Charge                                 57.00      ____________             57.00      ____________
+                                            ========      ============           =======      ============
+SUM OF LISTED INDIRECT COSTS                   115.34      ____________            141.95      ____________
+
+SUM OF ALL LISTED COSTS                         321.15    ____________             467.95     ____________
+
+RETURN TO LABOR & MANAGEMENT                    55.81     ____________             (51.70)    ____________
+
+LISTED COSTS PER BUDGET UNIT                     (bu) :                              (bu) :
+   -Direct Costs                                  2.71    ____________                2.94    ____________
+   -Indirect Costs                                1.52    ____________                1.28    ____________
+   -Total Costs                                   4.23    ____________                4.22    ____________
+
+Barley notes:
+*There is risk of not making malting barley quality. Use $3.00 for feed barley.
+**Includes seed treatment, an early season foliar fungicide, and a late season fungicide fungicide recommended
+when conditions are favorable for fusarium head blight (scab).
+
+Corn notes:
+*GM corn with herbicide tolerance and above ground insect control traits.
+
+
+
+
+                                                      4
+                                                Soybean                                 Drybean
+                                           Per Acre           Your Figures       Per Acre         Your Figures
+
+Market Yield                                       31        ____________             1580       ____________
+Market Price                                     9.60        ____________             0.27       ____________
+
+MARKET REVENUE                                 297.60        ____________           426.60       ____________
+
+DIRECT COSTS
+   -Seed                                       65.80*   ____________                 82.50       ____________
+   -Herbicides                                 27.20    ____________                 54.70*      ____________
+   -Fungicides                                  0.00    ____________                 20.00**     ____________
+   -Insecticides                                0.00** ____________                   0.00       ____________
+   -Fertilizer                                 11.33    ____________                 43.52       ____________
+   -Crop Insurance                              4.70    ____________                 13.10       ____________
+   -Fuel & Lubrication                         12.21    ____________                 17.37       ____________
+   -Repairs                                    20.99    ____________                 27.39       ____________
+   -Drying                                      0.00    ____________                  0.00       ____________
+   -Miscellaneous                               5.50    ____________                 15.50       ____________
+   -Operating Interest                          5.17    ____________                  9.59       ____________
+                                           ========    ============              ========       ============
+SUM OF LISTED DIRECT COSTS                    152.90    ____________                283.67       ____________
+
+INDIRECT (FIXED) COSTS
+   -Misc. Overhead                              9.64          ____________            11.15      ____________
+   -Machinery Depreciation                     26.30          ____________           34.25       ____________
+   -Machinery Investment                       12.78          ____________           17.41       ____________
+   -Land Charge                                57.00          ____________           57.00       ____________
+                                           ========          ============         =======       ============
+SUM OF LISTED INDIRECT COSTS                  105.72          ____________          119.81       ____________
+
+SUM OF ALL LISTED COSTS                       258.62         ____________           403.48       ____________
+
+RETURN TO LABOR & MANAGEMENT                    38.98        ____________             23.12      ____________
+
+LISTED COSTS PER BUDGET UNIT                    (bu) :                                 (lb) :
+   -Direct Costs                                 4.93        ____________             0.180      ____________
+   -Indirect Costs                               3.41        ____________             0.076      ____________
+   -Total Costs                                  8.34        ____________             0.255      ____________
+
+Soybean notes:
+*GM soybeans with herbicide tolerance. The cost includes $8 for inculant and fungicide treatment in addition to
+seed expense.
+**Insecticide for soybean aphid, spider mite, or foliage-feeding caterpillars would cost about $4 per acre plus
+application.
+
+Drybean notes:
+*Includes dessicant prior to straight cutting.
+**Fungicide for white mold. Fungicide for rust at $4-$12 plus application maybe necessary.
+
+
+
+
+                                                         5
+                                                  Oil                            Confectionery
+                                               Sunflower                           Sunflower
+                                           Per Acre            Your Figures      Per Acre         Your Figures
+
+Market Yield                                     1860         ____________            1700      ____________
+Market Price                                    0.209         ____________           0.279      ____________
+
+MARKET REVENUE                                 388.74         ____________          474.30      ____________
+
+DIRECT COSTS
+   -Seed                                       35.70   ____________                  54.00       ____________
+   -Herbicides                                 37.20   ____________                  40.20       ____________
+   -Fungicides                                  0.00* ____________                    0.00*      ____________
+   -Insecticides                                5.00** ____________                  10.00**     ____________
+   -Fertilizer                                 64.41   ____________                  57.07       ____________
+   -Crop Insurance                              8.70   ____________                  13.60       ____________
+   -Fuel & Lubrication                         16.99   ____________                  16.70       ____________
+   -Repairs                                    25.09   ____________                  24.92       ____________
+   -Drying                                      7.44   ____________                   6.80       ____________
+   -Miscellaneous                              12.00   ____________                  22.00       ____________
+   -Operating Interest                          7.44   ____________                   8.59       ____________
+                                           ======== ============                 ========       ============
+SUM OF LISTED DIRECT COSTS                    219.97   ____________                 253.88       ____________
+
+INDIRECT (FIXED) COSTS
+   -Misc. Overhead                             11.39           ____________          11.28       ____________
+   -Machinery Depreciation                     32.40           ____________          32.02       ____________
+   -Machinery Investment                       17.12           ____________          16.96       ____________
+   -Land Charge                                57.00           ____________          57.00       ____________
+                                           ========           ============        =======       ============
+SUM OF LISTED INDIRECT COSTS                  117.91           ____________         117.26       ____________
+
+SUM OF ALL LISTED COSTS                        337.88         ____________           371.14     ____________
+
+RETURN TO LABOR & MANAGEMENT                    50.86         ____________          103.16      ____________
+
+LISTED COSTS PER BUDGET UNIT                     (lb) :                               (lb) :
+   -Direct Costs                                0.118         ____________           0.149      ____________
+   -Indirect Costs                              0.063         ____________           0.069      ____________
+   -Total Costs                                 0.182         ____________           0.218      ____________
+
+Oil Sunflower notes:
+*Fungicide for rust would cost $4 plus application.
+**One spraying for head feeding insects (red seed weevil, lygus bug and banded moths). Custom application
+cost of $8 is under “Miscellaneous.” Foliar applied insecticide for cutworms would cost about $5 per acre plus
+application (usually tank mixed with herbicide).
+
+Confection Sunflower notes:
+*Fungicide for rust would cost $4 plus application.
+**Two sprayings for head feeding insects (red seed weevil, lygus bug and banded moths) at about $5 per
+application. Each custom application cost of $8 is under “Miscellaneous.” Foliar applied insecticide for cutworms
+would cost about $5 per acre plus application (usually tank mixed with herbicide).
+
+                                                          6
+                                                  Canola                                  Flax
+                                           Per Acre           Your Figures   Per Acre       Your Figures
+
+Market Yield                                     1960         ____________          21     ____________
+Market Price                                    0.205         ____________       13.44     ____________
+
+MARKET REVENUE                                 401.80         ____________      282.24     ____________
+
+DIRECT COSTS
+   -Seed                                       75.00  ____________               19.80      ____________
+   -Herbicides                                 15.60  ____________               33.60      ____________
+   -Fungicides                                  0.00* ____________                0.00*     ____________
+   -Insecticides                                0.00  ____________                0.00      ____________
+   -Fertilizer                                110.94  ____________               35.26      ____________
+   -Crop Insurance                              7.80  ____________               10.70      ____________
+   -Fuel & Lubrication                         15.07  ____________               15.05      ____________
+   -Repairs                                    24.05  ____________               25.11      ____________
+   -Drying                                      0.00  ____________                0.00      ____________
+   -Miscellaneous                               2.00  ____________                2.00      ____________
+   -Operating Interest                          8.77  ____________                4.95      ____________
+                                           ======== ============             ========      ============
+SUM OF LISTED DIRECT COSTS                    259.23  ____________              146.47      ____________
+
+INDIRECT (FIXED) COSTS
+   -Misc. Overhead                             10.27       ____________          10.37      ____________
+   -Machinery Depreciation                     29.43       ____________          29.66      ____________
+   -Machinery Investment                       14.48       ____________          15.25      ____________
+   -Land Charge                                57.00       ____________          57.00      ____________
+                                           ========       ============        =======      ============
+SUM OF LISTED INDIRECT COSTS                  111.18       ____________         112.28      ____________
+
+SUM OF ALL LISTED COSTS                        370.41         ____________      258.75     ____________
+
+RETURN TO LABOR & MANAGEMENT                    31.39         ____________       23.49     ____________
+
+LISTED COSTS PER BUDGET UNIT                     (lb) :                          (bu) :
+   -Direct Costs                                0.132         ____________        6.97     ____________
+   -Indirect Costs                              0.057         ____________        5.35     ____________
+   -Total Costs                                 0.189         ____________       12.32     ____________
+
+Canola notes:
+*Fungicide for white mold would cost about $18 plus application.
+
+
+
+
+                                                          7
+                                               Field Pea                                     Oat
+                                          Per Acre           Your Figures       Per Acre       Your Figures
+
+Market Yield                                 36.4371        ____________              93      ____________
+Market Price                                     7.00       ____________            2.49      ____________
+
+MARKET REVENUE                                255.06        ____________          231.57      ____________
+
+DIRECT COSTS
+   -Seed                                       54.00  ____________                16.00        ____________
+   -Herbicides                                 39.70  ____________                12.30        ____________
+   -Fungicides                                  3.00  ____________                 0.00        ____________
+   -Insecticides                                0.00* ____________                 0.00        ____________
+   -Fertilizer                                 15.38  ____________                91.75        ____________
+   -Crop Insurance                              8.30  ____________                11.80        ____________
+   -Fuel & Lubrication                         14.23  ____________                19.34        ____________
+   -Repairs                                    23.97  ____________                27.23        ____________
+   -Drying                                      0.00  ____________                 0.00        ____________
+   -Miscellaneous                              10.00  ____________                 2.00        ____________
+   -Operating Interest                          5.90  ____________                 6.31        ____________
+                                           ======== ============              ========        ============
+SUM OF LISTED DIRECT COSTS                    174.48  ____________               186.73        ____________
+
+INDIRECT (FIXED) COSTS
+   -Misc. Overhead                             10.20         ____________         12.05        ____________
+   -Machinery Depreciation                     29.65         ____________         34.49        ____________
+   -Machinery Investment                       14.27         ____________         18.01        ____________
+   -Land Charge                                57.00         ____________         57.00        ____________
+                                           ========         ============       =======        ============
+SUM OF LISTED INDIRECT COSTS                  111.12         ____________        121.55        ____________
+
+SUM OF ALL LISTED COSTS                       285.60        ____________          308.28      ____________
+
+RETURN TO LABOR & MANAGEMENT                  (30.54)       ____________          (76.71)     ____________
+
+LISTED COSTS PER BUDGET UNIT                    (bu) :                              (bu) :
+   -Direct Costs                                 4.79       ____________             2.01     ____________
+   -Indirect Costs                               3.05       ____________             1.31     ____________
+   -Total Costs                                  7.84       ____________             3.31     ____________
+
+Field Pea notes:
+*Foliar insecticide for cutworms and/or pea aphids would cost about $4 per acre plus application.
+
+
+
+
+                                                        8
+                                                      Lentil                  Yellow Mustard
+                                           Per Acre            Your Figures   Per Acre         Your Figures
+
+Market Yield                                     1500         ____________           850      ____________
+Market Price                                      0.19        ____________         0.300      ____________
+
+MARKET REVENUE                                 285.00         ____________       255.00       ____________
+
+DIRECT COSTS
+   -Seed                                       21.00     ____________             13.72       ____________
+   -Herbicides                                 39.20* ____________                22.60       ____________
+   -Fungicides                                 16.00** ____________                0.00       ____________
+   -Insecticides                                0.00*** ____________               6.00*      ____________
+   -Fertilizer                                 10.58     ____________             32.47       ____________
+   -Crop Insurance                              8.70     ____________             16.00**     ____________
+   -Fuel & Lubrication                         15.70     ____________             14.96       ____________
+   -Repairs                                    27.55     ____________             24.66       ____________
+   -Drying                                      0.00     ____________              0.00       ____________
+   -Miscellaneous                              10.00     ____________              2.00       ____________
+   -Operating Interest                          5.21     ____________              4.63       ____________
+                                           ========     ============          ========       ============
+SUM OF LISTED DIRECT COSTS                    153.94     ____________            137.04       ____________
+
+INDIRECT (FIXED) COSTS
+   -Misc. Overhead                             10.88           ____________       10.44       ____________
+   -Machinery Depreciation                     33.76           ____________       28.78       ____________
+   -Machinery Investment                       16.20           ____________       15.64       ____________
+   -Land Charge                                57.00           ____________       57.00       ____________
+                                           ========           ============     =======       ============
+SUM OF LISTED INDIRECT COSTS                  117.84           ____________      111.86       ____________
+
+SUM OF ALL LISTED COSTS                        271.78         ____________       248.90       ____________
+
+RETURN TO LABOR & MANAGEMENT                    13.22         ____________          6.10      ____________
+
+LISTED COSTS PER BUDGET UNIT                     (lb) :                             (lb) :
+   -Direct Costs                                0.103         ____________         0.161      ____________
+   -Indirect Costs                              0.079         ____________         0.132      ____________
+   -Total Costs                                 0.181         ____________         0.293      ____________
+
+Lentil notes:
+*Includes pre-harvest dessicant.
+**Fungicide treatment for ascochyta/anthracnose.
+***Foliar insecticide cutworms, pea aphids and/or grasshoppers would cost about $4 per acre plus application.
+
+Yellow Mustard notes:
+*Insecticide seed treatment for flea beetles.
+**Crop insurance is not available in some counties of the region.
+
+
+
+
+                                                          9
+                                              Buckwheat                                 Millet
+                                            Per Acre         Your Figures    Per Acre      Your Figures
+
+Market Yield                                      950       ____________         1300     ____________
+Market Price                                      0.19      ____________          0.11    ____________
+
+MARKET REVENUE                                  180.50      ____________       143.00     ____________
+
+DIRECT COSTS
+   -Seed                                        26.00  ____________             15.00      ____________
+   -Herbicides                                  20.70  ____________              11.10     ____________
+   -Fungicides                                   0.00  ____________               0.00     ____________
+   -Insecticides                                 0.00  ____________               0.00     ____________
+   -Fertilizer                                  21.72  ____________             21.28      ____________
+   -Crop Insurance                               7.80* ____________               0.00     ____________
+   -Fuel & Lubrication                          14.64  ____________             15.57      ____________
+   -Repairs                                     23.80  ____________             25.01      ____________
+   -Drying                                       0.00  ____________               0.00     ____________
+   -Miscellaneous                                2.00  ____________               2.00     ____________
+   -Operating Interest                           4.08  ____________               3.15     ____________
+                                            ======== ============           ========      ============
+SUM OF LISTED DIRECT COSTS                     120.74  ____________             93.11      ____________
+
+INDIRECT (FIXED) COSTS
+   -Misc. Overhead                              10.24        ____________       10.66      ____________
+   -Machinery Depreciation                      28.21        ____________       29.57      ____________
+   -Machinery Investment                        14.86        ____________       15.97      ____________
+   -Land Charge                                 57.00        ____________       57.00      ____________
+                                            ========        ============     =======      ============
+SUM OF LISTED INDIRECT COSTS                   110.31        ____________      113.20      ____________
+
+SUM OF ALL LISTED COSTS                         231.05      ____________       206.31     ____________
+
+RETURN TO LABOR & MANAGEMENT                    (50.55)     ____________       (63.31)    ____________
+
+LISTED COSTS PER BUDGET UNIT                      (lb) :                         (lb) :
+   -Direct Costs                                 0.127      ____________        0.072     ____________
+   -Indirect Costs                               0.116      ____________        0.087     ____________
+   -Total Costs                                  0.243      ____________        0.159     ____________
+
+Buckwheat notes:
+*Crop insurance is not available in most counties of the region.
+
+
+
+
+                                                       10
+                                          Winter Wheat                                        Rye
+                                          Per Acre            Your Figures     Per Acre         Your Figures
+
+Market Yield                                      59*        ____________              46      ____________
+Market Price                                    4.92         ____________            4.23      ____________
+
+MARKET REVENUE                                290.28         ____________        194.58        ____________
+
+DIRECT COSTS
+   -Seed                                      12.10           ____________        9.60          ____________
+   -Herbicides                                26.80           ____________        4.00          ____________
+   -Fungicides                                10.00           ____________        0.00          ____________
+   -Insecticides                               0.00           ____________        0.00          ____________
+   -Fertilizer                               112.89           ____________       83.41          ____________
+   -Crop Insurance                             6.30           ____________       15.50          ____________
+   -Fuel & Lubrication                        15.00           ____________       14.35          ____________
+   -Repairs                                   22.65           ____________       21.86          ____________
+   -Drying                                     0.00           ____________        0.00          ____________
+   -Miscellaneous                             10.00           ____________       10.00          ____________
+   -Operating Interest                         7.55           ____________        5.56          ____________
+                                          ========           ============    ========          ============
+SUM OF LISTED DIRECT COSTS                   223.29           ____________      164.28          ____________
+
+INDIRECT (FIXED) COSTS
+   -Misc. Overhead                            10.08           ____________         9.87         ____________
+   -Machinery Depreciation                    27.38           ____________        26.49         ____________
+   -Machinery Investment                      13.22           ____________        12.99         ____________
+   -Land Charge                               57.00           ____________        57.00         ____________
+                                          ========           ============      =======         ============
+SUM OF LISTED INDIRECT COSTS                 107.68           ____________       106.35         ____________
+
+SUM OF ALL LISTED COSTS                       330.97         ____________        270.63        ____________
+
+RETURN TO LABOR & MANAGEMENT                 (40.69)         ____________        (76.05)       ____________
+
+LISTED COSTS PER BUDGET UNIT                   (bu) :                                (bu) :
+   -Direct Costs                                3.78         ____________             3.57     ____________
+   -Indirect Costs                              1.83         ____________             2.31     ____________
+   -Total Costs                                 5.61         ____________             5.88     ____________
+
+Winter Wheat notes:
+*Yield is per harvested acre. There is some risk of acreage abandonment in spring.
+
+
+
+
+                                                        11
+NDSU Extension does not endorse commercial products or companies even though reference may be made to tradenames, trademarks or service names.
+
+
+
+For more information on this and other topics, see www.ndsu.edu/extension
+County commissions, North Dakota State University and U.S. Department of Agriculture cooperating. NDSU does not discriminate in its programs and activities on the basis of age, color,
+gender expression/identity, genetic information, marital status, national origin, participation in lawful off-campus activity, physical or mental disability, pregnancy, public assistance status,
+race, religion, sex, sexual orientation, spousal relationship to current employee, or veteran status, as applicable. Direct inquiries to Vice Provost, Title IX/ADA Coordinator, Old Main 100,
+701-231-7708, ndsu.eoaa@ndsu.edu. This publication will be made available in alternative formats for people with disabilities upon request, 701-231-7881.                                  620-2-256
+

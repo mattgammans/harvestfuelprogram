@@ -1,0 +1,854 @@
+
+Crop Progress
+
+ISSN: 1948-3007
+
+Released October 23, 2017, by the National Agricultural Statistics Service 
+(NASS), Agricultural Statistics Board, United States Department of 
+Agriculture (USDA).
+
+Corn Mature - Selected States
+[These 18 States planted 92% of the 2016 corn acreage]
+------------------------------------------------------------------------
+                :               Week ending               :             
+                :-----------------------------------------:             
+      State     : October 22, : October 15, : October 22, :  2012-2016  
+                :    2016     :    2017     :    2017     :   Average   
+------------------------------------------------------------------------
+                :                        percent                        
+                :                                                       
+Colorado .......:      94            73            86            96     
+Illinois .......:     100            95           100            99     
+Indiana ........:     100            91            95            98     
+Iowa ...........:      99            94            98            99     
+Kansas .........:     100            92            95            99     
+Kentucky .......:     100            96            99            99     
+Michigan .......:      94            83            91            92     
+Minnesota ......:     100            89            97            98     
+Missouri .......:     100           100           100           100     
+Nebraska .......:      99            92            97            97     
+North Carolina .:     100           100           100           100     
+North Dakota ...:      97            80            93            96     
+Ohio ...........:      95            86            92            96     
+Pennsylvania ...:      97            84            89            95     
+South Dakota ...:     100            88            95            98     
+Tennessee ......:     100            99           100           100     
+Texas ..........:      98            95            98            96     
+Wisconsin ......:      98            70            82            90     
+                :                                                       
+18 States ......:      99            90            96            97     
+------------------------------------------------------------------------
+
+Corn Harvested - Selected States
+[These 18 States harvested 94% of the 2016 corn acreage]
+------------------------------------------------------------------------
+                :               Week ending               :             
+                :-----------------------------------------:             
+      State     : October 22, : October 15, : October 22, :  2012-2016  
+                :    2016     :    2017     :    2017     :   Average   
+------------------------------------------------------------------------
+                :                        percent                        
+                :                                                       
+Colorado .......:     50            12            18            45      
+Illinois .......:     82            47            62            74      
+Indiana ........:     62            34            46            59      
+Iowa ...........:     49            13            23            55      
+Kansas .........:     85            54            65            82      
+Kentucky .......:     93            72            81            85      
+Michigan .......:     25            19            34            31      
+Minnesota ......:     52             7            14            55      
+Missouri .......:     86            60            69            81      
+Nebraska .......:     48            17            26            52      
+North Carolina .:     96            92            95            94      
+North Dakota ...:     36             8            17            43      
+Ohio ...........:     47            21            35            46      
+Pennsylvania ...:     49            30            41            49      
+South Dakota ...:     45            12            19            51      
+Tennessee ......:     98            91            95            91      
+Texas ..........:     84            80            83            83      
+Wisconsin ......:     36             9            15            37      
+                :                                                       
+18 States ......:     59            28            38            59      
+------------------------------------------------------------------------
+
+Corn Condition - Selected States: Week Ending October 22, 2017
+[These 18 States planted 92% of the 2016 corn acreage]
+----------------------------------------------------------------------------
+      State     : Very poor :   Poor    :   Fair    :   Good    : Excellent 
+----------------------------------------------------------------------------
+                :                          percent                          
+                :                                                           
+Colorado .......:     1           5          16          56          22     
+Illinois .......:     4           7          26          48          15     
+Indiana ........:     5          11          26          45          13     
+Iowa ...........:     3           8          25          53          11     
+Kansas .........:     3          13          24          49          11     
+Kentucky .......:     2           3          11          65          19     
+Michigan .......:     3          12          30          44          11     
+Minnesota ......:     1           3          15          64          17     
+Missouri .......:     2           6          27          49          16     
+Nebraska .......:     3           8          23          46          20     
+North Carolina .:     1           3          19          46          31     
+North Dakota ...:     5          10          26          51           8     
+Ohio ...........:     2           6          27          51          14     
+Pennsylvania ...:     -           1           9          43          47     
+South Dakota ...:     9          15          31          37           8     
+Tennessee ......:     1           2          10          44          43     
+Texas ..........:     -           3          18          57          22     
+Wisconsin ......:     2           9          19          46          24     
+                :                                                           
+18 States ......:     3           8          23          50          16     
+                :                                                           
+Previous week ..:     3           8          24          50          15     
+Previous year ..:     2           5          19          54          20     
+----------------------------------------------------------------------------
+-  Represents zero.                                                         
+
+Soybeans Dropping Leaves - Selected States
+[These 18 States planted 95% of the 2016 soybean acreage]
+------------------------------------------------------------------------
+                :               Week ending               :             
+                :-----------------------------------------:             
+      State     : October 22, : October 15, : October 22, :  2012-2016  
+                :    2016     :    2017     :    2017     :   Average   
+------------------------------------------------------------------------
+                :                        percent                        
+                :                                                       
+Arkansas .......:      99            95            98            94     
+Illinois .......:     100            94            98            98     
+Indiana ........:      99            95            98            99     
+Iowa ...........:      99            96            98            98     
+Kansas .........:      94            93            96            95     
+Kentucky .......:      90            77            83            89     
+Louisiana ......:     100           100           100            99     
+Michigan .......:      97            95            97            99     
+Minnesota ......:     100            98           100           100     
+Mississippi ....:      98            95            97            98     
+Missouri .......:      96            82            91            92     
+Nebraska .......:     100            98            99           100     
+North Carolina .:      82            76            88            80     
+North Dakota ...:     100           100           100           100     
+Ohio ...........:     100            95            97            99     
+South Dakota ...:     100            99           100           100     
+Tennessee ......:      95            90            97            92     
+Wisconsin ......:     100            92            96            98     
+                :                                                       
+18 States ......:      98            94            97            97     
+------------------------------------------------------------------------
+
+Soybeans Harvested - Selected States
+[These 18 States harvested 95% of the 2016 soybean acreage]
+------------------------------------------------------------------------
+                :               Week ending               :             
+                :-----------------------------------------:             
+      State     : October 22, : October 15, : October 22, :  2012-2016  
+                :    2016     :    2017     :    2017     :   Average   
+------------------------------------------------------------------------
+                :                        percent                        
+                :                                                       
+Arkansas .......:     84            73            82            71      
+Illinois .......:     73            63            77            73      
+Indiana ........:     69            52            69            67      
+Iowa ...........:     75            32            61            81      
+Kansas .........:     49            34            56            55      
+Kentucky .......:     55            33            45            47      
+Louisiana ......:     96            95            98            94      
+Michigan .......:     48            61            74            59      
+Minnesota ......:     94            45            83            93      
+Mississippi ....:     91            80            88            88      
+Missouri .......:     54            30            45            48      
+Nebraska .......:     76            33            67            83      
+North Carolina .:     23            26            34            16      
+North Dakota ...:     93            72            89            87      
+Ohio ...........:     77            54            76            69      
+South Dakota ...:     87            48            81            90      
+Tennessee ......:     73            38            49            50      
+Wisconsin ......:     68            44            64            70      
+                :                                                       
+18 States ......:     74            49            70            73      
+------------------------------------------------------------------------
+
+Cotton Bolls Opening - Selected States
+[These 15 States planted 98% of the 2016 cotton acreage]
+------------------------------------------------------------------------
+                :               Week ending               :             
+                :-----------------------------------------:             
+      State     : October 22, : October 15, : October 22, :  2012-2016  
+                :    2016     :    2017     :    2017     :   Average   
+------------------------------------------------------------------------
+                :                        percent                        
+                :                                                       
+Alabama ........:      99            86            89            95     
+Arizona ........:     100            99           100           100     
+Arkansas .......:     100           100           100            99     
+California .....:      99            80            83            97     
+Georgia ........:      97            95            97            95     
+Kansas .........:      82            72            87            83     
+Louisiana ......:     100           100           100           100     
+Mississippi ....:     100            93            97            99     
+Missouri .......:     100            97           100            92     
+North Carolina .:      96            90            94            95     
+Oklahoma .......:      90            91            94            92     
+South Carolina .:      95            97            99            91     
+Tennessee ......:      99            98           100            93     
+Texas ..........:      89            73            80            87     
+Virginia .......:      99            99           100            98     
+                :                                                       
+15 States ......:      92            82            87            91     
+------------------------------------------------------------------------
+
+Cotton Harvested - Selected States
+[These 15 States harvested 98% of the 2016 cotton acreage]
+------------------------------------------------------------------------
+                :               Week ending               :             
+                :-----------------------------------------:             
+      State     : October 22, : October 15, : October 22, :  2012-2016  
+                :    2016     :    2017     :    2017     :   Average   
+------------------------------------------------------------------------
+                :                        percent                        
+                :                                                       
+Alabama ........:     60            33            45            42      
+Arizona ........:     32            24            28            30      
+Arkansas .......:     83            52            71            64      
+California .....:     35            15            25            44      
+Georgia ........:     45            27            37            32      
+Kansas .........:      8             7             9             8      
+Louisiana ......:     94            76            83            88      
+Mississippi ....:     79            46            59            70      
+Missouri .......:     71            42            63            48      
+North Carolina .:     19            20            31            20      
+Oklahoma .......:     27            11            22            19      
+South Carolina .:     19            29            42            22      
+Tennessee ......:     59            39            56            39      
+Texas ..........:     27            30            31            28      
+Virginia .......:     23            19            43            22      
+                :                                                       
+15 States ......:     38            31            37            35      
+------------------------------------------------------------------------
+
+Cotton Condition - Selected States: Week Ending October 22, 2017
+[These 15 States planted 98% of the 2016 cotton acreage]
+----------------------------------------------------------------------------
+      State     : Very poor :   Poor    :   Fair    :   Good    : Excellent 
+----------------------------------------------------------------------------
+                :                          percent                          
+                :                                                           
+Alabama ........:     1           8          35          47           9     
+Arizona ........:     2           3          16          55          24     
+Arkansas .......:     1           3          11          46          39     
+California .....:     -           -           -          10          90     
+Georgia ........:     7          19          28          39           7     
+Kansas .........:     3           8          29          55           5     
+Louisiana ......:     1          28          45          26           -     
+Mississippi ....:     -           6          30          45          19     
+Missouri .......:     1           9          31          47          12     
+North Carolina .:     1           4          17          57          21     
+Oklahoma .......:     -           1           8          89           2     
+South Carolina .:     -           -          15          51          34     
+Tennessee ......:     -           2           9          66          23     
+Texas ..........:     7           9          35          36          13     
+Virginia .......:     -           -          15          79           6     
+                :                                                           
+15 States ......:     5           9          30          42          14     
+                :                                                           
+Previous week ..:     5           8          29          43          15     
+Previous year ..:     4          12          36          39           9     
+----------------------------------------------------------------------------
+-  Represents zero.                                                         
+
+Sorghum Mature - Selected States
+[These 11 States planted 99% of the 2016 sorghum acreage]
+------------------------------------------------------------------------
+                :               Week ending               :             
+                :-----------------------------------------:             
+      State     : October 22, : October 15, : October 22, :  2012-2016  
+                :    2016     :    2017     :    2017     :   Average   
+------------------------------------------------------------------------
+                :                        percent                        
+                :                                                       
+Arkansas .......:     100           100           100           100     
+Colorado .......:      93            63            85            88     
+Illinois .......:      91            87            91            94     
+Kansas .........:      94            75            87            89     
+Louisiana ......:     100           100           100           100     
+Missouri .......:      99            91            94            96     
+Nebraska .......:     100            92            96            98     
+New Mexico .....:      61            61            77            54     
+Oklahoma .......:      96            87            93            93     
+South Dakota ...:      99            68            76            95     
+Texas ..........:      93            89            92            91     
+                :                                                       
+11 States ......:      93            81            89            90     
+------------------------------------------------------------------------
+
+Sorghum Harvested - Selected States
+[These 11 States harvested 99% of the 2016 sorghum acreage]
+------------------------------------------------------------------------
+                :               Week ending               :             
+                :-----------------------------------------:             
+      State     : October 22, : October 15, : October 22, :  2012-2016  
+                :    2016     :    2017     :    2017     :   Average   
+------------------------------------------------------------------------
+                :                        percent                        
+                :                                                       
+Arkansas .......:     100           100           100            98     
+Colorado .......:      57             4            13            33     
+Illinois .......:      59            60            69            67     
+Kansas .........:      54            13            24            45     
+Louisiana ......:     100           100           100           100     
+Missouri .......:      75            49            61            62     
+Nebraska .......:      65            22            34            51     
+New Mexico .....:       2             6            13             6     
+Oklahoma .......:      62            46            54            62     
+South Dakota ...:      78             6            21            63     
+Texas ..........:      77            79            80            75     
+                :                                                       
+11 States ......:      66            40            47            59     
+------------------------------------------------------------------------
+
+Sorghum Condition - Selected States: Week Ending October 22, 2017
+[These 11 States planted 99% of the 2016 sorghum acreage]
+----------------------------------------------------------------------------
+      State     : Very poor :   Poor    :   Fair    :   Good    : Excellent 
+----------------------------------------------------------------------------
+                :                          percent                          
+                :                                                           
+Arkansas .......:     -          10          36          47           7     
+Colorado .......:     3           5          12          60          20     
+Illinois .......:     8          19          28          28          17     
+Kansas .........:     2           8          32          46          12     
+Louisiana ......:     -           1          36          59           4     
+Missouri .......:     -           8          29          57           6     
+Nebraska .......:     3           2          20          53          22     
+New Mexico .....:     1           -          54          37           8     
+Oklahoma .......:     -           4          34          57           5     
+South Dakota ...:    14          19          48          19           -     
+Texas ..........:     1           3          18          62          16     
+                :                                                           
+11 States ......:     2           6          27          52          13     
+                :                                                           
+Previous week ..:     2           6          27          52          13     
+Previous year ..:     1           5          29          51          14     
+----------------------------------------------------------------------------
+-  Represents zero.                                                         
+
+Peanuts Harvested - Selected States
+[These 8 States harvested 96% of the 2016 peanut acreage]
+------------------------------------------------------------------------
+                :               Week ending               :             
+                :-----------------------------------------:             
+      State     : October 22, : October 15, : October 22, :  2012-2016  
+                :    2016     :    2017     :    2017     :   Average   
+------------------------------------------------------------------------
+                :                        percent                        
+                :                                                       
+Alabama ........:     84            61            67            66      
+Florida ........:     88            73            83            81      
+Georgia ........:     68            54            67            60      
+North Carolina .:     34            41            59            50      
+Oklahoma .......:     45            19            46            46      
+South Carolina .:     39            50            57            53      
+Texas ..........:     42            15            30            44      
+Virginia .......:     53            57            80            51      
+                :                                                       
+8 States .......:     65            51            63            61      
+------------------------------------------------------------------------
+
+Rice Harvested - Selected States
+[These 6 States harvested 100% of the 2016 rice acreage]
+------------------------------------------------------------------------
+                :               Week ending               :             
+                :-----------------------------------------:             
+      State     : October 22, : October 15, : October 22, :  2012-2016  
+                :    2016     :    2017     :    2017     :   Average   
+------------------------------------------------------------------------
+                :                        percent                        
+                :                                                       
+Arkansas .......:      99            97            99            95     
+California .....:      84            60            92            84     
+Louisiana ......:     100           100           100           100     
+Mississippi ....:      96            96            98            96     
+Missouri .......:      99            88            92            91     
+Texas ..........:     100           100           100           100     
+                :                                                       
+6 States .......:      96            91            98            93     
+------------------------------------------------------------------------
+
+Sugarbeets Harvested - Selected States
+[These 4 States harvested 83% of the 2016 sugarbeet acreage]
+------------------------------------------------------------------------
+                :               Week ending               :             
+                :-----------------------------------------:             
+      State     : October 22, : October 15, : October 22, :  2012-2016  
+                :    2016     :    2017     :    2017     :   Average   
+------------------------------------------------------------------------
+                :                        percent                        
+                :                                                       
+Idaho ..........:     62            42            51            60      
+Michigan .......:     33            32            37            35      
+Minnesota ......:     88            74            85            89      
+North Dakota ...:     94            89            95            92      
+                :                                                       
+4 States .......:     76            65            74            76      
+------------------------------------------------------------------------
+
+Sunflowers Harvested - Selected States
+[These 4 States harvested 87% of the 2016 sunflower acreage]
+------------------------------------------------------------------------
+                :               Week ending               :             
+                :-----------------------------------------:             
+      State     : October 22, : October 15, : October 22, :  2012-2016  
+                :    2016     :    2017     :    2017     :   Average   
+------------------------------------------------------------------------
+                :                        percent                        
+                :                                                       
+Colorado .......:     34             2            13            40      
+Kansas .........:     36             5            17            33      
+North Dakota ...:     36            12            32            37      
+South Dakota ...:     54            15            32            43      
+                :                                                       
+4 States .......:     44            12            30            39      
+------------------------------------------------------------------------
+
+Winter Wheat Planted - Selected States
+[These 18 States planted 90% of the 2016 winter wheat acreage]
+------------------------------------------------------------------------
+                :               Week ending               :             
+                :-----------------------------------------:             
+      State     : October 22, : October 15, : October 22, :  2012-2016  
+                :    2016     :    2017     :    2017     :   Average   
+------------------------------------------------------------------------
+                :                        percent                        
+                :                                                       
+Arkansas .......:      43           31            41            37      
+California .....:      29           15            20            26      
+Colorado .......:      97           84            94            97      
+Idaho ..........:      86           90            96            91      
+Illinois .......:      64           51            70            63      
+Indiana ........:      68           45            67            68      
+Kansas .........:      82           42            67            86      
+Michigan .......:      71           75            88            78      
+Missouri .......:      46           26            43            46      
+Montana ........:      88           81            92            91      
+Nebraska .......:     100           86            94            98      
+North Carolina .:      14           14            24            15      
+Ohio ...........:      82           56            82            77      
+Oklahoma .......:      82           57            72            85      
+Oregon .........:      81           74            82            79      
+South Dakota ...:      99           89            96            94      
+Texas ..........:      67           66            70            70      
+Washington .....:      90           79            90            91      
+                :                                                       
+18 States ......:      78           60            75            80      
+------------------------------------------------------------------------
+
+Winter Wheat Emerged - Selected States
+[These 18 States planted 90% of the 2016 winter wheat acreage]
+------------------------------------------------------------------------
+                :               Week ending               :             
+                :-----------------------------------------:             
+      State     : October 22, : October 15, : October 22, :  2012-2016  
+                :    2016     :    2017     :    2017     :   Average   
+------------------------------------------------------------------------
+                :                        percent                        
+                :                                                       
+Arkansas .......:     26            16            23            18      
+California .....:      3             -             1             6      
+Colorado .......:     84            53            65            78      
+Idaho ..........:     75            50            58            60      
+Illinois .......:     35            13            38            31      
+Indiana ........:     38            21            39            36      
+Kansas .........:     61            25            41            63      
+Michigan .......:     49            49            69            51      
+Missouri .......:     26            15            25            24      
+Montana ........:     77            53            66            68      
+Nebraska .......:     93            66            77            82      
+North Carolina .:      4             4             7             5      
+Ohio ...........:     41            33            52            44      
+Oklahoma .......:     62            35            55            63      
+Oregon .........:     38            39            50            33      
+South Dakota ...:     79            67            80            61      
+Texas ..........:     41            35            53            47      
+Washington .....:     70            59            72            70      
+                :                                                       
+18 States ......:     58            37            52            57      
+------------------------------------------------------------------------
+-  Represents zero.                                                     
+
+Pasture and Range Condition - Selected States: Week Ending October 22, 2017
+[National pasture and range conditions for selected States are weighted
+based on pasture acreage and/or livestock inventories]
+----------------------------------------------------------------------------
+      State     : Very poor :   Poor    :   Fair    :   Good    : Excellent 
+----------------------------------------------------------------------------
+                :                          percent                          
+                :                                                           
+Alabama ........:     -           5          20           66          9     
+Arizona ........:     1          12          37           44          6     
+Arkansas .......:    12          31          35           21          1     
+California .....:    10          35          25           30          -     
+Colorado .......:     1           8          22           54         15     
+Connecticut ....:     -          50          50            -          -     
+Delaware .......:     4          16          52           27          1     
+Florida ........:     2           7          35           48          8     
+Georgia ........:     2          10          32           52          4     
+Idaho ..........:     1           3          31           62          3     
+Illinois .......:    11          22          44           21          2     
+Indiana ........:     7          22          35           33          3     
+Iowa ...........:    12          18          35           31          4     
+Kansas .........:     4          14          35           44          3     
+Kentucky .......:     3           8          25           56          8     
+Louisiana ......:     3          12          48           33          4     
+Maine ..........:    25          33          27           15          -     
+Maryland .......:     3           8          60           27          2     
+Massachusetts ..:     -          10          20           70          -     
+Michigan .......:     7          21          33           35          4     
+Minnesota ......:     3          12          32           50          3     
+Mississippi ....:     2          13          30           46          9     
+Missouri .......:     4          11          44           38          3     
+Montana ........:    38          26          21           13          2     
+Nebraska .......:     2          11          43           39          5     
+Nevada .........:     -          10          30           45         15     
+New Hampshire ..:     2          20          41           30          7     
+New Jersey .....:     -           9          28           56          7     
+New Mexico .....:     4          19          32           39          6     
+New York .......:     2           7          25           40         26     
+North Carolina .:     3           9          32           48          8     
+North Dakota ...:    26          28          31           15          -     
+Ohio ...........:     6          18          30           43          3     
+Oklahoma .......:     2           6          42           46          4     
+Oregon .........:    16          21          42           14          7     
+Pennsylvania ...:     3          12          43           40          2     
+Rhode Island ...:     -           -           -          100          -     
+South Carolina .:     -           6          31           59          4     
+South Dakota ...:    29          23          25           23          -     
+Tennessee ......:     3          10          32           48          7     
+Texas ..........:     5          15          36           36          8     
+Utah ...........:     3          10          40           37         10     
+Vermont ........:     -          32          68            -          -     
+Virginia .......:     7          29          40           23          1     
+Washington .....:    25          31          30           13          1     
+West Virginia ..:     1          39          32           25          3     
+Wisconsin ......:     6          10          26           41         17     
+Wyoming ........:     6          18          48           26          2     
+                :                                                           
+48 States ......:     8          16          34           37          5     
+                :                                                           
+Previous week ..:     9          16          35           35          5     
+Previous year ..:     8          14          33           39          6     
+----------------------------------------------------------------------------
+-  Represents zero.                                                         
+
+Days Suitable for Fieldwork - Selected States
+[Days suitable for Fieldwork are weighted based on
+cropland acreage]
+-----------------------------------------------------------
+                 :               Week ending               
+                 :-----------------------------------------
+      State      : October 22, : October 15, : October 22, 
+                 :    2016     :    2017     :    2017     
+-----------------------------------------------------------
+                 :                  Days                   
+                 :                                         
+Alabama .........:     6.7           5.2           6.0     
+Arizona .........:     7.0           7.0           7.0     
+Arkansas ........:     6.0           6.2           6.2     
+California ......:     6.3           7.0           7.0     
+Colorado ........:     6.9           6.0           6.7     
+Connecticut .....:     6.0           5.0           7.0     
+Delaware ........:     6.0           3.0           5.5     
+Florida .........:     6.7           6.0           6.4     
+Georgia .........:     6.7           5.7           6.5     
+Idaho ...........:     4.8           6.1           6.4     
+Illinois ........:     5.3           3.7           5.3     
+Indiana .........:     4.4           3.3           6.1     
+Iowa ............:     6.1           2.0           5.0     
+Kansas ..........:     6.7           4.4           6.2     
+Kentucky ........:     5.6           3.9           6.0     
+Louisiana .......:     6.7           6.8           6.2     
+Maine ...........:     5.9           5.0           6.5     
+Maryland ........:     6.0           3.5           7.0     
+Massachusetts ...:     6.1           6.0           7.0     
+Michigan ........:     4.9           4.2           5.6     
+Minnesota .......:     5.8           4.2           5.6     
+Mississippi .....:     6.2           6.2           6.5     
+Missouri ........:     6.1           4.1           4.9     
+Montana .........:     5.4           5.0           6.1     
+Nebraska ........:     6.5           3.6           6.5     
+Nevada ..........:     6.2           7.0           6.1     
+New Hampshire ...:     4.8           6.0           7.0     
+New Jersey ......:     6.0           5.5           6.5     
+New Mexico ......:     6.8           5.6           6.9     
+New York ........:     4.0           4.5           6.5     
+North Carolina ..:     5.9           5.5           6.6     
+North Dakota ....:     5.9           6.5           6.7     
+Ohio ............:     4.1           3.1           6.2     
+Oklahoma ........:     6.6           5.6           5.9     
+Oregon ..........:     4.9           5.7           5.0     
+Pennsylvania ....:     5.0           3.5           6.5     
+Rhode Island ....:     7.0           5.5           5.0     
+South Carolina ..:     6.2           5.6           6.7     
+South Dakota ....:     6.0           5.3           6.3     
+Tennessee .......:     6.0           4.5           6.1     
+Texas ...........:     6.6           6.4           6.6     
+Utah ............:     6.2           7.0           6.8     
+Vermont .........:     4.4           6.5           7.0     
+Virginia ........:     6.4           5.1           6.7     
+Washington ......:     3.6           5.7           4.3     
+West Virginia ...:     5.0           5.3           6.7     
+Wisconsin .......:     5.7           3.6           5.0     
+Wyoming .........:     6.5           5.9           6.6     
+-----------------------------------------------------------
+
+Topsoil Moisture Condition - Selected States: Week Ending
+October 22, 2017
+[National topsoil moisture conditions for selected States are
+weighted based on cropland acreage]
+----------------------------------------------------------------
+      State     :Very short :   Short   : Adequate  :  Surplus  
+----------------------------------------------------------------
+                :                    percent                    
+                :                                               
+Alabama ........:     1          14           76          9     
+Arizona ........:     1          19           80          -     
+Arkansas .......:    26          45           29          -     
+California .....:    50          30           20          -     
+Colorado .......:     1          10           87          2     
+Connecticut ....:    30          10           60          -     
+Delaware .......:    16          51           33          -     
+Florida ........:     -          10           52         38     
+Georgia ........:    12          45           41          2     
+Idaho ..........:     7          22           68          3     
+Illinois .......:     8          18           68          6     
+Indiana ........:     4          19           74          3     
+Iowa ...........:     3           6           79         12     
+Kansas .........:     2          13           79          6     
+Kentucky .......:     1          14           78          7     
+Louisiana ......:    13          39           41          7     
+Maine ..........:    22          21           52          5     
+Maryland .......:    16          50           34          -     
+Massachusetts ..:    15          40           45          -     
+Michigan .......:     3          15           76          6     
+Minnesota ......:     -           2           81         17     
+Mississippi ....:    13          40           44          3     
+Missouri .......:     4          15           69         12     
+Montana ........:    18          30           47          5     
+Nebraska .......:     2           8           84          6     
+Nevada .........:    20          40           40          -     
+New Hampshire ..:    11          33           56          -     
+New Jersey .....:     -           9           84          7     
+New Mexico .....:     2          18           73          7     
+New York .......:     -          13           78          9     
+North Carolina .:     9          36           53          2     
+North Dakota ...:    11          29           57          3     
+Ohio ...........:     2          19           75          4     
+Oklahoma .......:     2          11           86          1     
+Oregon .........:     9          35           53          3     
+Pennsylvania ...:     3          29           68          -     
+Rhode Island ...:     -           -          100          -     
+South Carolina .:     5          42           53          -     
+South Dakota ...:    14          21           63          2     
+Tennessee ......:     6          20           73          1     
+Texas ..........:     5          28           64          3     
+Utah ...........:     3          32           65          -     
+Vermont ........:     -          78           22          -     
+Virginia .......:    11          37           52          -     
+Washington .....:    15          27           57          1     
+West Virginia ..:     2          54           43          1     
+Wisconsin ......:     1           8           85          6     
+Wyoming ........:     5          27           64          4     
+                :                                               
+48 States ......:     7          20           67          6     
+                :                                               
+Previous week ..:     8          19           64          9     
+Previous year ..:     8          19           64          9     
+----------------------------------------------------------------
+-  Represents zero.                                             
+
+Subsoil Moisture Condition - Selected States: Week Ending
+October 22, 2017
+[National subsoil moisture conditions for selected States are
+weighted based on cropland acreage]
+----------------------------------------------------------------
+      State     :Very short :   Short   : Adequate  :  Surplus  
+----------------------------------------------------------------
+                :                    percent                    
+                :                                               
+Alabama ........:     1          15           76          8     
+Arizona ........:     1          18           81          -     
+Arkansas .......:    23          42           35          -     
+California .....:    40          35           25          -     
+Colorado .......:     2          14           82          2     
+Connecticut ....:     5          28           66          1     
+Delaware .......:    10          49           34          7     
+Florida ........:     -           9           52         39     
+Georgia ........:     9          38           51          2     
+Idaho ..........:     8          25           64          3     
+Illinois .......:    13          26           59          2     
+Indiana ........:     6          27           64          3     
+Iowa ...........:     7          15           71          7     
+Kansas .........:     3          17           77          3     
+Kentucky .......:     2          14           80          4     
+Louisiana ......:     9          34           54          3     
+Maine ..........:    21          21           47         11     
+Maryland .......:     9          33           58          -     
+Massachusetts ..:     5          28           65          2     
+Michigan .......:    10          33           54          3     
+Minnesota ......:     2           5           79         14     
+Mississippi ....:    11          38           48          3     
+Missouri .......:     6          26           66          2     
+Montana ........:    32          36           31          1     
+Nebraska .......:     3          14           80          3     
+Nevada .........:    15          20           65          -     
+New Hampshire ..:     8          15           77          -     
+New Jersey .....:     -           7           93          -     
+New Mexico .....:     1          23           75          1     
+New York .......:     4          10           73         13     
+North Carolina .:     7          27           64          2     
+North Dakota ...:    13          30           55          2     
+Ohio ...........:     4          23           71          2     
+Oklahoma .......:     1          12           86          1     
+Oregon .........:    22          41           37          -     
+Pennsylvania ...:     7          10           83          -     
+Rhode Island ...:     -           -          100          -     
+South Carolina .:     -          40           60          -     
+South Dakota ...:    23          26           50          1     
+Tennessee ......:     6          19           73          2     
+Texas ..........:     7          22           66          5     
+Utah ...........:     3          32           65          -     
+Vermont ........:     -          51           49          -     
+Virginia .......:    13          38           49          -     
+Washington .....:     7          35           57          1     
+West Virginia ..:     3          50           46          1     
+Wisconsin ......:     1          11           83          5     
+Wyoming ........:     9          29           62          -     
+                :                                               
+48 States ......:     9          23           64          4     
+                :                                               
+Previous week ..:    10          23           62          5     
+Previous year ..:     8          20           64          8     
+----------------------------------------------------------------
+-  Represents zero.                                             
+
+Crop Progress and Condition Tables Expected Next Week
+
+Corn: Harvested, Condition			Sugarbeets: Harvested
+Cotton: Bolls Opening, Harvested, Condition	Sunflowers: Harvested
+Pasture and Range: Condition			Winter Wheat: Planted, Emerged, 
+Condition
+Peanuts: Harvested				Days Suitable for Fieldwork
+Sorghum: Mature, Harvested			Topsoil Moisture Condition
+Soybeans: Harvested				Subsoil Moisture Condition
+
+Statistical Methodology
+
+Survey Procedures: Crop progress and condition estimates are based on survey 
+data collected each week from early April through the end of November. The 
+non-probability crop progress and condition surveys include input from 
+approximately 3,600 respondents whose occupations provide them opportunities 
+to make visual observations and frequently bring them in contact with farmers 
+in their counties. Based on standard definitions, these respondents 
+subjectively estimate the progress of crops through various stages of 
+development, as well as the progress of producer activities. They also 
+provide subjective evaluations of crop conditions.
+
+Most respondents complete their questionnaires on Friday or early Monday 
+morning and submit them to the National Agricultural Statistics Service 
+(NASS) Field Offices in their States by mail, telephone, fax, e-mail, or 
+through a secured internet website. A small number of reports are completed 
+on Thursday, Saturday, and Sunday. Regardless of when questionnaires are 
+completed, respondents are asked to report for the entire week ending on 
+Sunday. For reports submitted prior to the Sunday reference date, a degree of 
+uncertainty is introduced by projections for weekend changes in progress and 
+condition. By the end of the 2016 season, over 95 percent of the data were 
+being submitted through the internet website. As a result, the majority of 
+all data are submitted on Monday morning, significantly reducing projection 
+uncertainty.
+
+Respondents are sent written reporting instructions at the beginning of each 
+season and are contacted periodically to ensure proper reporting. Terms and 
+definitions of crop stages and condition categories used as reporting 
+guidelines are available on the NASS website at 
+www.nass.usda.gov/Publications/National_Crop_Progress.
+
+Estimating Procedures: Reported data are reviewed for reasonableness and 
+consistency by comparing with data reported the previous week and data 
+reported in surrounding counties for the current week. Field Offices 
+summarize the reported data to district and State levels, weighting each 
+county's reported data by NASS county acreage estimates. Summarized 
+indications are compared with previous week estimates, and progress items are 
+compared with earlier stages of development and historical averages to ensure 
+reasonableness. Weather events and respondent comments are also taken into 
+consideration. State estimates are submitted to the Agricultural Statistics 
+Board (ASB) along with supporting comments, where they are compared with 
+surrounding States and compiled into a National level summary by weighting 
+each State by its acreage estimates. National crop planting progress, 
+progress of development stages, and condition estimates are weighted using 
+the program State's average planted acres over the previous three crop years. 
+National crop harvest progress estimates are weighted using the program 
+State's average harvested acres over the previous three crop years. Pasture 
+and range condition is weighted using pasture acreage and/or livestock 
+inventories from the most recent Census of Agriculture. Days suitable for 
+fieldwork, topsoil moisture and subsoil moisture are weighted using cropland 
+acreage from the Census of Agriculture.
+ 
+Revision Policy: Progress and condition estimates in the Crop Progress report 
+are released after 4:00 pm ET on the first business day of the week. These 
+estimates are subject to revision the following week.
+
+Information Contacts
+
+Listed below are the commodity statisticians in the Crops Branch of 
+the National Agricultural Statistics Service to contact for 
+additional information. E-mail inquiries may be sent to 
+nass@nass.usda.gov
+
+Lance Honig, Chief, Crops Branch.................... (202) 720-2127
+
+Anthony Prillaman, Head, Field Crops Section........ (202) 720-2127
+     Chris Hawthorn - Corn, Flaxseed, Proso Millet.. (202) 720-9526
+     James Johanson - County Estimates, Hay......... (202) 690-8533
+     Jeff Lemmons - Oats, Soybeans.................. (202) 690-3234
+     Scott Matthews - Crop Weather, Barley.......... (202) 720-7621
+     Sammy Neal - Peanuts, Rice..................... (202) 720-7688
+     Jean Porter - Rye, Wheat....................... (202) 720-8068
+Bianca Pruneda - Cotton, Cotton Ginnings, Sorghum... (202) 720-5944
+     Travis Thorson - Sunflower, Other Oilseeds..... (202) 720-7369
+
+Access to NASS Reports
+
+For your convenience, you may access NASS reports and products the following 
+ways:
+
+ 	All reports are available electronically, at no cost, on the NASS web 
+site: www.nass.usda.gov
+
+ 	Both national and state specific reports are available via a free e-
+mail subscription. To set-up this free subscription, visit 
+www.nass.usda.gov and click on "National" or "State" in upper right 
+corner above "search" box to create an account and select the reports 
+you would like to receive.
+
+For more information on NASS surveys and reports, call the NASS Agricultural 
+Statistics Hotline at (800) 727-9540, 7:30 a.m. to 4:00 p.m. ET, or e-mail: 
+nass@nass.usda.gov. 
+  
+The U.S. Department of Agriculture (USDA) prohibits discrimination against 
+its customers, employees, and applicants for employment on the basis of race, 
+color, national origin, age, disability, sex, gender identity, religion, 
+reprisal, and where applicable, political beliefs, marital status, familial 
+or parental status, sexual orientation, or all or part of an individual's 
+income is derived from any public assistance program, or protected genetic 
+information in employment or in any program or activity conducted or funded 
+by the Department. (Not all prohibited bases will apply to all programs 
+and/or employment activities.) 
+If you wish to file a Civil Rights program complaint of discrimination, 
+complete the USDA Program Discrimination Complaint Form (PDF), found online 
+at http://www.ascr.usda.gov/complaint_filing_cust.html, or at any USDA 
+office, or call (866) 632-9992 to request the form. You may also write a 
+letter containing all of the information requested in the form. Send your 
+completed complaint form or letter to us by mail at U.S. Department of 
+Agriculture, Director, Office of Adjudication, 1400 Independence Avenue, 
+S.W., Washington, D.C. 20250-9410, by fax (202) 690-7442 or email at 
+program.intake@usda.gov. 
+

@@ -1,0 +1,579 @@
+{
+  "prices": {
+    "baseline_window": [
+      "2025-09-01",
+      "2025-11-30"
+    ],
+    "baseline_midwest": 3.740769230769231,
+    "baseline_us": 3.7496153846153857,
+    "latest_date": "2026-09-28",
+    "latest_midwest": 6.526,
+    "latest_us": 6.382,
+    "peak_midwest": 6.68,
+    "peak_midwest_date": "2026-09-21",
+    "shock_midwest": 2.7852307692307687,
+    "shock_nd_aaa": 2.3992307692307686,
+    "avg_2025_midwest": 3.620711538461539
+  },
+  "notes": {
+    "vius": {
+      "pickup_share_of_ag_trucks": {
+        "p": 0.6798118226619532,
+        "lo": 0.6632972629872695,
+        "hi": 0.6963263823366368,
+        "n": 3066.0
+      },
+      "diesel_share_of_ag_pickups": {
+        "p": 0.3285953098303001,
+        "lo": 0.2577786262289866,
+        "hi": 0.3994119934316136,
+        "n": 169.0
+      },
+      "diesel_pickup_miles_per_year": {
+        "p": 8775.049874873652,
+        "lo": 6822.383459788603,
+        "hi": 10727.7162899587,
+        "n": 63.0
+      },
+      "diesel_pickup_mpg": {
+        "p": 14.277385928368115,
+        "lo": 13.319869736119426,
+        "hi": 15.234902120616805,
+        "n": 53.0
+      },
+      "own_facility_share_diesel_pickups": {
+        "p": 0.14974929355794855,
+        "lo": 0.061635948548302705,
+        "hi": 0.2378626385675944,
+        "n": 63.0
+      },
+      "own_facility_share_diesel_class6to8": {
+        "p": 0.5275063552384176,
+        "lo": 0.5070270627145689,
+        "hi": 0.5479856477622663,
+        "n": 2283.0
+      },
+      "own_facility_share_diesel_ND_all": {
+        "p": 0.4863829520001674,
+        "lo": 0.3969547836574465,
+        "hi": 0.5758111203428883,
+        "n": 120.0
+      }
+    },
+    "acre_weighted_farm_size": 2797.4023283421943,
+    "cropland_density": 0.49425684495933675,
+    "border_share_cropland": 0.25788603129930937,
+    "dyed_price_2025": 3.187711538461539,
+    "per_diesel_pickup_window_gal": 106.08368067058636,
+    "beans_share_after_sep29": 0.3970588235294118,
+    "potato_share_after_sep29": 0.3574074074074074,
+    "nh3_tons": 396158.5365853659,
+    "auction_round_trip_mi": 79.55737469292752
+  },
+  "derived": {
+    "done_by_nov30_corn": {
+      "low": 0.7347826086956522,
+      "central": 0.923913043478261,
+      "high": 0.9684782608695652,
+      "how": "ND % harvested near Nov 30, 2016-2025 (10th pct / median / 90th pct = 76% / 93% / 97%), converted to share of the 92% still in the field on Sept 27, 2026"
+    },
+    "done_by_nov30_soybeans": {
+      "low": 0.9205128205128205,
+      "central": 0.9935897435897436,
+      "high": 1.0,
+      "how": "ND % harvested near Nov 30, 2016-2025 (10th pct / median / 90th pct = 94% / 100% / 100%), converted to share of the 78% still in the field on Sept 27, 2026"
+    },
+    "done_by_nov30_sugarbeets": {
+      "low": 0.9866666666666667,
+      "central": 0.9866666666666667,
+      "high": 1.0,
+      "how": "ND % harvested near Nov 30, 2016-2025 (10th pct / median / 90th pct = 99% / 99% / 100%), converted to share of the 75% still in the field on Sept 27, 2026"
+    },
+    "done_by_nov30_sunflower": {
+      "low": 0.7639175257731959,
+      "central": 0.9175257731958764,
+      "high": 0.9701030927835051,
+      "how": "ND % harvested near Nov 30, 2016-2025 (10th pct / median / 90th pct = 77% / 92% / 97%), converted to share of the 97% still in the field on Sept 27, 2026"
+    },
+    "offfarm_by_dec1_corn": {
+      "low": 0.334185575796314,
+      "central": 0.366835198492509,
+      "high": 0.399484821188704,
+      "how": "1 - ND on-farm stocks Dec 1 / (production x share harvested by Dec 1), 2024 and 2025 = 0.33, 0.40 (NASS Grain Stocks, Crop Production). Dec 1 stocks include a little old crop, so this slightly understates movement"
+    },
+    "offfarm_by_dec1_soybeans": {
+      "low": 0.5165475416787817,
+      "central": 0.5974595214755232,
+      "high": 0.6783715012722646,
+      "how": "1 - ND on-farm stocks Dec 1 / (production x share harvested by Dec 1), 2024 and 2025 = 0.68, 0.52 (NASS Grain Stocks, Crop Production). Dec 1 stocks include a little old crop, so this slightly understates movement"
+    },
+    "direct_from_field_corn": {
+      "low": 0.33,
+      "central": 0.33,
+      "high": 0.36,
+      "how": "UGPTI DP-284 p. 11: ND corn 33% hauled direct from field; ND wheat 36% as upper value"
+    },
+    "direct_from_field_soybeans": {
+      "low": 0.5165475416787817,
+      "central": 0.66,
+      "high": 0.66,
+      "how": "UGPTI DP-284 p. 11: regional soybeans 66% direct (no ND value); capped below by the observed off-farm share"
+    },
+    "other_fall_crops_tons": {
+      "low": 1007956.1510997443,
+      "central": 1093272.5145780053,
+      "high": 1122474.7597953964,
+      "how": "Sunflower: 2025 production x 2026/2025 acres (0.57 Mt) x 97% unharvested x done-by-Nov-30 range; dry beans: 2026 forecast (0.35 Mt) x 40% harvested after Sept 29; potatoes: 2025 production (1.24 Mt) x 36% after Sept 29 (NASS usual harvest dates, linear between the 5/15/85/95% dates)"
+    },
+    "stored_small_grain_tons_in_window": {
+      "low": 775022.3020223019,
+      "central": 849662.5606874474,
+      "high": 924302.819352593,
+      "how": "ND on-farm wheat and barley stocks fell 22-24% (wheat) and 6-33% (barley) between Sept 1 and Dec 1 in 2024 and 2025; applied to Sept 1, 2026 on-farm stocks and prorated 63/91 days (NASS Grain Stocks). Tons: 0.78 / 0.92 M"
+    },
+    "oneway_miles_to_market": {
+      "low": 21.7,
+      "central": 27.8,
+      "high": 41.7,
+      "how": "UGPTI DP-284: ND corn trip 27.8 mi (T3.56, central; corn dominates in-window tonnage); ND 5-axle wheat 21.7 mi (T3.70, low); regional second-choice delivery point 41.7 mi (T3.46, high)"
+    },
+    "payload_tons_market": {
+      "low": 19.800788,
+      "central": 21.477943200000002,
+      "high": 26.04,
+      "how": "Corn bushels per load by truck type (DP-284 T3.65) weighted by share of ND grain delivered by each type (UGPTI 2024 T12; remainder as single-axle) = 767 bu; low weights by ND truck count (T3.34) = 707 bu; high = all 5-axle semis"
+    },
+    "payload_tons_field_to_bin": {
+      "low": 16.268,
+      "central": 19.800788,
+      "high": 26.04,
+      "how": "Short field-to-bin hauls use the whole farm fleet: truck-count-weighted load (DP-284 T3.34 x T3.65); low tandem, high semi"
+    },
+    "mpg_loaded": {
+      "low": 4.4,
+      "central": 5.1,
+      "high": 6.2,
+      "how": "ORNL TEDB T5.12 Class 8 at 25-55 mph 4.4-5.8 mpg (midpoint central); high = all-trip combination average 6.2 (T5.2)"
+    },
+    "mpg_empty": {
+      "low": 5.8,
+      "central": 6.2,
+      "high": 7.6,
+      "how": "Empty return: between the Class 8 test upper value 5.8 and the single-unit average 7.6 (TEDB); central = combination average 6.2"
+    },
+    "oneway_miles_field_to_bin": {
+      "low": 1.4241477759004963,
+      "central": 2.0140490995019613,
+      "high": 2.8482955518009927,
+      "how": "Acre-weighted ND farm size 2,797 harvested acres (Census Table 9); cropland is 49% of ND land (Census, Gazetteer); fields spread over a disk around the yard in which the farm operates a share f of cropland (BOUND 0.25-1.0); mean distance 2r/3 x 4/pi grid-road factor"
+    },
+    "oneway_miles_beets": {
+      "low": 8.631177061574062,
+      "central": 10.98955595240714,
+      "high": 12.286697076059903,
+      "how": "Land area of the 6 ND Red River Valley counties (7,899 sq mi, Census Gazetteer) / 15 ND receiving sites (ACS 12 + Minn-Dak 3) = service disk; mean distance 2r/3 x 4/pi. Low = straight-line; high = ACS sites only. Check: news example haul 10 mi"
+    },
+    "other_ag_hauling_gal": {
+      "low": 0.0,
+      "central": 759021.6949014316,
+      "high": 1518043.3898028631,
+      "how": "Calves: 860,000 calf crop x share shipped in window (BOUND 0-1) / 80 head per pot load x 80-mi round trip (ND land / 10 auction markets -> service disk) / 6.2 mpg. Fall anhydrous: corn acres x 146 lb N / 0.82 = 396k t NH3 x fall share (BOUND 0-1) / 2.1-t nurse tank x round trip to market distance / 7.6 mpg"
+    },
+    "onhand_share_trucks": {
+      "low": 0.4863829520001674,
+      "central": 0.5275063552384176,
+      "high": 0.5479856477622663,
+      "how": "VIUS 2021: diesel Class 6-8 ag trucks refueled mainly at own facility = 53% (central); ND ag diesel vehicles 49% (low); upper 95% bound (high)"
+    },
+    "border_loss_share": {
+      "low": 0.027253456753540222,
+      "central": 0.0348235770486154,
+      "high": 0.052073751737828855,
+      "how": "Share of ND harvested cropland in MN/SD border counties (26%, Census Table 8) x average share of a delivery disk (radius = one-way haul / 4/pi) lying across the state line for farms spread evenly across a 34-mi-deep county"
+    },
+    "risk_acceptance": {
+      "low": 1.0,
+      "central": 1.0,
+      "high": 1.0,
+      "how": "ASSUMPTION: Author's choice: every operator with dyed fuel on hand uses it on-road. Federal penalty exposure remains (no IRS relief as of Oct 2, 2026), so this is an upper bound on this factor; actual use could be lower."
+    },
+    "annual_farm_diesel_gal": {
+      "low": 112876273.6711289,
+      "central": 133291836.83556445,
+      "high": 194938000.0,
+      "how": "Low: ERS 2025 ND diesel expense $359.8M / $3.19 (EIA 2025 Midwest retail avg less highway taxes, plus dyed taxes) = 113M gal; high: EIA farm distillate 2020 = 195M; central: mean of ERS-implied and EIA 2016-20 average (154M)"
+    },
+    "pavement_inflator": {
+      "low": 1.945296167247387,
+      "central": 3.2252475000000005,
+      "high": 3.2252475000000005,
+      "how": "Central/high: NHCCI 2026Q1 (2003Q1=1) x FHWA Bid Price Index 2003/2000 = 3.23; low: CPI-U Aug 2026 / 2000 = 1.95"
+    }
+  },
+  "gallons_headline": {
+    "low": 2318077.068727159,
+    "central": 3176556.701461612,
+    "high": 4458813.129889633
+  },
+  "gallons_corners": {
+    "low": 1067229.585585633,
+    "central": 3176556.701461612,
+    "high": 6555304.07372593
+  },
+  "gallons_by_risk_acceptance": {
+    "low": 3176556.701461612,
+    "central": 3176556.701461612,
+    "high": 3176556.701461612
+  },
+  "ceiling_switched_gal": 3176556.701461612,
+  "eligible_gal_central": 6239103.800555273,
+  "components_central": {
+    "harvest_to_market": 3860467.81469632,
+    "field_to_bin": 428524.6790972486,
+    "sugarbeets_to_station": 798069.1457990359,
+    "stored_small_grain_to_market": 393020.4660612372,
+    "livestock_and_fertilizer": 759021.6949014316
+  },
+  "components_low": {
+    "harvest_to_market": 1541264.719807075,
+    "field_to_bin": 160658.3959853679,
+    "sugarbeets_to_station": 423681.3415409467,
+    "stored_small_grain_to_market": 189150.17982293022,
+    "livestock_and_fertilizer": 0.0
+  },
+  "components_high": {
+    "harvest_to_market": 8017631.133847531,
+    "field_to_bin": 886933.6893036372,
+    "sugarbeets_to_station": 1097079.779083234,
+    "stored_small_grain_to_market": 778013.907710473,
+    "livestock_and_fertilizer": 1518043.3898028631
+  },
+  "tons_central": {
+    "corn": 13768300.000000002,
+    "soybeans": 4736025.0,
+    "sugarbeets": 4364520.0,
+    "other_fall": 1093272.5145780053,
+    "stored_small_grain": 849662.5606874474,
+    "market": 8345863.00748845,
+    "bin": 11788856.48278294
+  },
+  "gal_per_ton_central": {
+    "market": 0.4625606496574959,
+    "field_to_bin": 0.036349978449825765,
+    "beets": 0.1828538180141312
+  },
+  "fall_farm_diesel": {
+    "harvest_gal_per_acre": {
+      "corn": 3.44,
+      "platform": 3.48
+    },
+    "inwindow_harvest_share": {
+      "corn": 0.8500000000000001,
+      "soybeans": 0.775,
+      "sunflower": 0.89,
+      "dry_beans": 0.3970588235294118,
+      "sugarbeets": 0.74
+    },
+    "window_harvest_by_crop": {
+      "corn": 13011800.000000002,
+      "sugarbeets": 514211.2,
+      "soybeans": 18312630.0,
+      "sunflower": 1873806.0,
+      "dry_beans": 607976.4705882353
+    },
+    "window_harvest_gal": 34320423.67058824,
+    "window_tillage_gal": 1644808.2,
+    "window_nh3_gal": 1223750.0,
+    "window_onroad_eligible_gal": 6239103.800555273,
+    "window_farm_diesel_gal": 43428085.67114352,
+    "annual_farm_diesel_gal": 133291836.83556445,
+    "window_share_of_annual": 0.32581204297393396,
+    "ndsu_gal_per_acre": {
+      "corn": 8.821824381926684,
+      "soybeans": 4.97612958226769,
+      "spring_wheat": 6.202046035805627,
+      "durum": 5.982381358340438,
+      "barley": 6.49616368286445,
+      "oats": 7.22676896845695,
+      "canola": 5.492469451548736,
+      "sunflower": 6.392156862745099,
+      "dry_beans": 6.236146632566071
+    },
+    "ndsu_implied_annual_crop_gal": 128887122.76214835,
+    "fleet_grain_trucks": 26227.253982114093,
+    "fleet_grain_truck_annual_gal": 18444689.288646862,
+    "pickups_annual_gal": 11246010.84576003,
+    "onroad_share_of_annual": 0.22274957596266637
+  },
+  "fleet_crosscheck": {
+    "annual_crop_tons": 41322800.0,
+    "window_market_tons": 13560045.568175897,
+    "window_share_of_tonnage": 0.3281492437147506,
+    "fleet_based_window_gal": 6052610.8406230295,
+    "bottom_up_same_legs_gal": 5051557.426556593
+  },
+  "tornado": [
+    {
+      "parameter": "oneway_miles_to_market",
+      "gal_at_low_value": 2701369.5596552165,
+      "gal_at_high_value": 4259360.188528645,
+      "swing_gal": 1557990.6288734283,
+      "swing_pct_of_central": 0.4904652349371124
+    },
+    {
+      "parameter": "other_ag_hauling_gal",
+      "gal_at_low_value": 2790110.9027430024,
+      "gal_at_high_value": 3563002.500180221,
+      "swing_gal": 772891.5974372188,
+      "swing_pct_of_central": 0.24331112902269061
+    },
+    {
+      "parameter": "payload_tons_market",
+      "gal_at_low_value": 3394403.1450548745,
+      "gal_at_high_value": 2725968.9275847566,
+      "swing_gal": 668434.2174701178,
+      "swing_pct_of_central": 0.21042728976396197
+    },
+    {
+      "parameter": "mpg_loaded",
+      "gal_at_low_value": 3420102.1825135956,
+      "gal_at_high_value": 2904952.9852653905,
+      "swing_gal": 515149.1972482051,
+      "swing_pct_of_central": 0.16217220269078536
+    },
+    {
+      "parameter": "onhand_share_trucks",
+      "gal_at_low_value": 2928918.3159784065,
+      "gal_at_high_value": 3299879.6401557284,
+      "swing_gal": 370961.324177322,
+      "swing_pct_of_central": 0.11678095467543002
+    },
+    {
+      "parameter": "done_by_nov30_corn",
+      "gal_at_low_value": 2900598.4151025545,
+      "gal_at_high_value": 3241687.6044228263,
+      "swing_gal": 341089.18932027183,
+      "swing_pct_of_central": 0.1073770190103417
+    },
+    {
+      "parameter": "mpg_empty",
+      "gal_at_low_value": 3263401.776859777,
+      "gal_at_high_value": 2944588.934279672,
+      "swing_gal": 318812.8425801052,
+      "swing_pct_of_central": 0.1003642851498327
+    },
+    {
+      "parameter": "offfarm_by_dec1_corn",
+      "gal_at_low_value": 3064434.618103076,
+      "gal_at_high_value": 3288678.784820148,
+      "swing_gal": 224244.16671707202,
+      "swing_pct_of_central": 0.07059347204911902
+    },
+    {
+      "parameter": "offfarm_by_dec1_soybeans",
+      "gal_at_low_value": 3088489.312487206,
+      "gal_at_high_value": 3266329.4924774026,
+      "swing_gal": 177840.1799901966,
+      "swing_pct_of_central": 0.05598520558703327
+    },
+    {
+      "parameter": "oneway_miles_field_to_bin",
+      "gal_at_low_value": 3112653.9502930203,
+      "gal_at_high_value": 3266928.838837187,
+      "swing_gal": 154274.88854416646,
+      "swing_pct_of_central": 0.04856670383789491
+    },
+    {
+      "parameter": "oneway_miles_beets",
+      "gal_at_low_value": 3089358.333604593,
+      "gal_at_high_value": 3224517.01407397,
+      "swing_gal": 135158.68046937697,
+      "swing_pct_of_central": 0.04254880147651296
+    },
+    {
+      "parameter": "payload_tons_field_to_bin",
+      "gal_at_low_value": 3223936.5482433643,
+      "gal_at_high_value": 3124281.104386822,
+      "swing_gal": 99655.44385654246,
+      "swing_pct_of_central": 0.03137215961254164
+    },
+    {
+      "parameter": "border_loss_share",
+      "gal_at_low_value": 3201471.2308495753,
+      "gal_at_high_value": 3119783.497405461,
+      "swing_gal": 81687.73344411422,
+      "swing_pct_of_central": 0.025715811528416187
+    },
+    {
+      "parameter": "done_by_nov30_soybeans",
+      "gal_at_low_value": 3124179.7446918287,
+      "gal_at_high_value": 3181149.7899547904,
+      "swing_gal": 56970.04526296165,
+      "swing_pct_of_central": 0.017934528049427963
+    },
+    {
+      "parameter": "stored_small_grain_tons_in_window",
+      "gal_at_low_value": 3158978.427819937,
+      "gal_at_high_value": 3194134.975103286,
+      "swing_gal": 35156.54728334909,
+      "swing_pct_of_central": 0.011067501885665286
+    },
+    {
+      "parameter": "other_fall_crops_tons",
+      "gal_at_low_value": 3167050.233504473,
+      "gal_at_high_value": 3179810.593178485,
+      "swing_gal": 12760.359674011823,
+      "swing_pct_of_central": 0.004017041366880203
+    },
+    {
+      "parameter": "direct_from_field_corn",
+      "gal_at_low_value": 3176556.701461612,
+      "gal_at_high_value": 3168460.7159900162,
+      "swing_gal": 8095.985471595544,
+      "swing_pct_of_central": 0.00254866707333459
+    },
+    {
+      "parameter": "direct_from_field_soybeans",
+      "gal_at_low_value": 3184067.652987723,
+      "gal_at_high_value": 3176556.701461612,
+      "swing_gal": 7510.951526110992,
+      "swing_pct_of_central": 0.0023644947129874993
+    },
+    {
+      "parameter": "done_by_nov30_sugarbeets",
+      "gal_at_low_value": 3176556.701461612,
+      "gal_at_high_value": 3182047.5972575056,
+      "swing_gal": 5490.895795893855,
+      "swing_pct_of_central": 0.001728568482145261
+    },
+    {
+      "parameter": "done_by_nov30_sunflower",
+      "gal_at_low_value": 3176556.701461612,
+      "gal_at_high_value": 3176556.701461612,
+      "swing_gal": 0.0,
+      "swing_pct_of_central": 0.0
+    },
+    {
+      "parameter": "annual_farm_diesel_gal",
+      "gal_at_low_value": 3176556.701461612,
+      "gal_at_high_value": 3176556.701461612,
+      "swing_gal": 0.0,
+      "swing_pct_of_central": 0.0
+    },
+    {
+      "parameter": "pavement_inflator",
+      "gal_at_low_value": 3176556.701461612,
+      "gal_at_high_value": 3176556.701461612,
+      "swing_gal": 0.0,
+      "swing_pct_of_central": 0.0
+    }
+  ],
+  "levels": {
+    "low": {
+      "switched_gal": 2318077.068727159,
+      "fiscal": {
+        "state_revenue_forgone": 440434.64305816015,
+        "split": {
+          "state_highway_fund": 264260.7858348961,
+          "counties": 112531.0513013599,
+          "cities": 41621.07376899613,
+          "townships": 14974.777863977446,
+          "public_transit": 7046.954288930562
+        },
+        "federal_revenue_forgone": 0.0
+      },
+      "context": {
+        "savings_total": 440434.6430581602,
+        "per_farm": 17.569596420063835,
+        "per_fall_crop_acre": 0.03849280222497467,
+        "per_cropland_acre": 0.020180678147495325,
+        "per_bushel_corn_soy_cents": 0.06780168229438613,
+        "relief_share_of_shock_on_covered_gal": 0.06821696862571809,
+        "window_farm_diesel_gal": 43428085.67114352,
+        "shock_cost_all_farm_diesel": 120957240.46005878,
+        "relief_share_of_total_farm_fuel_shock": 0.003641242486873664
+      }
+    },
+    "central": {
+      "switched_gal": 3176556.701461612,
+      "fiscal": {
+        "state_revenue_forgone": 603545.7732777062,
+        "split": {
+          "state_highway_fund": 362127.4639666237,
+          "counties": 154205.94507245393,
+          "cities": 57035.07557474324,
+          "townships": 20520.556291442015,
+          "public_transit": 9656.7323724433
+        },
+        "federal_revenue_forgone": 0.0
+      },
+      "context": {
+        "savings_total": 603545.7732777062,
+        "per_farm": 24.07634327739374,
+        "per_fall_crop_acre": 0.05274827593757265,
+        "per_cropland_acre": 0.02765441635841118,
+        "per_bushel_corn_soy_cents": 0.092911444217368,
+        "relief_share_of_shock_on_covered_gal": 0.06821696862571809,
+        "window_farm_diesel_gal": 43428085.67114352,
+        "shock_cost_all_farm_diesel": 120957240.46005878,
+        "relief_share_of_total_farm_fuel_shock": 0.004989744896478543
+      }
+    },
+    "high": {
+      "switched_gal": 4458813.129889633,
+      "fiscal": {
+        "state_revenue_forgone": 847174.4946790301,
+        "split": {
+          "state_highway_fund": 508304.6968074181,
+          "counties": 216453.08339049216,
+          "cities": 80057.98974716834,
+          "townships": 28803.932819087026,
+          "public_transit": 13554.791914864483
+        },
+        "federal_revenue_forgone": 0.0
+      },
+      "context": {
+        "savings_total": 847174.4946790301,
+        "per_farm": 33.79505723149155,
+        "per_fall_crop_acre": 0.07404077037921955,
+        "per_cropland_acre": 0.03881746379706754,
+        "per_bushel_corn_soy_cents": 0.13041629863014584,
+        "relief_share_of_shock_on_covered_gal": 0.06821696862571809,
+        "window_farm_diesel_gal": 43428085.67114352,
+        "shock_cost_all_farm_diesel": 120957240.46005878,
+        "relief_share_of_total_farm_fuel_shock": 0.007003917181450375
+      }
+    }
+  },
+  "levels_corners": {
+    "low": 202773.62126127028,
+    "central": 603545.7732777062,
+    "high": 1245507.7740079267
+  },
+  "road": {
+    "loaded_market_miles": 14135419.984753937,
+    "loaded_miles_switched": 7196861.042213834,
+    "pavement_cents_per_mile_2026": 40.960643250000004,
+    "state_tax_cents_per_loaded_mile": {
+      "clear": 4.509803921568627,
+      "dyed": 0.7843137254901962
+    },
+    "pavement_cost_loaded_market_miles": 5789958.951844266,
+    "local_road_needs_per_year": 618000000.0
+  },
+  "example_farm": {
+    "bushels": 160000.0,
+    "haul_gal": 803.3216506063477,
+    "onroad_gal": 803.3216506063477,
+    "field_gal": 5621.0,
+    "savings": 152.63111361520606,
+    "shock_cost_fall_diesel": 17893.218332704197,
+    "savings_share_of_shock": 0.008530109607852696
+  },
+  "alternatives": {
+    "taxable_highway_diesel_in_window_gal": 59308734.6,
+    "eo_state_cost": 603545.7732777062,
+    "statewide_diesel_holiday_23c": 13641008.957999999,
+    "per_acre_payment_equal_cost_cents": 2.765441635841118
+  }
+}
